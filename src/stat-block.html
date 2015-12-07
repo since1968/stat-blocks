@@ -1,0 +1,80 @@
+<link rel="import" href="content-column.html">
+<template id="stat-block">
+  <style>
+    :host {
+      display: block;
+    }
+
+    #outer-wrap {
+      display: inline-block;
+    }
+
+    #content-wrap {
+      font-family: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial,
+                    sans-serif;
+      font-size: 13.5px;
+      display: flex;
+      justify-content: space-between;
+      background: #FDF1DC;
+      padding: 0.6em;
+      padding-bottom: 0.5em;
+      border: 1px #DDD solid;
+      box-shadow: 0 0 1.5em #867453;
+
+      /* We don't want the box-shadow in front of the bar divs. */
+      position: relative;
+      z-index: 0;
+
+      /* Leaving room for the two bars to protrude outwards */
+      margin-left: 2px;
+      margin-right: 2px;
+    }
+
+    ::content > content-column + content-column {
+      margin-left: 40px;
+    }
+
+    .bar {
+      height: 5px;
+      background: #E69A28;
+      border: 1px solid #000;
+      position: relative;
+      z-index: 1;
+    }
+  </style>
+  <div id="outer-wrap">
+    <div class="bar"></div>
+    <div id="content-wrap">
+      <content></content>
+    </div>
+    <div class="bar"></div>
+  </div>
+</template>
+
+<script>
+(function(window, document) {
+  var elemName = 'stat-block';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+
+        // We support not wrapping the contents inside <stat-block> with
+        // <content-column> to simplify the most common use-case of only a
+        // single column. If the user doesn't do the wrapping, we do it for
+        // them.
+        if (this.firstElementChild.tagName !== 'CONTENT-COLUMN') {
+          var wrap = template.content.getElementById('content-wrap');
+          wrap.innerHTML = '<content-column>' + wrap.innerHTML +
+                           '</content-column>';
+        }
+        var clone = thatDoc.importNode(template.content, true);
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script>
