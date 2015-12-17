@@ -15,26 +15,34 @@
     <top-stats>
       <property-line>
         <h4>Armor Class</h4>
-        <p>15 (chain shirt) / 20 with pavise</p>
+        <p>13 (leather) / 18 with pavise</p>
       </property-line>
       <property-line>
         <h4>Hit Points</h4>
-        <p>32 (5d8 + 10)</p>
+        <p>34 (4d10 + 12)</p>
       </property-line>
       <property-line>
         <h4>Speed</h4>
         <p>30 ft.</p>
       </property-line>
 
-      <abilities-block data-cha="10" data-con="14" data-dex="15" data-int="10" data-str="15" data-wis="11"></abilities-block>
+      <abilities-block data-cha="10" data-con="14" data-dex="14" data-int="11" data-str="13" data-wis="12"></abilities-block>
+
+      <property-line>
+        <h4>Saving Throws</h4>
+        <p>Dex +2 (+6 when protected by pavise)</p>
+      </property-line>
+
+
       <property-line>
         <h4>Skills</h4>
-        <p>Athletics +2, Survival +2. Optional: Animal Handling +2</p>
+        <p>Athletics +1, Survival +1. Optional: Animal Handling +1</p>
       </property-line>
+
 	  
       <property-line>
         <h4>Senses</h4>
-        <p>passive Perception 10</p>
+        <p>passive Perception 11</p>
       </property-line>
       <property-line>
         <h4>Languages</h4>
@@ -42,27 +50,34 @@
       </property-line>
       <property-line>
         <h4>Challenge</h4>
-        <p>2 (450 XP)</p>
+        <p>1 (250 XP)</p>
       </property-line>
     </top-stats>
 
-    <property-block>
-      <h4>Pavise.</h4>
-      <p>The arbalester may use an action to place his pavise in position. The arbalester then fires with <em>three-quarters cover</em> (+5 bonus to AC and Dexterity saving throws). While protected by the pavise, the arblester's movement rate is 0. The arbalester must use one action to stow the shield. The pavise may not be wielded in hand to hand combat.</p>
-    </property-block>
+	<p align="center">
+	
+	<img src="https://raw.githubusercontent.com/since1968/statblocks/arbalester/img/pavise02.jpg" width="380" />
+	
+</p>
+
 
     <property-block>
       <h4>Martial Advantage.</h4>
-      <p>The arbalester has advantage on a ranged attack roll against a creature if at least one of the arbalester's allies is within 5 feet of the arbalester and isn't incapacitated.</p>
+      <p>The arbalester has advantage on a ranged attack roll against a creature if at least one of the arbalester's allies is within 5 feet and isn't incapacitated.</p>
     </property-block>
-	
-    <h3>Battlesystem</h3>
-	
+
+
     <property-block>
-      <h4>Regiment.</h4>
-      <p>The Arbalester belongs to a <em>regiment</em> stand, typically in the <em>defend</em> configuration.</p>
+      <h4>Pavise.</h4>
+      <p>The arbalester fights from behind a large, fixed shield called a <em>pavise</em>. The arbalester may use an action to deploy his pavise in the ground with a spike attached to the bottom. While protected by the pavise, the arbalester adds +5 to his AC and dexterity saving throws, and his movement rate is 0. The arbalester must use one action to stow the pavise on his back, and it may not be wielded in hand to hand combat.</p>
     </property-block>
-	
+
+    <property-block>
+      <p>If the arbalester is subject to an effect that allows him to make a Dexterity saving throw to take only half damage, he can use his reaction to take no damage if he succeeds on his saving throw, interposing his pavise between himself and the source of the effect.</p>
+    </property-block>
+
+
+
 	
 </content-column>
 <content-column>
@@ -71,36 +86,47 @@
 
     <h3>Actions</h3>
 
+
     <property-block>
       <h4>Shortsword.</h4>
-      <p><em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 2) piercing damage.</p>
+      <p><em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
     </property-block>
 
 
     <property-block>
       <h4>Dagger.</h4>
-      <p><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d4 + 3) piercing damage.</p>
+      <p><em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d4 + 3) piercing damage.</p>
     </property-block>
 
 
     <property-block>
       <h4>Heavy Crossbow.</h4>
-      <p><i>Ranged Weapon Attack:</i> +3 to hit, range 100/400 ft., one target.
-        <i>Hit:</i> 8 (1d10 + 3) piercing damage.</p>
+      <p><i>Ranged Weapon Attack:</i> +5 to hit, range 400 ft., one target.
+        <i>Hit:</i> 8 (1d10 + 2) piercing damage.</p>
     </property-block>
 
 
+    <h3>Battlesystem</h3>
+
+    <property-block>
+      <h4>Regiment.</h4>
+      <p>The arbalester typically joins a <em>regiment</em> stand. When setting up the pavise, the regiment may take the <em>defend</em> configuration.</p>
+    </property-block>
+
+    <property-block>
+      <h4>Crouching Turtle, Hidden Pavisier.</h4>
+      <p>The arbalester is trained to move in formation at speed while holding his pavise to defend against missile attacks. When in the <em>defend</em> configuration, his stand gains a +5 bonus to AC and moves at full speed.</p>
+    </property-block>
+
 	
-      <p>Deriving their advantage by fighting as a unit, <strong>Arbalesters</strong> are professional fighers trained to use crossbows in group formation and do not excel as individual fighters. Arbalesters will take up arms for pay or to protect something they believe in or value. Unless overrun, they will not engage in melee combat.</p>
+	<p>Master arbalesters with animal handling skill may be used as mounted infantry but do not fight on horseback. Unless overrun, they do not engage in melee combat.</p>
 	
-	<p><strong>Variant: Mounted Infantry.</strong> Arbalesters with animal handling skill may be used as mounted infantry but do not fight on horseback.</p> 
 	
 	<p align="center">
 	
-	<img src="https://raw.githubusercontent.com/since1968/stat-blocks/master/img/arbalester.jpg" width="380" />
+	<img src="https://raw.githubusercontent.com/since1968/statblocks/arbalester/img/pavise05-genoese.jpg" width="380" />
 	
 </p>
-
 	
   </stat-block>
 </content-column>
