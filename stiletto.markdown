@@ -114,8 +114,6 @@ Maneuvers are presented in alphabetical order. Unless otherwise noted, you must 
 
 **Bloodbath.** You become a master of slicing a foe’s artery to inflict a gushing wound. When you hit a creature with a sneak attack, it must make a Constitution saving throw (DC8 + your Dexterity modifier + your proficiency bonus). On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and constitution saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature can end the condition by casting cure wounds or taking one round to stanch the bleeding.
 
-**The Last Laugh.** Your fighting spirit can delay the grasp of death. If you take damage that would reduce you to 0 hit points, you can delay that damage and immediately take a bonus turn, interrupting the current turn. You don’t take the damage until the bonus turn ends. It is possible to do things, such as gaining resistance, that change how much of that damage you take. Once you use this maneuver, you can’t use it again until you finish a long rest.
-
 **Master Stiletto.** You master control of yourself and of other hostile creatures. As a bonus action you trigger the following effects, which last for one minute or until you end them. You must finish a short or long rest before you can use this maneuver again.
 * Your attacks become deadly. Add an extra 2d6 to the damage roll each time you hit with a sneak attack.
 * You become fearsome on the battlefield. Each creature who is hostile to you, who can see you, and is within 30 feet must make a Wisdom saving throw vs your maneuver DC. On a failed save, the creature is frightened of you for one minute.
