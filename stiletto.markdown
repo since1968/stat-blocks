@@ -132,7 +132,9 @@ Maneuvers are presented in alphabetical order. Unless otherwise noted, you must 
 # Appendix
 
 ### Sources
-The Stiletto archetype is a pastiche of martial strikers. Most of the maneuvers are taken from earlier D&D editions and updated for 5e. Sources include:
+The Stiletto archetype was inspired by Guy Windsor's excellent course [The Medieval Dagger](http://swordschool.teachable.com/p/the-medieval-dagger). You can see him perform medieval dagger maneuvers at his [Sword School](https://www.youtube.com/user/swordschool). Any errors in abstracting medieval dagger fighting for D&D are mine, not his.
+
+The archetype is a pastiche of martial strikers. Most of the maneuvers are taken from earlier D&D editions and updated for 5e. Sources include:
 
 * Complete Warrior
 * Into the Unknown
@@ -140,27 +142,30 @@ The Stiletto archetype is a pastiche of martial strikers. Most of the maneuvers 
 * Player's Handbook
 * Tome of Battle
 * [Unearthed Arcana](http://dnd.wizards.com/articles/unearthed-arcana)
+* Image: Katenspiel Streit, Jan Steen (1625/1626–1679), via Wikimedia Commons
 
-The *Ligadura Mezana* is a lock and counter maneuver documented by [Fiore dei Liberi](https://en.wikipedia.org/wiki/Fiore_dei_Liberi). You can see Guy Windsor perform medieval dagger maneuvers at his [Sword School](https://www.youtube.com/user/swordschool). Any errors in abstracting medieval dagger fighting for D&D are mine, not his. I highly recommend his course [The Medieval Dagger](http://swordschool.teachable.com/p/the-medieval-dagger).
+The *Ligadura Mezana* is a real lock and counter maneuver documented by [Fiore dei Liberi](https://en.wikipedia.org/wiki/Fiore_dei_Liberi).
+
+```
+```
 
 ### To Do
 
-I have play-tested the Stiletto through 3rd level. On paper, the archetype appears overpowered, but plays surprisingly well. Its ability to impose unfavorable conditions makes up for its lack of "almost always on" sneak attacks, but the maneuver save DC is low enough (assuming a standard point array) that your opponents will frequently overcome them.
-
-To do:
+I have play-tested the Stiletto through 3rd level. On paper, the archetype appears overpowered, but plays surprisingly well. Its ability to impose unfavorable conditions makes up for its lack of "almost always on" sneak attacks, but the maneuver save DC is low enough (assuming a standard point array) that your opponents will frequently overcome them. To do:
 
 * Play-test to 20th level.
 * Create more basic maneuvers based on real dagger maneuvers in Fiore, without re-introducing "called shots" from earlier editions.
 * Create more signature maneuvers.
 
-```
-```
 
 ### Credits
 The Stiletto archetype was created by Marc Garrett. Made with the [Homebrewery](http://homebrewery.naturalcrit.com/).
 
 The source code for this archetype is hosted on [Github](https://github.com/since1968/statblocks).
 
+<div class='wide'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Jan_Steen_%2810%29Kartenspiel_Streit.JPG" style='position:absolute;bottom:70px;width:700px' />
+</div>
 
 
 <div class='pageNumber'>4</div>
