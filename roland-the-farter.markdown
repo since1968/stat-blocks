@@ -14,43 +14,31 @@ ___
 > - **Skills** Arcana +4, Athletics +4, Acrobatics +6, Deception +10, History +4, Insight +6, Perception +3, Performance +7, Persuasion +7, Sleight of Hand +6
 > - **Senses** passive Perception 13
 > - **Languages** Common
-> - **Challenge** 5?? (1,800 XP)
+> - **Challenge** 3 (700 XP)
 
-> ***Spellcasting.*** Roland is a 5th level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He has the following spells prepared:
+> **Spellcasting.** Roland is a 5th level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He has the following spells prepared:
 >
-> Cantrips (at-will). mending, minor illusion, vicious mockery.
+> Cantrips (at will): _mending, minor illusion, vicious mockery_.
 >
-> 1st-level spells (4). charm person, faerie fire, fog cloud, grease.
+> 1st-level spells (4): _charm person, faerie fire, fog cloud, grease_.
 >
-> 2nd-level spells (3). crown of madness, invisibility, misty step.
+> 2nd-level spells (3): _crown of madness, invisibility, misty step_.
 >
-> 3rd-level spells (2). dispel magic, stinking cloud.
+> 3rd-level spells (2): _hypnotic pattern, stinking cloud_.
+
+> ***Tumble.*** As a bonus action, Roland can tumble. When he tumbles, Roland gains the benefits of taking the Dash and Disengage actions; gains a climbing speed equal to his current speed; and takes half damage from falling.
+
+> ***Bardic Inspiration.*** As a bonus action, Roland can choose a creature within 60 feet of him that can hear him. That creature gains one Bardic Inspiration die, a d8. Once within the next 10 minutes, the creature can add the number to one ability check, attack roll, or saving throw.
 
 > ### Actions
 
-> ***Countercharm.*** Roland can start a performance that lasts until the end of his next turn. Any friendly creatures within 30 feet of him have advantage on saving throws against being frightened or charmed.
-
 > ***Shortsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) piercing damage.
 
-> ***Fart.*** Roland can fart at will. Ranged Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 7 (2d6) poison damage. The creature must succeed on a Constitution saving throw or be subject to the poisoned condition for one round.
-
-
-> ### Reactions
-> ***Cutting Words.*** Use bardic inspiration die to subtract from a creature’s attack roll, ability check, or damage roll.
-
-
-> ### Bonus Actions
-
-> ***Tumble.*** When he tumbles, Roland gains the benefits of taking the Dash and Disengage actions; gains a climbing speed equal to his current speed; and takes half damage from falling.
-
-> ***Bardic Inspiration.*** Add a d8 to a creature’s ability check, attack roll, or saving throw.
-
-
-Roland travels with a troupe of seven entertainers (actually a mix of *bandit captains* and thieves) in a battle wagon. His troupe pilfers the audience while he performs. If caught, he is reluctant to fight, preferring to slip away via misty step, grease, and noxious cloud (in a pinch).
+> ***Fart.*** Roland can fart at will. Ranged Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (3d6) poison damage. The creature must succeed on a Constitution saving throw or be subject to the poisoned condition for one round.
 
 <div class='wide'>
 <img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/img/roland-the-farter-cropped.png" style='position:absolute;left:0px;bottom:0px;width:820px;z-index:-500' />
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/img/roland-the-farter-cropped.png" style='position:absolute;left:-10px;bottom:0px;width:840px;z-index:-500' />
 </div>
 
 
@@ -59,44 +47,34 @@ Roland travels with a troupe of seven entertainers (actually a mix of *bandit ca
 
 \page
 
-# Appendix
+### Roland the Farter
+Roland the Farter has been the center of attention since before he could walk, and once he learned to sing and fart, he never surrendered the spotlight again. And who deserves it more than him?
+
+Roland travels with a troupe of seven entertainers (actually a mix of **bandit captains** and thieves) in a battle wagon. His troupe pilfers the audience while he performs. If caught, he is reluctant to fight, preferring to slip away via misty step, grease, and noxious cloud (in a pinch).
+
+> #### The Real Roland
+> "Roland, court minstrel to 12th century English king Henry II, probably had many talents.
+>
+> "But history has recorded only one.
+>
+> "Referred to variously Rowland le Sarcere, Roland le Fartere, Roland le Petour, and Roland the Farter, Roland really had a single job in the court: Every Christmas, during the court’s riotous pageant, he performed a dance that ended with “one jump, one whistle, and one fart”, executed simultaneously.
+>
+> "For this, Roland was gifted a manor house in Hemingstone, Suffolk, and more than 100 acres of land. _For farting on cue_."
+>
+> **Atlas Obscura**
+
+```
+```
 
 ### Sources
-The Stiletto archetype was inspired by Guy Windsor's excellent course [The Medieval Dagger](http://swordschool.teachable.com/p/the-medieval-dagger). You can see him perform medieval dagger maneuvers at his [Sword School](https://www.youtube.com/user/swordschool). Any errors in abstracting medieval dagger fighting for D&D are mine, not his.
+You can read about the real Roland at [Atlas Obscura](http://www.atlasobscura.com/articles/the-true-story-of-roland-the-farter-and-how-the-internet-killed-professional-flatulence). Any errors in abstracting the ancient art of farting on demand for D&D are mine alone.
 
-The archetype is a pastiche of martial strikers. Most of the maneuvers are taken from earlier D&D editions and updated for 5e. Sources include:
-
-* Complete Warrior
-* Into the Unknown
-* Martial Power 1 & 2
-* Player's Handbook
-* Tome of Battle
-* [Unearthed Arcana](http://dnd.wizards.com/articles/unearthed-arcana)
-* Image: Katenspiel Streit, Jan Steen (1625/1626–1679), via Wikimedia Commons
-
-The *Ligadura Mezana* is a real lock and counter maneuver documented by [Fiore dei Liberi](https://en.wikipedia.org/wiki/Fiore_dei_Liberi).
-
-```
-```
-
-### To Do
-
-I have play-tested the Stiletto through 3rd level. On paper, the archetype appears overpowered, but plays surprisingly well. Its ability to impose unfavorable conditions makes up for its lack of "almost always on" sneak attacks, but the maneuver save DC is low enough (assuming a standard point array) that your opponents will frequently overcome them. To do:
-
-* Play-test beyond 3rd level.
-* Create more basic maneuvers based on real dagger maneuvers in Fiore, without re-introducing "called shots" from earlier editions.
-* Create more signature maneuvers.
-
+Roland is built as a College of Satire Bard from UA [Kits of Old](http://dnd.wizards.com/articles/unearthed-arcana/kits-old). I have loved this NPC ever since Dragon Magazine [Issue 60](https://annarchive.com/files/Drmg060.pdf) introduced the Jester for AD&D.
 
 ### Credits
 The Stiletto archetype was created by [Marc Garrett](https://github.com/since1968). Styled with  [Homebrewery](http://homebrewery.naturalcrit.com/).
 
 The source code for this archetype, along with other statblocks, is hosted on [Github](https://github.com/since1968/statblocks). See something broken? Please [file an issue](https://github.com/since1968/statblocks/issues).
-
-<div class='wide'>
-<img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/img/jester-Jan_Matejko%2C_Stańczyk.jpg" style='position:absolute;left:0px;bottom:0px;width:820px;z-index:500' />
-</div>
 
 
 <div class='pageNumber'>2</div>
