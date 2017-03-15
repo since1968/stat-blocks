@@ -50,7 +50,7 @@ Roland travels with a troupe of seven entertainers (actually a mix of *bandit ca
 
 <div class='wide'>
 <img
-  src="https://d3vv6lp55qjaqc.cloudfront.net/items/3v3i300h0Z0u3K403626/roland-the-farter-cropped.png?X-CloudApp-Visitor-Id=681909&v=22f852b5" style='position:absolute;left:0px;bottom:0px;width:820px;z-index:-500' />
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/img/roland-the-farter-cropped.png" style='position:absolute;left:0px;bottom:0px;width:820px;z-index:-500' />
 </div>
 
 
