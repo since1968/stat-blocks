@@ -31,7 +31,8 @@ When you make an Attack action with a grapple, you can use a bonus action to att
 
 #### Improved Combat Superiority
 At 9th level, your superiority dice turn in to d10s. At 17th level, they turn into d12s.
-Elegant Courtier
+
+#### Elegant Courtier
 
 Starting at 9th level, your discipline and knowledge of protocol allow you to excel in social situations that require strict adherence to etiquette. You can add your Intelligence modifier to any Charisma check you make to persuade or please a noble of anyone else of high social station.
 
@@ -99,7 +100,7 @@ If you hit with the melee weapon attack, you add the superiority die to the atta
 
 If you attempt a grapple, add the superiority die to the grapple check. If you succeed, the creature is grappled.
 
-**Twist the Knife.** You have learned to twist the blade sharply before retracting it. When you hit a creature with a melee weapon attack, you can expend one superiority die to cause a bleeding wound. Add the superiority die to the attack’s damage roll. The target takes 2d6 damage on each subsequent round. The target may stop the bleeding with a Wisdom (Medicine) check against your Maneuver DC, or by casting cure wounds. Damage from multiple wounds is cumulative.
+**Twist the Knife.** You have learned to twist the blade sharply before retracting it. When you hit a creature with a melee weapon attack, you can expend one superiority die to cause a bleeding wound. Add the superiority die to the attack’s damage roll. The target takes 1d6 damage on each subsequent round at the end of its turn. The target may stop the bleeding with a Wisdom (Medicine) check, or by casting _cure wounds_. Damage from multiple wounds is cumulative.
 
 <div class='pageNumber'>2</div>
 <div class='footnote'>PART 2 | MANEUVERS</div>
@@ -110,7 +111,7 @@ If you attempt a grapple, add the superiority die to the grapple check. If you s
 **Unnerving Flourish.** Your deadly display of combat prowess unnerves your opponents, leaving them cowering in fear and at your mercy. Whenever you reduce a creature to 0 hit points with a melee attack, you can use a bonus action to expend one superiority die, and instead leave the creature at 1 hit point. The creature is frightened of you for a number of minutes equal to your Charisma modifier. It must also make a Charisma saving throw with a DC equal to your maneuver DC + a bonus equal to the roll of your superiority die. If the creature fails this saving throw, it answers truthfully any questions you ask it and obeys your direct orders while it is frightened by this effect.
 
 #### Master Maneuvers
-Maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a light, finesse weapon to use a basic maneuver.
+Maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a light, finesse weapon to use a master maneuver.
 
 **Bloodbath.** You become a master of slicing a foe’s artery to inflict a gushing wound. When you hit a creature with a sneak attack, it must make a Constitution saving throw (DC8 + your Dexterity modifier + your proficiency bonus). On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and constitution saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature can end the condition by casting cure wounds or taking one round to stanch the bleeding.
 
