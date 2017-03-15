@@ -165,7 +165,8 @@ The Stiletto archetype was created by Marc Garrett. Made with the [Homebrewery](
 The source code for this archetype is hosted on [Github](https://github.com/since1968/statblocks).
 
 <div class='wide'>
-<img src="https://raw.githubusercontent.com/since1968/statblocks/master/img/stiletto.png" style='position:absolute;bottom:70px;width:700px' />
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/img/stiletto.png" style='position:absolute;left:0px;bottom:0px;width:820px;z-index:500' />
 </div>
 
 
