@@ -154,15 +154,15 @@ The *Ligadura Mezana* is a real lock and counter maneuver documented by [Fiore d
 
 I have play-tested the Stiletto through 3rd level. On paper, the archetype appears overpowered, but plays surprisingly well. Its ability to impose unfavorable conditions makes up for its lack of "almost always on" sneak attacks, but the maneuver save DC is low enough (assuming a standard point array) that your opponents will frequently overcome them. To do:
 
-* Play-test to 20th level.
+* Play-test beyond 3rd level.
 * Create more basic maneuvers based on real dagger maneuvers in Fiore, without re-introducing "called shots" from earlier editions.
 * Create more signature maneuvers.
 
 
 ### Credits
-The Stiletto archetype was created by Marc Garrett. Made with the [Homebrewery](http://homebrewery.naturalcrit.com/).
+The Stiletto archetype was created by [Marc Garrett](https://github.com/since1968). Styled with  [Homebrewery](http://homebrewery.naturalcrit.com/).
 
-The source code for this archetype is hosted on [Github](https://github.com/since1968/statblocks).
+The source code for this archetype, along with other statblocks, is hosted on [Github](https://github.com/since1968/statblocks). See something broken? Please [file an issue](https://github.com/since1968/statblocks/issues).
 
 <div class='wide'>
 <img
