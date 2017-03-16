@@ -1,8 +1,14 @@
 # Mutant
-You are a mutator and have certain powers.
+A young farmer drops his shovel as he feels a sharp pain at his elbow. He watches as a spider scurries away. The next morning, the young farmer discovers he can climb the walls of his farmhouse.
+
+A baby cries as it is born. Little does it know a rip in the Universe exposes it to the chaos of the Far Realm. As the baby grows into a man, he is shunned by society: to look into his eyes is madness.
+
+These mutants, different as they may be, have one thing in common: their destiny was thrust upon them by forces beyond their control.
 
 ### Creating a Mutant
 Think about xyz as you create a mutant.
+
+You are a mutator and have certain powers.
 
 #### Quick Build
 you can make a mutant quickly ny following these suggestions. First, Charisma should be your highest ability score. Make Constitution you next-highest ability score. Second, choose the Urchin background.
