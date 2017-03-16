@@ -30,8 +30,8 @@ ___
 - **Tools:** None
 
 ___
-- **Saving Throws:** Constitution, Wisdom
-- **Skills:** Choose two from Athletics, Insight, Perception, Persuasion, Survival
+- **Saving Throws:** Constitution, Charisma
+- **Skills:** Choose two from Athletics, Insight, Intimidation, Perception, Persuasion, Survival
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -54,6 +54,11 @@ When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, yo
 ### Major Mutation
 At 5th level...
 
+### Expertise
+At 6th level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+At 11th level, you can choose two more of your proficiencies to gain this benefit.
+
 ### Epic Mutation
 At 17th level...
 
@@ -73,7 +78,7 @@ At 17th level...
 | 8th | +3 | Ability Score Improvement | 2 |
 | 9th | +4 | Major Mutation | 2 |
 | 10th | +4 | Minor Mutation | 3 |
-| 11th | +4 | ─ | 3 |
+| 11th | +4 | Expertise | 3 |
 | 12th | +4 | Ability Score Improvement | 3 |
 | 13th | +5 | Major Mutation | 3 |
 | 14th | +5 | Ability Score Improvement | 4 |
