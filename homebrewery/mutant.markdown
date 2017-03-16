@@ -13,7 +13,7 @@ Think about xyz as you create a mutant.
 You are a mutator and have certain powers.
 
 #### Quick Build
-you can make a mutant quickly ny following these suggestions. First, Charisma should be your highest ability score. Make Constitution you next-highest ability score. Second, choose the Urchin background.
+You can make a mutant quickly by following these suggestions. First, Charisma should be your highest ability score. Make Constitution you next-highest ability score. Second, choose the Urchin background. Third, roll a d100 on the Minor Mutation table to select a Minor Mutation.
 
 ## Class Features
 As a mutant, you gain the following class features.
@@ -40,8 +40,28 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 - Padded armor and a dagger
 
-### Minor Mutation
-At 1st level...
+### Mutations
+Some critical event in your life has gifted, or cursed, you with mutations. As you progress through your adventuring career you will acquire more and more mutations, bring with them great power but also great risk.
+
+Mutations may be _active_ or _passive_. Active mutations are latent in your body and are _invoked_ to manifest the mutation. Once you acquire a passive mutation, it is "always on" and does not need to be invoked.
+
+Mutations are cumulative. Newly acquired mutations do not replace existing mutations.
+
+Once acquired, a mutation is for life and may only be removed by casting _greater restoration_. A mutation thus dispelled is replaced by a new mutation in 1d4 days.
+
+#### Minor Mutation
+At 1st level, you acquire one minor mutation. Roll a d100 on the minor mutation table. If the mutation is _active_, you may invoke it at will. If the mutation is _passive_, it is always invoked.
+
+You acquire additional minor mutations at 3rd, 7th, and 10th levels.
+
+>##### Acquiring Mutations
+> If you're playing a mutant, take a moment to describe how the mutation alters your appearance or manner. Think of a signature change each time the mutation is invoked, and make the game more fun for everyone by playing up the sudden, unexpected changes your character experiences. For example ... [ ]
+
+#### Major Mutation
+At 5th level...
+
+#### Epic Mutation
+At 17th level...
 
 ### Danger Sense
 At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
@@ -51,16 +71,12 @@ You have advantage on Dexterity saving throws against effects that you can see, 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Major Mutation
-At 5th level...
 
 ### Expertise
 At 6th level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 11th level, you can choose two more of your proficiencies to gain this benefit.
 
-### Epic Mutation
-At 17th level...
 
 \page
 
