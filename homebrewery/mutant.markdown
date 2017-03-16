@@ -28,6 +28,36 @@ When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th leve
 
 \page
 
+<div class='classTable'>
+##### The Mutant
+| Level | Proficiency Bonus | Features | Mutation Slots |
+|:---:|:---:|:---|:---:|
+| 1st | +2 | Minor Mutation | 0 |
+| 2nd | +2 | ─ | 0 |
+| 3rd | +2 | Minor Mutation | 0 |
+| 4th | +2 | Ability Score Improvement | 0 |
+| 5th | +3 | Major Mutation | 1 |
+| 6th | +3 | Expertise | 1 |
+| 7th | +3 | Minor Mutation | 1 |
+| 8th | +3 | Ability Score Improvement | 2 |
+| 9th | +4 | Major Mutation | 2 |
+| 10th | +4 | Minor Mutation | 3 |
+| 11th | +4 | ─ | 3 |
+| 12th | +4 | Ability Score Improvement | 3 |
+| 13th | +5 | Major Mutation | 3 |
+| 14th | +5 | Ability Score Improvement | 4 |
+| 15th | +5 | Major Mutation | 4 |
+| 16th | +5 | Ability Score Improvement | 4 |
+| 17th | +6 | Epic Mutation | 5 |
+| 18th | +6 | Major Mutation | 5 |
+| 19th | +6 | Ability Score Improvement | 5 |
+| 20th | +6 | Major Mutation | 5 |
+</div>
+
+
+
+\page
+
 You are a mutator and have certaint powers.
 
 At 3rd level you gain the power to twist other people's powers. You, and allies within 30 ft of you and you gain magic resistance trait. Also you get counterspell a number of times=to half your level.
