@@ -1,3 +1,9 @@
+# Mutant
+You are a mutator and have certain powers.
+
+#### Quick Build
+you can make a mutant quickly ny following these suggestions. First, Charisma should be your highest ability score. Make Constitution you next-highest ability score. Second, choose the Urchin background.
+
 ## Class Features
 As a mutant, you gain the following class features.
 #### Hit Points
@@ -58,7 +64,7 @@ When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, yo
 
 \page
 
-You are a mutator and have certaint powers.
+
 
 At 3rd level you gain the power to twist other people's powers. You, and allies within 30 ft of you and you gain magic resistance trait. Also you get counterspell a number of times=to half your level.
 
@@ -83,6 +89,8 @@ Blood Armor
 As a reaction when you take damage from any source you can choose to instead take no damage and reflect half of the damage you took back to the creature who did it. You gain this trait at 20th level
 
 At first level you gain a certain amount of mutations roll a 1d10+1 and you gain a mutation every level (you get one at first level). Roll a 100 each level on the table below to determine what powers you get. A mutator hit dice are 1d10+there con modifier. Proficiencies: choose 3 from arcana, history, insight, deception, and intimidation. You are proficient in light weapons, and finesse. Your saving throws are intelligence, wisdom and charisma.     
+
+\page
 
 Mutations
 Roll d100 on the following table to determine your mutation each level.
