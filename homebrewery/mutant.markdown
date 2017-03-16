@@ -8,7 +8,7 @@ An apprentice painter falls into a vat of acid, narrowly escaping death. When he
 These mutants, different as they may be, have one thing in common: their destiny was thrust upon them by forces beyond their control.
 
 ### Creating a Mutant
-Think about xyz as you create a mutant.
+The most important question to consider when creating your mutant is the source of your power. Were you bitten by a spider? Were you touched by an otherworldly presence? Are you happy to be a mutant? Are mutants accepted in your society?
 
 You are a mutator and have certain powers.
 
