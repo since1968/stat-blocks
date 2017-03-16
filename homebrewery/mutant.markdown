@@ -26,6 +26,8 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
+\page
+
 You are a mutator and have certaint powers.
 
 At 3rd level you gain the power to twist other people's powers. You, and allies within 30 ft of you and you gain magic resistance trait. Also you get counterspell a number of times=to half your level.
