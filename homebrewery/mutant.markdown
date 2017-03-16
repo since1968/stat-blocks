@@ -1,3 +1,33 @@
+## Class Features
+As a mutant, you gain the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per mutant level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per mutant level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light Armor
+- **Weapons:** Simple weapons, shortswords
+- **Tools:** None
+
+___
+- **Saving Throws:** Constitution, Wisdom
+- **Skills:** Choose two from Athletics, Insight, Perception, Persuasion, Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* shortsword or *(b)* one simple weapon
+- a shortbow and a quiver of 20 arrows
+- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+- Padded armor and a dagger
+
+
+
+
+
+
 You are a mutator and have certaint powers.
 
 At 3rd level you gain the power to twist other people's powers. You, and allies within 30 ft of you and you gain magic resistance trait. Also you get counterspell a number of times=to half your level.
@@ -7,7 +37,7 @@ You learn void speech, primordial and all elemental languages at 6th level. In a
 
 
 Lord of undeath
-You can now control undead that are equal to your level, not half of it, and elementals, and aberrations. 
+You can now control undead that are equal to your level, not half of it, and elementals, and aberrations.
 
 
 Master of the void
@@ -32,7 +62,7 @@ You gain the power to see into other creatures and know there ability scores. Th
 11-17
 You are unnaturally fast. Increase your speed to 50 ft and you not provoke opportunity attacks when you move away.
 18-25
-You gain extraordinary strength. Roll a 2d4+your level and that is how much your strength increases. In addition whenever you gain momentum, nothing can stand in your way. Walls break, houses fall. When you have at least 1 ft of momentum you break through anything, and it is thrown back 20 ft. If you get this feature your hit dice increases to a d12 
+You gain extraordinary strength. Roll a 2d4+your level and that is how much your strength increases. In addition whenever you gain momentum, nothing can stand in your way. Walls break, houses fall. When you have at least 1 ft of momentum you break through anything, and it is thrown back 20 ft. If you get this feature your hit dice increases to a d12
 26-30
 You grow spikes beneath the surface of your skin. Whenever someone within 10 ft of you does a meelle attack to you the spikes do half the damage they do to you. They count as magic weapons They have a melee attack your dex +proficiency. to hit and the damage is 3d8+ your level, times 3. At fifth level you gain two melee attacks. At 11th level you get 3 attacks. At 16th level you get 4 attacks. At 17th level you get a action surge.     
 
@@ -43,7 +73,7 @@ You are descended from the cruel hunter Borlease. He brought people great pain. 
 41-49
 Also descended from Borlease you gain the power to hypnotize creatures with will not strong enough to oppose you. As a action you can stare at a target. They must make a wisdom save. Dc=10+proficiency+charisma. If they fail the save you can have them do anything you want. This is not concentration. You can have up to 30 creatures hypnotized at a time. You can choose how long it lasts, even if it is forever.   
 50-59
-You are a stormonger. Descended from thor you have control weather 1/day  at 10 level. (except only for the storm feature.) You also gain the spell lightning bolt 3/day and chain lightning 1/day at 11th level. In addition you gain a flying speed of 30 ft if you take the dash action you can use a bonus action to dash. 
+You are a stormonger. Descended from thor you have control weather 1/day  at 10 level. (except only for the storm feature.) You also gain the spell lightning bolt 3/day and chain lightning 1/day at 11th level. In addition you gain a flying speed of 30 ft if you take the dash action you can use a bonus action to dash.
 60-65
 As a holy totem creator you discovered the magic of summoning. As a reaction you call upon your spirit ancestors to do 2d8 +  your level to one of your enemies within 20 ft of you. In addition at 3rd level all allies within 30 feet of you gain resistance to bludgeoning, piercing, and slashing damae.  
 66-71
@@ -53,9 +83,9 @@ You are magnetic. You attract not metal but other random objects as well. They f
 79-83
 You are psychic. You can mind read someone to know everything about them. In addition at 7th level you gain dominate person 3/day and at 14th level dominate monster 2/day. The dc=8+proficiency+charisma.  
 84-86
-You gain the fire bolt cantrip+burning hands at will+fireball at will at 6th level. Also at 6th you gain wall of fire 3/day 
+You gain the fire bolt cantrip+burning hands at will+fireball at will at 6th level. Also at 6th you gain wall of fire 3/day
 87-90
-You are descended from loki, the god of trickery and deceit. As an action you can change yourself into a challenge rating equal half your level. You retain your thoughts, but the creature's stats.  You can do this as many times a day as equal to your level.(1st level is once a day) (3rd level 2/day) 
+You are descended from loki, the god of trickery and deceit. As an action you can change yourself into a challenge rating equal half your level. You retain your thoughts, but the creature's stats.  You can do this as many times a day as equal to your level.(1st level is once a day) (3rd level 2/day)
 91-99
  You are spider man. You gain web a certain amount of times a day = half your level and you have spider climb whatever your speed is.
 100
