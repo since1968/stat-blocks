@@ -1,5 +1,5 @@
 # Mutant
-A young farmer drops his shovel as he feels a sharp pain at his elbow. He watches as a spider scurries away. That night, the young farmer discovers he can climb the walls of his farmhouse. The next morning he sets off to find use for his new-found powers.
+A young farmer drops his shovel as he feels a sharp pain at his elbow. He watches as a spider scurries away. That night, the young farmer discovers he can climb the walls of his farmhouse. He also finds that he can sense danger where others suspect nothing. The next morning he sets off to find use for his new-found powers.
 
 A baby cries as it is born. Little does it know a rip in the Universe exposes it to the chaos of the Far Realm. As the baby grows into a man, he is shunned by society: to look into his eyes is madness.
 
