@@ -23,10 +23,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 - Padded armor and a dagger
 
-
-
-
-
+### Ability Score Improvement
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 You are a mutator and have certaint powers.
 
