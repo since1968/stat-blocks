@@ -1,7 +1,9 @@
 # Mutant
-A young farmer drops his shovel as he feels a sharp pain at his elbow. He watches as a spider scurries away. The next morning, the young farmer discovers he can climb the walls of his farmhouse.
+A young farmer drops his shovel as he feels a sharp pain at his elbow. He watches as a spider scurries away. That night, the young farmer discovers he can climb the walls of his farmhouse. The next morning he sets off to find use for his new-found powers.
 
 A baby cries as it is born. Little does it know a rip in the Universe exposes it to the chaos of the Far Realm. As the baby grows into a man, he is shunned by society: to look into his eyes is madness.
+
+An apprentice painter falls into a vat of acid, narrowly escaping death. When he emerges, his skin is bleached white and he has superhuman strength. He cackles with glee as he plots the demise of his master.
 
 These mutants, different as they may be, have one thing in common: their destiny was thrust upon them by forces beyond their control.
 
