@@ -1,27 +1,27 @@
-# Mutant
+# Mutator
 A young farmer drops his shovel as he feels a sharp pain at his elbow. He watches as a spider scurries away. That night, the young farmer discovers he can climb the walls of his farmhouse. He also finds that he can sense danger where others suspect nothing. The next morning he sets off to find use for his new-found powers.
 
 A baby cries as it is born. Little does it know a rip in the Universe exposes it to the chaos of the Far Realm. As the baby grows into a man, he is shunned by society: to look into his eyes is madness.
 
 An apprentice painter falls into a vat of acid, narrowly escaping death. When he emerges, his skin is bleached white and he has superhuman strength. He cackles with glee as he plots the demise of his master.
 
-These mutants, different as they may be, have one thing in common: their destiny was thrust upon them by forces beyond their control.
+These mutators, different as they may be, have one thing in common: their destiny was thrust upon them by forces beyond their control.
 
-### Creating a Mutant
-The most important question to consider when creating your mutant is the source of your power. Were you bitten by a spider? Were you touched by an otherworldly presence? Are you happy to be a mutant? Are mutants accepted in your society?
+### Creating a Mutator
+The most important question to consider when creating your mutator is the source of your power. Were you bitten by a spider? Were you touched by an otherworldly presence? Are you happy to be a mutator? Are mutators accepted in your society?
 
 You are a mutator and have certain powers.
 
 #### Quick Build
-You can make a mutant quickly by following these suggestions. First, Charisma should be your highest ability score. Make Constitution you next-highest ability score. Second, choose the Urchin background. Third, roll a d100 on the Minor Mutation table to select a Minor Mutation.
+You can make a mutator quickly by following these suggestions. First, Charisma should be your highest ability score. Make Constitution you next-highest ability score. Second, choose the Urchin background. Third, roll a d100 on the Minor Mutation table to select a Minor Mutation.
 
 ## Class Features
-As a mutant, you gain the following class features.
+As a mutator, you gain the following class features.
 #### Hit Points
 ___
-- **Hit Dice:** 1d8 per mutant level
+- **Hit Dice:** 1d8 per mutator level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per mutant level after 1st
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per mutator level after 1st
 
 #### Proficiencies
 ___
@@ -46,10 +46,10 @@ You start with the following equipment, in addition to the equipment granted by 
 
 
 <div class='classTable'>
-##### The Mutant
+##### The Mutator
 | Level | Proficiency Bonus | Features | Mutation Slots |
 |:---:|:---:|:---|:---:|
-| 1st | +2 | Mutant Origin, Minor Mutation | 0 |
+| 1st | +2 | Mutator Origin, Minor Mutation | 0 |
 | 2nd | +2 | Danger Sense | 0 |
 | 3rd | +2 | Minor Mutation | 0 |
 | 4th | +2 | Ability Score Improvement | 0 |
@@ -73,7 +73,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
  \page
 
-### Mutant Origin
+### Mutator Origin
 At 1st level, a critical event early in your life has gifted, or cursed, you with mutations. Choose the origin of your mutations: Thor, the Undead, or the Far Realm, each of which is detailed at the end of this class description. Your choice determines which table you roll each time you acquire a new mutation.
 
 ### Mutations
@@ -91,10 +91,10 @@ At 1st level, you acquire one minor mutation. Roll a d100 on the minor mutation 
 You acquire additional minor mutations at 3rd, 7th, and 10th levels.
 
 >##### Acquiring Mutations
-> If you're playing a mutant, take a moment to describe how the mutation alters your appearance or manner. Think of a signature change each time the mutation is invoked, and make the game more fun for everyone by playing up the sudden, unexpected changes your character experiences. For example ... [ ]
+> If you're playing a mutator, take a moment to describe how the mutation alters your appearance or manner. Think of a signature change each time the mutation is invoked, and make the game more fun for everyone by playing up the sudden, unexpected changes your character experiences. For example ... [ ]
 
 #### Major Mutation
-At 5th level, you acquire a major mutation. Roll a d100 on the major mutation table of your mutation origin. The Mutant table shows how many mutation slots you have. To invoke an active major mutation, you must expend a mutation slot. You regain all expended mutation slots on a short or long rest.
+At 5th level, you acquire a major mutation. Roll a d100 on the major mutation table of your mutation origin. The Mutator table shows how many mutation slots you have. To invoke an active major mutation, you must expend a mutation slot. You regain all expended mutation slots on a short or long rest.
 
 A passive major mutation is always invoked and does not require a mutation slot.
 
@@ -119,7 +119,7 @@ At 6th level, choose two of your skill proficiencies. Your proficiency bonus is 
 
 At 11th level, you can choose two more of your proficiencies to gain this benefit.
 
-## Mutant Origins
+## Mutator Origins
 Descriptive text here
 
 ### The Far Realm
@@ -130,7 +130,7 @@ about the far realm here
 
 <div class='wide'>
 <img
-  src='https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/mutant_arm_by_mythrilgolem1-d81fc9j.jpg?token=AAAHbs0LkkD-Xbvki3jDC85JO9QkNSnOks5Y0-RlwA%3D%3D'
+  src='https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/mutator_arm_by_mythrilgolem1-d81fc9j.jpg?token=AAAHbs0LkkD-Xbvki3jDC85JO9QkNSnOks5Y0-RlwA%3D%3D'
   style='position:absolute;left:-10px;top:0px;width:840px;z-index:-500' />
 </div>
 
