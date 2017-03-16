@@ -40,51 +40,16 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 - Padded armor and a dagger
 
-### Mutations
-Some critical event in your life has gifted, or cursed, you with mutations. As you progress through your adventuring career you will acquire more and more mutations, bring with them great power but also great risk.
 
-Mutations may be _active_ or _passive_. Active mutations are latent in your body and are _invoked_ to manifest the mutation. Once you acquire a passive mutation, it is "always on" and does not need to be invoked.
+```
+```
 
-Mutations are cumulative. Newly acquired mutations do not replace existing mutations.
-
-Once acquired, a mutation is for life and may only be removed by casting _greater restoration_. A mutation thus dispelled is replaced by a new mutation in 1d4 days.
-
-#### Minor Mutation
-At 1st level, you acquire one minor mutation. Roll a d100 on the minor mutation table. If the mutation is _active_, you may invoke it at will. If the mutation is _passive_, it is always invoked.
-
-You acquire additional minor mutations at 3rd, 7th, and 10th levels.
-
->##### Acquiring Mutations
-> If you're playing a mutant, take a moment to describe how the mutation alters your appearance or manner. Think of a signature change each time the mutation is invoked, and make the game more fun for everyone by playing up the sudden, unexpected changes your character experiences. For example ... [ ]
-
-#### Major Mutation
-At 5th level...
-
-#### Epic Mutation
-At 17th level...
-
-### Danger Sense
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
-
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
-
-### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-
-### Expertise
-At 6th level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-
-At 11th level, you can choose two more of your proficiencies to gain this benefit.
-
-
-\page
 
 <div class='classTable'>
 ##### The Mutant
 | Level | Proficiency Bonus | Features | Mutation Slots |
 |:---:|:---:|:---|:---:|
-| 1st | +2 | Minor Mutation | 0 |
+| 1st | +2 | Mutant Origin, Minor Mutation | 0 |
 | 2nd | +2 | Danger Sense | 0 |
 | 3rd | +2 | Minor Mutation | 0 |
 | 4th | +2 | Ability Score Improvement | 0 |
@@ -106,6 +71,59 @@ At 11th level, you can choose two more of your proficiencies to gain this benefi
 | 20th | +6 | Major Mutation | 5 |
 </div>
 
+ \page
+
+### Mutant Origin
+At 1st level, a critical event early in your life has gifted, or cursed, you with mutations. Choose the origin of your mutations: Thor, the Undead, or the Far Realm, each of which is detailed at the end of this class description. Your choice determines which table you roll each time you acquire a new mutation.
+
+### Mutations
+A critical event early in your life has gifted, or cursed, you with mutations. As you progress through your adventuring career you will acquire more and more mutations, bring with them great power but also great risk.
+
+Mutations may be _active_ or _passive_. Active mutations are latent in your body and are _invoked_ to manifest the mutation. Once you acquire a passive mutation, it is "always on" and does not need to be invoked.
+
+Mutations are cumulative. Newly acquired mutations do not replace existing mutations.
+
+Once acquired, a mutation is for life and may only be removed by casting _greater restoration_. A mutation thus dispelled is replaced by a new mutation in 1d4 days.
+
+#### Minor Mutation
+At 1st level, you acquire one minor mutation. Roll a d100 on the minor mutation table of your mutation origin. If the mutation is _active_, you may invoke it at will. If the mutation is _passive_, it is always invoked.
+
+You acquire additional minor mutations at 3rd, 7th, and 10th levels.
+
+>##### Acquiring Mutations
+> If you're playing a mutant, take a moment to describe how the mutation alters your appearance or manner. Think of a signature change each time the mutation is invoked, and make the game more fun for everyone by playing up the sudden, unexpected changes your character experiences. For example ... [ ]
+
+#### Major Mutation
+At 5th level, you acquire a major mutation. Roll a d100 on the major mutation table of your mutation origin. The Mutant table shows how many mutation slots you have. To invoke an active major mutation, you must expend a mutation slot. You regain all expended mutation slots on a short or long rest.
+
+A passive major mutation is always invoked and does not require a mutation slot.
+
+You gain additional major mutations at 9th, 13th, 15th, and 20th level.
+
+#### Epic Mutation
+At 17th level, you gain an epic mutation. Roll a d100 on the epic mutation table of your mutation origin. Unless otherwise stated, an epic mutation may be invoked once per long rest.
+
+A passive epic mutation is always invoked.
+
+### Danger Sense
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
+
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+
+### Expertise
+At 6th level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+At 11th level, you can choose two more of your proficiencies to gain this benefit.
+
+## Mutant Origins
+Descriptive text here
+
+### The Far Realm
+about the far realm here
 
 
 \page
