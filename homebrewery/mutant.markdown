@@ -67,6 +67,14 @@ When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, yo
 
 \page
 
+<div class='wide'>
+<img
+  src='https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/mutant_arm_by_mythrilgolem1-d81fc9j.jpg?token=AAAHbs0LkkD-Xbvki3jDC85JO9QkNSnOks5Y0-RlwA%3D%3D'
+  style='position:absolute;left:-10px;top:0px;width:840px;z-index:-500' />
+</div>
+
+\page
+
 
 
 At 3rd level you gain the power to twist other people's powers. You, and allies within 30 ft of you and you gain magic resistance trait. Also you get counterspell a number of times=to half your level.
