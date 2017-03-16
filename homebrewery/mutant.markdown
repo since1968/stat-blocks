@@ -38,6 +38,11 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 - Padded armor and a dagger
 
+### Danger Sense
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
+
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -48,7 +53,7 @@ When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, yo
 | Level | Proficiency Bonus | Features | Mutation Slots |
 |:---:|:---:|:---|:---:|
 | 1st | +2 | Minor Mutation | 0 |
-| 2nd | +2 | ─ | 0 |
+| 2nd | +2 | Danger Sense | 0 |
 | 3rd | +2 | Minor Mutation | 0 |
 | 4th | +2 | Ability Score Improvement | 0 |
 | 5th | +3 | Major Mutation | 1 |
