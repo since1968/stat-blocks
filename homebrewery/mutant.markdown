@@ -1,6 +1,9 @@
 # Mutant
 You are a mutator and have certain powers.
 
+### Creating a Mutant
+Think about xyz as you create a mutant.
+
 #### Quick Build
 you can make a mutant quickly ny following these suggestions. First, Charisma should be your highest ability score. Make Constitution you next-highest ability score. Second, choose the Urchin background.
 
