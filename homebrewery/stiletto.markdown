@@ -5,7 +5,7 @@ You pursue the art of close quarters fighting with light weapons. A Stiletto is 
 
 Disdaining any protection heavier than a gambeson and chamois gloves, Stiletti are often found in service of nobles, who pay Stiletti to duel on their behalf. A Stileto can also be found training condottieri in the art of one-on-one combat, or gentlemen in the science of street fighting.
 
-Some Stiletti are bookish, preferring to find their next maneuver in an obscure tome. Others are gregarious and just as likely to learn about pressure points from a Monk as they are to watch and study a Fighter’s parrying technique.
+Some Stiletti are bookish, preferring to find their next maneuver in an obscure tome. Others are gregarious and just as likely to learn about pressure points from a Monk as they are to watch and study a Fighter’s parrying technique. All share the same belief: _measure twice, cut once_.
 
 Common backgrounds for Stiletti are Noble, Mercenary Veteran, Sage, and Soldier.
 
