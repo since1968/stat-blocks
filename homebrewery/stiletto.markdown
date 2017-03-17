@@ -74,6 +74,9 @@ When a creature misses you with a melee attack using a weapon with which you are
 
 **Feinting Attack.** You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet as your target. You have advantage on your next attack roll against that creature this turn. If the attack hits, add the superiority die to the attack’s damage roll.
 
+```
+```
+
 **Flying Dagger.** You have practiced the art of drawing and throwing a weapon in one smooth motion. You can expend one superiority die and use a bonus action to draw & throw a weapon with the finesse and thrown properties choosing one creature in throwing range as your target. If the attack hits, add the superiority die to the damage roll. Drawing the dagger does not count as an object interaction.
 
 **Go for the Eyes.** When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to blind the creature. You add the superiority die to the attack’s damage roll, and if the target has eyes it must make a Dexterity saving throw. On a failed save the target is blinded until the end of your next turn.
@@ -81,6 +84,18 @@ When a creature misses you with a melee attack using a weapon with which you are
 **Hamstring.** You attempt to hobble your opponent, reducing his movement. When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to injure its legs. Add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save the target falls prone and its movement is reduced to 0 until the end of your next turn.
 
 **Hilt Slam.** You brutally slam the hilt end of your melee weapon into your foe’s head, sending the creature staggering. If you take the attack action on your turn, you can expend a superiority die and take a bonus action to attack the same creature with the hilt end of your weapon. The hilt’s damage die for this attack is a d4, and the attack deals bludgeoning damage. If you hit the creature, add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save, the target is stunned until the end of your next turn.
+
+
+<div class='wide'>
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/saint-germier.png?token=AAAHbnLO6jmukIORd5sOUZnzWqqgNmZLks5Y1YHwwA%3D%3D" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
+</div>
+
+
+<div class='pageNumber'>2</div>
+<div class='footnote'>PART 2 | MANEUVERS</div>
+
+\page
 
 **Ligadura Mezana.** When a creature up to one size larger than you and within five feet of you targets you with a melee attack, you can use your reaction and expend one superiority die to attempt to lock and counter the attack. Add the superiority die to a Grapple ability check, and if you succeed the creature misses you and is grappled. You may then make a weapon attack against the creature as part of the same reaction. You must have one hand free to use this maneuver.
 
@@ -101,11 +116,6 @@ If you hit with the melee weapon attack, you add the superiority die to the atta
 If you attempt a grapple, add the superiority die to the grapple check. If you succeed, the creature is grappled.
 
 **Twist the Knife.** You have learned to twist the blade sharply before retracting it. When you hit a creature with a melee weapon attack, you can expend one superiority die to cause a bleeding wound. Add the superiority die to the attack’s damage roll. The target takes 1d6 damage on each subsequent round at the end of its turn. The target may stop the bleeding with a Wisdom (Medicine) check, or by casting _cure wounds_. Damage from multiple wounds is cumulative.
-
-<div class='pageNumber'>2</div>
-<div class='footnote'>PART 2 | MANEUVERS</div>
-
-\page
 
 
 **Unnerving Flourish.** Your deadly display of combat prowess unnerves your opponents, leaving them cowering in fear and at your mercy. Whenever you reduce a creature to 0 hit points with a melee attack, you can use a bonus action to expend one superiority die, and instead leave the creature at 1 hit point. The creature is frightened of you for a number of minutes equal to your Charisma modifier. It must also make a Charisma saving throw with a DC equal to your maneuver DC + a bonus equal to the roll of your superiority die. If the creature fails this saving throw, it answers truthfully any questions you ask it and obeys your direct orders while it is frightened by this effect.
@@ -165,8 +175,8 @@ The Stiletto archetype was created by [Marc Garrett](https://github.com/since196
 The source code for this archetype, along with other statblocks, is hosted on [Github](https://github.com/since1968/statblocks). See something broken? Please [file an issue](https://github.com/since1968/statblocks/issues).
 
 <div class='wide'>
-<img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/img/stiletto.png" style='position:absolute;left:0px;bottom:0px;width:820px;z-index:500' />
+<!--img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/saint-germier.png?token=AAAHbnLO6jmukIORd5sOUZnzWqqgNmZLks5Y1YHwwA%3D%3D" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' /-->
 </div>
 
 
