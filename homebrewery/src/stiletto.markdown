@@ -44,7 +44,7 @@ Starting at 13th level, you become a master of slicing a foe’s artery to infli
 
 
 #### Signature Maneuver
-Starting at 17th level, you become known for a deadly maneuver. Due to your research, either in libraries or with a martial scholar, you master or invent a signature maneuver. You may use this maneuver at will unless the maneuver specifies otherwise. You are not required to expend a superiority die to commit this maneuver.
+Starting at 17th level, you become known for a deadly maneuver. Due to your research, either in libraries or with a martial scholar, you master a signature maneuver. You may use this maneuver at will unless the maneuver specifies otherwise. You are not required to expend a superiority die to commit this maneuver.
 
 Select one maneuver from the list of Signature Maneuvers, which are detailed below.
 
@@ -53,11 +53,9 @@ Select one maneuver from the list of Signature Maneuvers, which are detailed bel
 
 > Work with your DM to approve this maneuver. Follow these guidelines:
 
-> * The maneuver must use either a melee weapon with the light and finesse properties or a grapple, or it may use a combination of melee weapon attack and grapple.
+> * The maneuver must use either a stiletto weapon attack or a grapple, or it may use a combination of the two.
 > * The maneuver may use your bonus action or your action, or be triggered as a reaction.
 > * The maneuver should incorporate your sneak attack.
-
-
 
 <div class='pageNumber'>1</div>
 <div class='footnote'>PART 1 | THE BASICS</div>
@@ -130,7 +128,7 @@ Maneuvers are presented in alphabetical order. Unless otherwise noted, you must 
 * You do not need to expend a superiority die to feint as a bonus action.
 * You may add your Intelligence modifier to your armor class.
 
-**Strike of Perfect Clarity.** Your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you sneak attack and hit a creature, you deal an extra 100 points of damage. Once you use this maneuver, you can’t use it again until you finish a long rest.
+**Strike of Perfect Clarity.** Your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you score a critical hit against a creature, you deal an extra 100 points of damage.
 
 <div class='pageNumber'>3</div>
 <div class='footnote'>PART 2 | MANEUVERS</div>
@@ -176,6 +174,8 @@ I have play-tested the Stiletto through 3rd level. On paper, the archetype appea
 * Create more maneuvers based on real dagger maneuvers in Fiore, without re-introducing "called shots" from earlier editions.
 * Create more signature maneuvers.
 * Clean up "Strike of Perfect Clarity." Math makes it equivalent to assassin with surprise at 20th level, but +100 doesn't feel like 5e.
+* Rewrite "Msater Stiletto." The short rest requirement doesn't fit Rogue.
+* What about Feint as a bonus action with expending die at 13th level? 
 
 
 ### Credits
