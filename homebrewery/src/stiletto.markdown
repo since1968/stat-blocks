@@ -64,7 +64,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 When a creature misses you with a melee attack using a weapon with which you are proficient, you can use your reaction and expend one superiority die to attempt to disarm and counter. Make a Grapple check and add the superiority die to the check. On a successful check, the creature is grappled and you are holding the creature’s weapon. You must have at least one hand free to make this maneuver.
 
 
-**Feinting Attack.** You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet as your target. You have advantage on your next attack roll against that creature this turn. If the attack hits, add the superiority die to the attack’s damage roll.
+**Feint.** You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet as your target. You have advantage on your next attack roll or grapple check against that creature this turn. Add the superiority die to the attack roll or grapple check.
 
 ```
 ```
