@@ -87,7 +87,7 @@ When a creature misses you with a melee attack using a weapon with which you are
 
 <div class='wide'>
 <img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/saint-germier.png?token=AAAHbnLO6jmukIORd5sOUZnzWqqgNmZLks5Y1YHwwA%3D%3D" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/saint-germier.png" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
 </div>
 
 <div class='pageNumber'>2</div>
@@ -147,9 +147,12 @@ Maneuvers are presented in alphabetical order. Unless otherwise noted, you must 
 | 17th | +6 | Signature maneuver, Improved superiority |
 </div>
 
+```
+```
+
 
 ### Sources
-The Stiletto archetype was inspired by Guy Windsor's excellent course [The Medieval Dagger](http://swordschool.teachable.com/p/the-medieval-dagger). You can see him perform medieval dagger maneuvers at his [Sword School](https://www.youtube.com/user/swordschool). Any errors in abstracting medieval dagger fighting for D&D are mine, not his.
+*Ligadura Mezana* is a real lock and counter maneuver documented by [Fiore dei Liberi](https://en.wikipedia.org/wiki/Fiore_dei_Liberi). The Stiletto archetype was inspired by Guy Windsor's excellent course [The Medieval Dagger](http://swordschool.teachable.com/p/the-medieval-dagger). You can see him perform medieval dagger maneuvers at his [Sword School](https://www.youtube.com/user/swordschool). Any errors in abstracting medieval dagger fighting for D&D are mine, not his.
 
 The archetype is a pastiche of martial strikers. Most of the maneuvers are taken from earlier D&D editions and updated for 5e. Sources include:
 
@@ -159,12 +162,18 @@ The archetype is a pastiche of martial strikers. Most of the maneuvers are taken
 * Player's Handbook
 * Tome of Battle
 * [Unearthed Arcana](http://dnd.wizards.com/articles/unearthed-arcana)
-* Images: La Navaja, Joseph Saint-Germier, 1888. Katenspiel Streit, Jan Steen (1625/1626–1679), via Wikimedia Commons
+* Images: La Navaja, Joseph Saint-Germier, 1888.
 
-The *Ligadura Mezana* is a real lock and counter maneuver documented by [Fiore dei Liberi](https://en.wikipedia.org/wiki/Fiore_dei_Liberi).
+<div class='wide'>
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/duel.png" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
+</div>
 
-```
-```
+
+<div class='pageNumber'>4</div>
+<div class='footnote'>PART 3 | Appendix</div>
+
+\page
 
 ### To Do
 
@@ -175,7 +184,7 @@ I have play-tested the Stiletto through 3rd level. On paper, the archetype appea
 * Create more signature maneuvers.
 * Clean up "Strike of Perfect Clarity." Math makes it equivalent to assassin with surprise at 20th level, but +100 doesn't feel like 5e.
 * Rewrite "Msater Stiletto." The short rest requirement doesn't fit Rogue.
-* What about Feint as a bonus action with expending die at 13th level? 
+* What about Feint as a bonus action with expending die at 13th level?
 
 
 ### Credits
@@ -183,16 +192,13 @@ The Stiletto archetype was created by [Marc Garrett](https://github.com/since196
 
 The source code for this archetype, along with other statblocks, is hosted on [Github](https://github.com/since1968/statblocks). See something broken? Please [file an issue](https://github.com/since1968/statblocks/issues).
 
+```
+```
+
 > #### Stiletto Playtesting Notes
 > Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
 >
 > The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level. And grappling effectively is a core part of the Stiletto's repertoire: by 9th level if he hits a grappled opponent using a stiletto weapon he will score a critical hit 27% of the time.
 
-<div class='wide'>
-<!--img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/saint-germier.png?token=AAAHbnLO6jmukIORd5sOUZnzWqqgNmZLks5Y1YHwwA%3D%3D" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' /-->
-</div>
-
-
-<div class='pageNumber'>4</div>
-<div class='footnote'>PART 3 | Sources & Credits</div>
+<div class='pageNumber'>5</div>
+<div class='footnote'>PART 3 | Appendix</div>
