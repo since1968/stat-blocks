@@ -3,18 +3,18 @@
 ### Stiletto
 You pursue the art of close quarters fighting with light weapons. A Stiletto is just as likely to be a scholar or a noble as a soldier. You bring skill, knowledge, and deadly precision to the battlefield.
 
-Disdaining any protection heavier than a gambeson and chamois gloves, Stiletti are often found in service of nobles, who pay Stiletti to duel on their behalf. A Stileto can also be found training condottieri in the art of one-on-one combat, or gentlemen in the science of street fighting.
+Disdaining any protection heavier than a gambeson and chamois gloves, Stiletti are often found in service of nobles, who pay Stiletti to duel on their behalf. A Stiletto can also be found training condottieri in the art of one-on-one combat, or gentlemen in the science of street fighting.
 
-Some Stiletti are bookish, preferring to find their next maneuver in an obscure tome. Others are gregarious and just as likely to learn about pressure points from a Monk as they are to watch and study a Fighter’s parrying technique. All share the same belief: _measure twice, cut once_.
+Some Stiletti are bookish, preferring to find their next maneuver in an obscure tome. Others are gregarious and just as likely to learn about pressure points from a Monk as they are to debate a Fighter’s parrying technique. All share the same belief: _measure twice, cut once_.
 
 Common backgrounds for Stiletti are Noble, Mercenary Veteran, Sage, and Soldier.
 
 #### Combat Superiority
-Your practice of close quarters combat gives you mastery of combat styles using grappling and stiletto weapons, which are any weapons that do piercing damage and that have the light and finesse property. 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
+Your practice of close quarters combat gives you mastery of combat styles using stiletto weapons, which are any weapons that do piercing damage and have the light and finesse property. At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
 
-**Maneuvers.** You learn three basic maneuvers of your choice, which are detailed below.
+**Maneuvers.** You learn three maneuvers of your choice, which are detailed below.
 
-You learn two additional basic maneuvers of your choice at 9th level, and two more at 13th level. Each time you learn new basic maneuvers, you can also replace one basic maneuver you know with a different one.
+You learn two additional maneuvers of your choice at 9th level, and two more at 13th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
 **Superiority Dice.** You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 
@@ -27,7 +27,7 @@ You gain another superiority die at 9th level and one more at 13th level.
 #### Grappler
 Starting at 3rd level, you develop the skills necessary to hold your own in close-quarters fighting. You have advantage on attack rolls against a creature you are grappling.
 
-When you make an Attack action with a grapple, you can use a bonus action to attack with a light melee weapon that you’re holding in the other hand. Other restrictions on Two-Weapon fighting still apply.
+When you make an Attack action with a grapple, you can use a bonus action to attack with a stiletto weapon that you’re holding in the other hand. Other restrictions on Two-Weapon fighting still apply.
 
 #### Improved Combat Superiority
 At 9th level, your superiority dice turn in to d10s. At 17th level, they turn into d12s.
@@ -35,16 +35,12 @@ At 9th level, your superiority dice turn in to d10s. At 17th level, they turn in
 ```
 ```
 #### Pitiless Grappler
-Starting at 9th level, your understanding of locks and pressure points make you a Grappler without parallel. Add your Intelligence modifier to Grapple checks. Any melee attacks you make against a creature you have grappled score a critical hit on a roll of 18-20.
+Starting at 9th level, your understanding of locks and pressure points make you a grappler without parallel. Add your Intelligence modifier to grapple checks.
 
-<!--
-#### Elegant Courtier
-
-Starting at 13th level, your discipline and knowledge of protocol allow you to excel in social situations that require strict adherence to etiquette. You can add your Intelligence modifier to any Charisma check you make to persuade or please a noble of anyone else of high social station.
--->
+Your stiletto weapon attacks against a creature you have grappled score a critical hit on a roll of 18-20.
 
 #### Bloodbath
-Starting at 13th level, you become a master of slicing a foe’s artery to inflict a gushing wound. When you score a critical hit against a creature, the creature must make a Constitution saving throw. On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature may take an action to stop the bleeding with a successful Wisdom (Medicine) check on its turn, or by casting _cure wounds_. You must be using a stiletto weapon to use this feature.
+Starting at 13th level, you become a master of slicing a foe’s artery to inflict a gushing wound. When you score a critical hit against a creature, it must make a Constitution saving throw. On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature may take an action to stop the bleeding with a successful Wisdom (Medicine) check on its turn, or by casting _cure wounds_. You must be using a stiletto weapon to use this feature.
 
 
 #### Signature Maneuver
@@ -53,7 +49,7 @@ Starting at 17th level, you become known for a deadly maneuver. Due to your rese
 Select one maneuver from the list of Signature Maneuvers, which are detailed below.
 
 > #### Creating Your Own Maneuver
-> You may create your own signature maneuver. You must spend one week of training to master this maneuver.
+> You may create your own signature maneuver, which you must spend one week of training to master.
 
 > Work with your DM to approve this maneuver. Follow these guidelines:
 
@@ -69,47 +65,45 @@ Select one maneuver from the list of Signature Maneuvers, which are detailed bel
 \page
 
 
-#### Basic Maneuvers
-The maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a stiletto weapon to use a basic maneuver.
+#### Maneuvers
+The maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a stiletto weapon to use a maneuver.
 
 **Disarming Attack.** You learn to disarm an opponent whether you are attacking or defending.
 
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. You add the superiority die to the attack’s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
-When a creature misses you with a melee attack using a weapon with which you are proficient, you can use your reaction and expend one superiority die to attempt to disarm and counter. Make a Grapple check and add the superiority die to the check. On a successful check, the creature is grappled and you are holding the creature’s weapon. You may make a weapon attack using the creature’s weapon against the creature.You must have at least one hand free to make this maneuver.
+When a creature misses you with a melee attack using a weapon with which you are proficient, you can use your reaction and expend one superiority die to attempt to disarm and counter. Make a Grapple check and add the superiority die to the check. On a successful check, the creature is grappled and you are holding the creature’s weapon. You must have at least one hand free to make this maneuver.
 
 **Feinting Attack.** You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet as your target. You have advantage on your next attack roll against that creature this turn. If the attack hits, add the superiority die to the attack’s damage roll.
 
 ```
 ```
 
-**Flying Dagger.** You have practiced the art of drawing and throwing a weapon in one smooth motion. You can expend one superiority die and use a bonus action to draw & throw a weapon with the finesse and thrown properties choosing one creature in throwing range as your target. If the attack hits, add the superiority die to the damage roll. Drawing the dagger does not count as an object interaction.
+**Flying Dagger.** You have practiced the art of drawing and throwing a weapon in one smooth motion. You can expend one superiority die and use a bonus action to draw & throw a weapon, choosing one creature in throwing range as your target. If the attack hits, add the superiority die to the damage roll. Drawing the weapon does not count as an object interaction.
 
 **Go for the Eyes.** When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to blind the creature. You add the superiority die to the attack’s damage roll, and if the target has eyes it must make a Dexterity saving throw. On a failed save the target is blinded until the end of your next turn.
 
-**Hamstring.** You attempt to hobble your opponent, reducing his movement. When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to injure its legs. Add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save the target falls prone and its movement is reduced to 0 until the end of your next turn.
+**Hamstring.** You attempt to hobble your opponent. When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to injure its legs. Add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save the target falls prone and its movement is reduced to 0 until the end of your next turn.
 
-**Hilt Slam.** You brutally slam the hilt end of your melee weapon into your foe’s head, sending the creature staggering. If you take the attack action on your turn, you can expend a superiority die and take a bonus action to attack the same creature with the hilt end of your weapon. The hilt’s damage die for this attack is a d4, and the attack deals bludgeoning damage. If you hit the creature, add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save, the target is stunned until the end of your next turn.
-
+**Hilt Slam.** You brutally slam the hilt of your weapon into your foe’s head, sending the creature staggering. If you take the attack action on your turn, you can expend a superiority die and take a bonus action to attack the same creature with the hilt end of your weapon. The hilt’s damage die for this attack is a d4, and the attack deals bludgeoning damage. If you hit the creature, add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save, the target is stunned until the end of your next turn.
 
 <div class='wide'>
 <img
   src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/saint-germier.png?token=AAAHbnLO6jmukIORd5sOUZnzWqqgNmZLks5Y1YHwwA%3D%3D" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
 </div>
 
-
 <div class='pageNumber'>2</div>
 <div class='footnote'>PART 2 | MANEUVERS</div>
 
 \page
 
-**Ligadura Mezana.** When a creature up to one size larger than you and within five feet of you targets you with a melee attack, you can use your reaction and expend one superiority die to attempt to lock and counter the attack. Add the superiority die to a Grapple ability check, and if you succeed the creature misses you and is grappled. You may then make a weapon attack against the creature as part of the same reaction. You must have one hand free to use this maneuver.
+**Ligadura Mezana.** When a creature up to one size larger than you and within 5 feet of you targets you with a melee attack, you can use your reaction and expend one superiority die to attempt to lock and counter the attack. Add the superiority die to a Grapple ability check, and if you succeed the creature misses you and is grappled. You may then make a weapon attack against the creature as part of the same reaction. You must have one hand free to use this maneuver.
 
 **Main Gauche Parry.** When you are wielding a weapon in your off hand and another creature hits you with a melee attack, you can use your reaction and expend one superiority die to attempt to parry the attack. You add the superiority die to your AC, including against the triggering attack, until the start of your next turn or until you’re not holding the weapon. This superior AC applies only to melee attacks against you.
 
 **Numbing Shot.** You know how to strike a nerve, causing your enemy to crumple. When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to cause great pain to the creature. You add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save the target falls prone until the end of your next turn.
 
-**One-Two Punch.** You stab your blade into the back of one opponent and then into the chest of another. When you make a successful melee sneak attack against a creature, you may expend a superiority die to attempt to attack another creature within 5 feet of you, and. add your superiority die to the attack roll. If you hit the second creature, you may apply sneak attack damage to it. You must use this maneuver before making the attack roll.
+**One-Two Punch.** You stab your blade into the back of one opponent and then into the chest of another. When you make a successful melee sneak attack against a creature, you may expend a superiority die to attempt to attack another creature within 5 feet of you, and add your superiority die to the attack roll. If you hit the second creature, you may apply sneak attack damage to it. You must use this maneuver before making the attack roll.
 
 **Precision Attack.** When you make an attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any of the effects of the attack are applied.
 
@@ -128,7 +122,7 @@ If you attempt a grapple, add the superiority die to the grapple check. If you s
 #### Signature Maneuvers
 Maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a stiletto weapon to use a signature maneuver.
 
-**Master Stiletto.** You master control of yourself and of other hostile creatures. As a bonus action you trigger the following effects, which last for one minute or until you end them. You must finish a short or long rest before you can use this maneuver again.
+**Master Stiletto.** You master control of yourself and of your foes. As a bonus action you trigger the following effects, which last for one minute or until you end them. You must finish a short or long rest before you can use this maneuver again.
 * Your attacks become deadly. Add an extra 2d6 to the damage roll each time you hit with a sneak attack.
 * You become fearsome on the battlefield. Each creature who is hostile to you, who can see you, and is within 30 feet must make a Wisdom saving throw vs your maneuver DC. On a failed save, the creature is frightened of you for one minute.
 * You can attack twice, instead of once, whenever you take the attack action on your turn.
@@ -136,7 +130,7 @@ Maneuvers are presented in alphabetical order. Unless otherwise noted, you must 
 * You do not need to expend a superiority die to feint as a bonus action.
 * You may add your Intelligence modifier to your armor class.
 
-**Strike of Perfect Clarity.** Your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe with a single attack. When you sneak attack using a light melee weapon and hit a creature, you deal an extra 100 points of damage. Once you use this maneuver, you can’t use it again until you finish a long rest.
+**Strike of Perfect Clarity.** Your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you sneak attack and hit a creature, you deal an extra 100 points of damage. Once you use this maneuver, you can’t use it again until you finish a long rest.
 
 <div class='pageNumber'>3</div>
 <div class='footnote'>PART 2 | MANEUVERS</div>
@@ -150,8 +144,8 @@ Maneuvers are presented in alphabetical order. Unless otherwise noted, you must 
 | Level | Proficiency Bonus | Features |
 |:---:|:---:|:---|
 | 3rd | +2 | Combat Superiority, Grappler |
-| 9th | +4 | Pitiless Grappler, additional basic maneuvers, additional superiority die, Improved superiority |
-| 13th | +5 | Bloodbath, additional basic maneuvers, additional superiority die |
+| 9th | +4 | Pitiless Grappler, additional maneuvers, additional superiority die, Improved superiority |
+| 13th | +5 | Bloodbath, additional maneuvers, additional superiority die |
 | 17th | +6 | Signature maneuver, Improved superiority |
 </div>
 
@@ -179,7 +173,7 @@ The *Ligadura Mezana* is a real lock and counter maneuver documented by [Fiore d
 I have play-tested the Stiletto through 3rd level. On paper, the archetype appears overpowered, but plays surprisingly well. Its ability to impose unfavorable conditions makes up for its lack of "almost always on" sneak attacks, but the maneuver save DC is low enough (assuming a standard point array) that your opponents will frequently overcome them. To do:
 
 * Play-test beyond 3rd level.
-* Create more basic maneuvers based on real dagger maneuvers in Fiore, without re-introducing "called shots" from earlier editions.
+* Create more maneuvers based on real dagger maneuvers in Fiore, without re-introducing "called shots" from earlier editions.
 * Create more signature maneuvers.
 * Clean up "Strike of Perfect Clarity." Math makes it equivalent to assassin with surprise at 20th level, but +100 doesn't feel like 5e.
 
@@ -192,10 +186,7 @@ The source code for this archetype, along with other statblocks, is hosted on [G
 > #### Stiletto Playtesting Notes
 > Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
 >
-> The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level.
-
-
-
+> The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level. And grappling effectively is a core part of the Stiletto's repertoire: by 9th level if he hits a grappled opponent using a stiletto weapon he will score a critical hit 27% of the time.
 
 <div class='wide'>
 <!--img
