@@ -113,7 +113,7 @@ If you attempt a grapple, add the superiority die to the grapple check. If you s
 <div style='margin-top:30px'></div>
 
 > #### Stiletto Playtesting Notes
-> Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
+> Unlike the Swashbuckler or the UA Inquisitive, the Stiletto has no “almost always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
 >
 > The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level. And grappling effectively is a core part of the Stiletto's repertoire: by 9th level if he hits a grappled opponent using a stiletto weapon he will score a critical hit 27% of the time.
 
