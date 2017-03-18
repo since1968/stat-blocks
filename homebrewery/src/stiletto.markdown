@@ -47,10 +47,6 @@ Starting at 13th level, you become a master of slicing a foe’s artery to infli
 Your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you score a critical hit against a creature, you deal an extra 100 points of damage.
 
 
-> #### Stiletto Playtesting Notes
-> Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
->
-> The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level. And grappling effectively is a core part of the Stiletto's repertoire: by 9th level if he hits a grappled opponent using a stiletto weapon he will score a critical hit 27% of the time.
 
 
 <div class='pageNumber'>1</div>
@@ -113,6 +109,11 @@ If you attempt a grapple, add the superiority die to the grapple check. If you s
 **Twist the Knife.** You have learned to twist the blade sharply before retracting it. When you hit a creature with a melee weapon attack, you can expend one superiority die to cause a bleeding wound. Add the superiority die to the attack’s damage roll. The target takes 1d6 damage on each subsequent round at the end of its turn. The target may stop the bleeding with a Wisdom (Medicine) check, or by casting _cure wounds_. Damage from multiple wounds is cumulative.
 
 **Unnerving Flourish.** Your deadly display of combat prowess unnerves your opponents, leaving them cowering in fear and at your mercy. Whenever you reduce a creature to 0 hit points with a melee attack, you can use a bonus action to expend one superiority die, and instead leave the creature at 1 hit point. The creature is frightened of you for a number of minutes equal to your Charisma modifier. It must also make a Charisma saving throw with a DC equal to your maneuver DC + a bonus equal to the roll of your superiority die. If the creature fails this saving throw, it answers truthfully any questions you ask it and obeys your direct orders while it is frightened by this effect.
+
+> #### Stiletto Playtesting Notes
+> Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
+>
+> The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level. And grappling effectively is a core part of the Stiletto's repertoire: by 9th level if he hits a grappled opponent using a stiletto weapon he will score a critical hit 27% of the time.
 
 
 <div class='pageNumber'>3</div>
