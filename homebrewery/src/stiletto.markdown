@@ -110,13 +110,19 @@ If you attempt a grapple, add the superiority die to the grapple check. If you s
 
 **Unnerving Flourish.** Your deadly display of combat prowess unnerves your opponents, leaving them cowering in fear and at your mercy. Whenever you reduce a creature to 0 hit points with a melee attack, you can use a bonus action to expend one superiority die, and instead leave the creature at 1 hit point. The creature is frightened of you for a number of minutes equal to your Charisma modifier. It must also make a Charisma saving throw with a DC equal to your maneuver DC + a bonus equal to the roll of your superiority die. If the creature fails this saving throw, it answers truthfully any questions you ask it and obeys your direct orders while it is frightened by this effect.
 
+<div style='margin-top:30px'></div>
+
 > #### Stiletto Playtesting Notes
 > Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
 >
 > The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level. And grappling effectively is a core part of the Stiletto's repertoire: by 9th level if he hits a grappled opponent using a stiletto weapon he will score a critical hit 27% of the time.
->
-> Otherwise, if he attacks with advantage he'll score a critical hit 10% of the time.
 
+<div style='margin-top:30px'></div>
+
+### Credits
+The Stiletto archetype was created by [Marc Garrett](https://github.com/since1968). Styled with  [Homebrewery](http://homebrewery.naturalcrit.com/).
+
+The source code for this archetype, along with other statblocks, is hosted on [Github](https://github.com/since1968/statblocks). See something broken? Please [file an issue](https://github.com/since1968/statblocks/issues).
 
 <div class='pageNumber'>3</div>
 <div class='footnote'>PART 2 | MANEUVERS</div>
@@ -162,6 +168,16 @@ The archetype is a pastiche of martial strikers. Most of the maneuvers are taken
 
 \page
 
+### Design Notes
+
+** Bloodbath** is intended to be similar to the 5th level Druid spell _Congtagion_, specifically _Slimy Doom_. A Druid can cast two 5th level spells at 13th level, the same level the Stiletto gets _Bloodbath_. The Stiletto will trigger Bloodbath:
+
+* 5% of the time if he attacks without advantage,
+* About 10% of the time if he attacks with advantage, and
+* 27% of the time if his opponent is grappled.
+
+After triggering Bloodbath the best move is to grapple, which should be automatic.
+
 ### To Do
 
 I have play-tested the Stiletto through 3rd level. On paper, the archetype appears overpowered, but plays surprisingly well. Its ability to impose unfavorable conditions makes up for its lack of "almost always on" sneak attacks, but the maneuver save DC is low enough (assuming a standard point array) that your opponents will frequently overcome them. To do:
@@ -172,11 +188,6 @@ I have play-tested the Stiletto through 3rd level. On paper, the archetype appea
 * What about Feint as a bonus action with expending die at 13th level?
 
 
-### Credits
-The Stiletto archetype was created by [Marc Garrett](https://github.com/since1968). Styled with  [Homebrewery](http://homebrewery.naturalcrit.com/).
-
-The source code for this archetype, along with other statblocks, is hosted on [Github](https://github.com/since1968/statblocks). See something broken? Please [file an issue](https://github.com/since1968/statblocks/issues).
-
 
 <div class='pageNumber'>5</div>
-<div class='footnote'>PART 3 | Appendix</div>
+<div class='footnote'>PART 4 | Appendix</div>
