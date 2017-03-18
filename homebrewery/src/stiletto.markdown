@@ -114,6 +114,8 @@ If you attempt a grapple, add the superiority die to the grapple check. If you s
 > Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
 >
 > The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level. And grappling effectively is a core part of the Stiletto's repertoire: by 9th level if he hits a grappled opponent using a stiletto weapon he will score a critical hit 27% of the time.
+>
+> Otherwise, if he attacks with advantage he'll score a critical hit 10% of the time.
 
 
 <div class='pageNumber'>3</div>
@@ -166,7 +168,6 @@ I have play-tested the Stiletto through 3rd level. On paper, the archetype appea
 
 * Play-test beyond 3rd level.
 * Create more maneuvers based on real dagger maneuvers in Fiore, without re-introducing "called shots" from earlier editions.
-* Create more signature maneuvers.
 * Clean up "Strike of Perfect Clarity." Math makes it equivalent to assassin with surprise at 20th level, but +100 doesn't feel like 5e.
 * What about Feint as a bonus action with expending die at 13th level?
 
