@@ -10,7 +10,7 @@ Some Stiletti are bookish, preferring to find their next maneuver in an obscure 
 Common backgrounds for Stiletti are Noble, Mercenary Veteran, Sage, and Soldier.
 
 #### Combat Superiority
-At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
+Your practice of close quarters combat gives you mastery of combat styles using grappling and stiletto weapons, which are any weapons that do piercing damage and that have the light and finesse property. 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
 
 **Maneuvers.** You learn three basic maneuvers of your choice, which are detailed below.
 
@@ -32,15 +32,20 @@ When you make an Attack action with a grapple, you can use a bonus action to att
 #### Improved Combat Superiority
 At 9th level, your superiority dice turn in to d10s. At 17th level, they turn into d12s.
 
+```
+```
+#### Pitiless Grappler
+Starting at 9th level, your understanding of locks and pressure points make you a Grappler without parallel. Add your Intelligence modifier to Grapple checks. Any melee attacks you make against a creature you have grappled score a critical hit on a roll of 18-20.
+
+<!--
 #### Elegant Courtier
 
-Starting at 9th level, your discipline and knowledge of protocol allow you to excel in social situations that require strict adherence to etiquette. You can add your Intelligence modifier to any Charisma check you make to persuade or please a noble of anyone else of high social station.
+Starting at 13th level, your discipline and knowledge of protocol allow you to excel in social situations that require strict adherence to etiquette. You can add your Intelligence modifier to any Charisma check you make to persuade or please a noble of anyone else of high social station.
+-->
 
-```
-```
+#### Bloodbath
+Starting at 13th level, you become a master of slicing a foe’s artery to inflict a gushing wound. When you score a critical hit against a creature, the creature must make a Constitution saving throw. On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature may take an action to stop the bleeding with a successful Wisdom (Medicine) check on its turn, or by casting _cure wounds_. You must be using a stiletto weapon to use this feature.
 
-#### Pitiless Grappler
-Starting at 13th level, your understanding of locks and pressure points make you a Grappler without parallel. Add your Intelligence modifier to Grapple checks. Any melee attacks you make against a creature you have grappled score a critical hit on a roll of 18-20.
 
 #### Signature Maneuver
 Starting at 17th level, you become known for a deadly maneuver. Due to your research, either in libraries or with a martial scholar, you master or invent a signature maneuver. You may use this maneuver at will unless the maneuver specifies otherwise. You are not required to expend a superiority die to commit this maneuver.
@@ -50,7 +55,7 @@ Select one maneuver from the list of Signature Maneuvers, which are detailed bel
 > #### Creating Your Own Maneuver
 > You may create your own signature maneuver. You must spend one week of training to master this maneuver.
 
-> Work with your DM to approve this maneuver. If you create your own maneuver, follow these guidelines:
+> Work with your DM to approve this maneuver. Follow these guidelines:
 
 > * The maneuver must use either a melee weapon with the light and finesse properties or a grapple, or it may use a combination of melee weapon attack and grapple.
 > * The maneuver may use your bonus action or your action, or be triggered as a reaction.
@@ -65,7 +70,7 @@ Select one maneuver from the list of Signature Maneuvers, which are detailed bel
 
 
 #### Basic Maneuvers
-The maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a light, finesse weapon to use a basic maneuver.
+The maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a stiletto weapon to use a basic maneuver.
 
 **Disarming Attack.** You learn to disarm an opponent whether you are attacking or defending.
 
@@ -118,13 +123,10 @@ If you attempt a grapple, add the superiority die to the grapple check. If you s
 
 **Twist the Knife.** You have learned to twist the blade sharply before retracting it. When you hit a creature with a melee weapon attack, you can expend one superiority die to cause a bleeding wound. Add the superiority die to the attack’s damage roll. The target takes 1d6 damage on each subsequent round at the end of its turn. The target may stop the bleeding with a Wisdom (Medicine) check, or by casting _cure wounds_. Damage from multiple wounds is cumulative.
 
-
 **Unnerving Flourish.** Your deadly display of combat prowess unnerves your opponents, leaving them cowering in fear and at your mercy. Whenever you reduce a creature to 0 hit points with a melee attack, you can use a bonus action to expend one superiority die, and instead leave the creature at 1 hit point. The creature is frightened of you for a number of minutes equal to your Charisma modifier. It must also make a Charisma saving throw with a DC equal to your maneuver DC + a bonus equal to the roll of your superiority die. If the creature fails this saving throw, it answers truthfully any questions you ask it and obeys your direct orders while it is frightened by this effect.
 
 #### Signature Maneuvers
-Maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a light, finesse weapon to use a signature maneuver.
-
-**Bloodbath.** You become a master of slicing a foe’s artery to inflict a gushing wound. When you hit a creature with a sneak attack, it must make a Constitution saving throw. On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and constitution saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature may stop the bleeding with a successful Wisdom (Medicine) check on its turn, or by casting _cure wounds_.
+Maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a stiletto weapon to use a signature maneuver.
 
 **Master Stiletto.** You master control of yourself and of other hostile creatures. As a bonus action you trigger the following effects, which last for one minute or until you end them. You must finish a short or long rest before you can use this maneuver again.
 * Your attacks become deadly. Add an extra 2d6 to the damage roll each time you hit with a sneak attack.
@@ -143,6 +145,17 @@ Maneuvers are presented in alphabetical order. Unless otherwise noted, you must 
 
 # Appendix
 
+<div class='classTable'>
+##### Stiletto Archetype Features Summary
+| Level | Proficiency Bonus | Features |
+|:---:|:---:|:---|
+| 3rd | +2 | Combat Superiority, Grappler |
+| 9th | +4 | Pitiless Grappler, additional basic maneuvers, additional superiority die, Improved superiority |
+| 13th | +5 | Bloodbath, additional basic maneuvers, additional superiority die |
+| 17th | +6 | Signature maneuver, Improved superiority |
+</div>
+
+
 ### Sources
 The Stiletto archetype was inspired by Guy Windsor's excellent course [The Medieval Dagger](http://swordschool.teachable.com/p/the-medieval-dagger). You can see him perform medieval dagger maneuvers at his [Sword School](https://www.youtube.com/user/swordschool). Any errors in abstracting medieval dagger fighting for D&D are mine, not his.
 
@@ -157,12 +170,6 @@ The archetype is a pastiche of martial strikers. Most of the maneuvers are taken
 * Images: La Navaja, Joseph Saint-Germier, 1888. Katenspiel Streit, Jan Steen (1625/1626–1679), via Wikimedia Commons
 
 The *Ligadura Mezana* is a real lock and counter maneuver documented by [Fiore dei Liberi](https://en.wikipedia.org/wiki/Fiore_dei_Liberi).
-
-> #### Stiletto Playtesting Notes
-> Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
->
-> The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level.
-
 
 ```
 ```
@@ -181,6 +188,13 @@ I have play-tested the Stiletto through 3rd level. On paper, the archetype appea
 The Stiletto archetype was created by [Marc Garrett](https://github.com/since1968). Styled with  [Homebrewery](http://homebrewery.naturalcrit.com/).
 
 The source code for this archetype, along with other statblocks, is hosted on [Github](https://github.com/since1968/statblocks). See something broken? Please [file an issue](https://github.com/since1968/statblocks/issues).
+
+> #### Stiletto Playtesting Notes
+> Unlike the Swashbuckler or the Inquisitive, the Stiletto has no “always on” sneak attack. The archetype is built around two techniques: setting up a sneak attack by imposing a short term condition like blindness, grappled, or stunned; and making sneak attacks during your opponent’s turn.
+>
+> The Stiletto is unlikely to be as strong as many of his opponents. If he hopes to grapple effectively he should take Expertise in Athletics at first level.
+
+
 
 
 <div class='wide'>
