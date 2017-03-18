@@ -46,7 +46,7 @@ Starting at 13th level, you become a master of slicing a foe’s artery to infli
 #### Strike of Perfect Clarity
 Your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you score a critical hit against a creature, you deal an extra 100 points of damage.
 
-
+<img src='https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/Albretcht-Durer-1512.png' style='position:absolute;bottom:130px;right:30px;width:384px' />
 
 
 <div class='pageNumber'>1</div>
