@@ -41,10 +41,10 @@ Starting at 9th level, your understanding of locks and pressure points make you 
 Your stiletto weapon attacks against a creature you have grappled score a critical hit on a roll of 18-20.
 
 #### Bloodbath
-Starting at 13th level, you become a master of slicing a foe’s artery to inflict a gushing wound. When you score a critical hit against a creature, it must make a Constitution saving throw. On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature may take an action to stop the bleeding with a successful Wisdom (Medicine) check on its turn, or by casting _cure wounds_. You must be using a stiletto weapon to use this feature.
+Starting at 13th level, you become a master of slicing a foe’s artery to inflict a gushing wound. When you score a critical hit against a creature, it must make a Constitution saving throw. On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature may take an action to stop the bleeding with a successful Wisdom (Medicine) check on its turn, or by casting _cure wounds_. You must be wielding a stiletto weapon to use this feature.
 
 #### Strike of Perfect Clarity
-Starting at 17th level, your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you score a critical hit against a creature, you deal an extra 100 points of damage.
+Starting at 17th level, your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you score a critical hit against a creature, you deal an extra 100 points of damage. You must be wielding a stiletto weapon to use this feature.
 
 <img src='https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/Albretcht-Durer-1512.png' style='position:absolute;bottom:130px;right:30px;width:384px' />
 
