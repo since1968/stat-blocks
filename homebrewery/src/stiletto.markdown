@@ -5,7 +5,7 @@ You pursue the art of close quarters fighting with light weapons. A Stiletto is 
 
 Disdaining any protection heavier than a gambeson and chamois gloves, Stiletti are often found in service of nobles, who pay Stiletti to duel on their behalf. A Stiletto can also be found training condottieri in the art of one-on-one combat, or gentlemen in the science of street fighting.
 
-Some Stiletti are bookish, preferring to find their next maneuver in an obscure tome. Others are gregarious and just as likely to learn about pressure points from a Monk as they are to debate a Fighter’s parrying technique. All share the same belief: _measure twice, cut once_.
+Some Stiletti are bookish, preferring to discover their next maneuver in an obscure tome. Others are gregarious and just as likely to learn about pressure points from a Monk as they are to debate a Fighter’s parrying technique. All share the same belief: _measure twice, cut once_.
 
 Common backgrounds for Stiletti are Noble, Mercenary Veteran, Sage, and Soldier.
 
@@ -57,7 +57,7 @@ Starting at 17th level, your supreme focus and perfect fighting form allow you t
 #### Maneuvers
 The maneuvers are presented in alphabetical order. Unless otherwise noted, you must be wielding a stiletto weapon to use a maneuver.
 
-**Disarming Attack.** You learn to disarm an opponent whether you are attacking or defending.
+**Disarm.** You learn to disarm an opponent whether you are attacking or defending.
 
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. You add the superiority die to the attack’s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
