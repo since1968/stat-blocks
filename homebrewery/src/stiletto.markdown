@@ -69,11 +69,11 @@ When a creature misses you with a melee attack using a weapon with which you are
 ```
 ```
 
-**Flying Dagger.** You have practiced the art of drawing and throwing a weapon in one smooth motion. You can expend one superiority die and use a bonus action to draw & throw a weapon, choosing one creature in throwing range as your target. If the attack hits, add the superiority die to the damage roll. Drawing the weapon does not count as an object interaction.
-
 **Go for the Eyes.** When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to blind the creature. You add the superiority die to the attack’s damage roll, and if the target has eyes it must make a Dexterity saving throw. On a failed save the target is blinded until the end of your next turn.
 
 **Hamstring.** You attempt to hobble your opponent. When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to injure its legs. Add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save the target falls prone and its movement is reduced to 0 until the end of your next turn.
+
+**Hilt Slam.** You brutally slam the hilt of your weapon into your foe’s head, sending the creature staggering. If you take the attack action on your turn, you can expend a superiority die and take a bonus action to attack the same creature with the hilt end of your weapon. The hilt’s damage die for this attack is a d4, and the attack deals bludgeoning damage. If you hit the creature, add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save, the target is stunned until the end of your next turn.
 
 <div class='wide'>
 <img
@@ -85,7 +85,6 @@ When a creature misses you with a melee attack using a weapon with which you are
 
 \page
 
-**Hilt Slam.** You brutally slam the hilt of your weapon into your foe’s head, sending the creature staggering. If you take the attack action on your turn, you can expend a superiority die and take a bonus action to attack the same creature with the hilt end of your weapon. The hilt’s damage die for this attack is a d4, and the attack deals bludgeoning damage. If you hit the creature, add the superiority die to the attack’s damage roll, and the target must make a Constitution saving throw. On a failed save, the target is stunned until the end of your next turn.
 
 **Ligadura Mezana.** When a creature up to one size larger than you and within 5 feet of you targets you with a melee attack, you can use your reaction and expend one superiority die to attempt to lock and counter the attack. Add the superiority die to a Grapple ability check, and if you succeed the creature misses you and is grappled. You may then make a weapon attack against the creature as part of the same reaction. You must have one hand free to use this maneuver.
 
