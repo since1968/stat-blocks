@@ -66,6 +66,7 @@ The Gladiator is intended for close quarters fighting against humanoids. The arc
 - Intent is to steer player to light, Gladiator weapons and away from **Heavy Weapon Master** cheese.
 - Needs testing against monstrosities, huge monsters, and at range.
 - Should have great synergy with **Shield Master** and **Sentinel**.
+- This archetype pilfers portions of feats the same way the **Cavalier** does.
 
 ```
 ```
