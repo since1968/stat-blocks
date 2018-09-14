@@ -23,7 +23,7 @@ You gain a +1 bonus to AC when you are wearing light or medium armor weighing 20
 
 When a creature you can see attacks you with a melee attack, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-If you are wielding a gladius and an attack affected by your Murmillo fighting style fails to hit you, you may make a melee attack with your gladius against the creature that attacked you as part of the same reaction.
+If you are wielding a gladius and an attack affected by your Murmillo fighting style fails to hit you, you may make a melee attack with your gladius against the creature that attacked you as part of the same reaction, or you may attempt to grapple the creature.
 
 
 #### Bloody Entertainer
@@ -65,7 +65,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 ### Design Notes
 The Gladiator is intended for close quarters fighting against humanoids. 
 
-- The archetype is roughly a mix of Hoplomachus and Murmillo. It owes more to [Brad Pitt in Troy](https://www.youtube.com/watch?v=NQ62frK74u0) than to historical gladiators.
+- The archetype is roughly a mix of Hoplomachus and Murmillo. It owes more to [Brad Pitt in Troy](https://www.youtube.com/watch?v=NQ62frK74u0), not even a gladiator!, than to history.
 - Pit Fighter and Pit Master takes portions of the UA Spear Master feat and Polearm Master feat.
 - Strength Before Death is the same as the 18th level Samurai feature.
 - Unarmed strike damage is intended to stay several levels behind the Monk.
@@ -73,6 +73,9 @@ The Gladiator is intended for close quarters fighting against humanoids.
 - Needs testing against monstrosities, huge monsters, and at range.
 - Should have great synergy with **Shield Master** and **Sentinel**.
 - This archetype pilfers portions of feats the same way the **Cavalier** does.
+- Armor bonus: intent is to allow light armor, or chain shirt or breast plate. Exclude half plate.
+- Really could use Uncanny Dodge. What about pulling out Dirty Fighting? Competes for other uses of Reaction.
+- If we're really going to model Achilles what about renaming the archetype Hoplite? And changing 7th level ribbon?
 
 ```
 ```
@@ -85,7 +88,7 @@ The Gladiator is intended for close quarters fighting against humanoids.
 | 3rd | +2 | Pit Fighter, Murmillo Fighting Style |
 | 7th | +3 | Bloody Entertainer |
 | 10th | +4 | Pit Master, Improved Martial Arts |
-| 15th | +5 | Dirty Fighting |
+| 15th | +5 | Dirty Fighting? Uncanny Dodge? |
 | 18th | +6 | Strength Before Death, Improved Martial Arts |
 </div>
 
