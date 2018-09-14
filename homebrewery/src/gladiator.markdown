@@ -19,7 +19,7 @@ When you choose this archetype at 3rd level, your practice of martial arts gives
 ** Attack Save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
 ##### Murmillo Fighting Style
-You gain a +1 bonus to AC when you are wearing light armor.
+You gain a +1 bonus to AC when you are wearing light or medium armor weighing 20 pounds or less.
 
 When a creature you can see attacks you with a melee attack, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
@@ -38,6 +38,11 @@ Additionally, your spear becomes a reach weapon. Other creatures provoke an oppo
 
 ```
 ```
+
+<!--div class='wide'>
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/detail_vestal_virgins.jpg" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
+</div-->
 
 #### Dirty Fighting
 Starting at 15th level, you learn to dishearten your opponent with your brutal techniques. If you have advantage on a weapon attack or unarmed strike against a target on your turn, you can forgo that advantage to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
