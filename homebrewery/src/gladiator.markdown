@@ -6,17 +6,17 @@ For a gladiator, survival depends not only on strength and speed but also on glo
 #### Pit Fighter
 When you choose this archetype at 3rd level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes, shields, and gladiator weapons.
 
-**Unarmed Strikes.** Your unarmed strikes use a d4 for damage. At 10th level, this die turns into d6. At 18th level, it turns into d8. You are not required to have a free hand to make an unarmed strike.
+**Unarmed Strikes.** Your unarmed strikes use a d4 for damage. This die changes as you gain fighter levels. At 10th level, your unarmed strike die turns into a d6. At 18th level, it turns into a d8. You are not required to have a free hand to make an unarmed strike.
 
-**Grappling.** Whenever an enemy tries to grapple you and fails, you may use your reaction to try to grapple the attacking creature back. Make new rolls for this attempt. If you are holding a shield, you may grapple with your shield hand. When you have grappled an opponent you attack that opponent with advantage.
+**Grappling.** Whenever an enemy tries to grapple you and fails, you may use your reaction to try to grapple the attacking creature back. Make new rolls for this attempt. If you are holding a shield, you may grapple with your shield hand. You have advantage on attack rolls against a creature you are grappling.
 
 **Gladiator weapons.** When you use a gladiator weapon that is not light, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands.  Gladiator weapons are the gladius (short sword) and the spear. 
 
 **Fighting Style.** You learn the Murmillo fighting style.
 
-**Saving Throws.** Some of your attacks require your target to make a saving throw to resist the attack's effects. The saving throw DC = 8 + your proficiency bonus + your Strength modifier.
+**Saving Throws.** Some of your attacks require your target to make a saving throw to resist the attack's effects. The saving throw DC is calculated as follows:
 
-
+** Attack Save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
 ##### Murmillo Fighting Style
 You gain a +1 bonus to AC when you are wearing light armor.
@@ -58,8 +58,9 @@ Once you use this feature, you can’t use it again until you finish a long rest
 # Appendix
 
 ### Design Notes
-The Gladiator is intended for close quarters fighting against humanoids. The archetype owes more to [Brad Pitt in Troy](https://www.youtube.com/watch?v=NQ62frK74u0) than to historical gladiators. Consider reskinning this as a myrmidon?
+The Gladiator is intended for close quarters fighting against humanoids. 
 
+- The archetype is roughly a mix of Hoplomachus and Murmillo. It owes more to [Brad Pitt in Troy](https://www.youtube.com/watch?v=NQ62frK74u0) than to historical gladiators.
 - Pit Fighter and Pit Master takes portions of the UA Spear Master feat and Polearm Master feat.
 - Strength Before Death is the same as the 18th level Samurai feature.
 - Unarmed strike damage is intended to stay several levels behind the Monk.
@@ -78,9 +79,9 @@ The Gladiator is intended for close quarters fighting against humanoids. The arc
 |:---:|:---:|:---|
 | 3rd | +2 | Pit Fighter, Murmillo Fighting Style |
 | 7th | +3 | Bloody Entertainer |
-| 10th | +4 | Pit Master |
+| 10th | +4 | Pit Master, Improved Martial Arts |
 | 15th | +5 | Dirty Fighting |
-| 18th | +6 | Strength Before Death |
+| 18th | +6 | Strength Before Death, Improved Martial Arts |
 </div>
 
 
