@@ -42,12 +42,12 @@ Hoplites often fashion their own arms and armour. At 3rd level, you gain profici
 > While the hoplite existed in the real world, my inspiration for this archetype is taken from popular culture, not from history. My intent is to capture the cinematic fighting style of Achilles in the movie "Troy," especially in his epic fight with Hector, rather than create an accurate historical representation of a hoplite.
 
 #### Remarkable Athlete
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strenght, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
 You can also use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.
 
 
-#### Monomachía Master
+#### Battle Veteran
 You master the art of single combat. At 10th level, you gain advantage on any grapple checks you make. 
 
 Additionally, other creatures provoke an opportunity attack from you when they enter the reach you have with your doru.
@@ -84,6 +84,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 - Armor bonus: intent is to allow light armor, or chain shirt or breast plate. Exclude half plate.
 - Remarkable Athlete draws from Champion feat of the same name and Swashbuckler "Elegant Maneuver."
 - [Discussion](https://www.quora.com/Did-actual-Ancient-Greek-sword-fights-look-similar-to-the-fight-of-Achilles-and-Hector-in-the-movie-Troy) of Achilles v Hector movie fight
+- Features at 3rd and 10th level are good, but names are terrible. What about Monomachía?
 
 ```
 ```
@@ -95,7 +96,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 |:---:|:---:|:---|
 | 3rd | +2 | Battle Tactics, Hoplite Fighting Style, Citizen Soldier |
 | 7th | +3 | Remarkable Athlete |
-| 10th | +4 | Monomachía Master, Improved Martial Arts |
+| 10th | +4 | Battle Veteran, Improved Martial Arts |
 | 15th | +5 | Rapid Strike |
 | 18th | +6 | Strength Before Death, Improved Martial Arts |
 </div>
