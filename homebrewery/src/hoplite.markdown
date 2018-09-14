@@ -1,10 +1,11 @@
 # Fighter Archetypes
 
 ### Hoplite
+Fighters who aspire to this archetype seek more than adventure and gold; they seek glory in victory. Lightly armored experts in close quarters fighting, hoplites disfavor ranged weapons unless thrown.
 
 _"There are no pacts between lions and men."_
 
-#### Pit Fighter
+#### Battle Tactics
 When you choose this archetype at 3rd level, your practice of martial arts gives you mastery of combat styles that use hoplite weapons, shields, and unarmed strikes. You gain proficiency in hoplite weapons.
 
 **Hoplite weapons.**  Hoplite weapons are the _xiphos_ (short sword) and the _doru_ (spear). When you use a doru it becomes a reach weapon. Its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands.
@@ -26,18 +27,8 @@ When a creature you can see attacks you with a melee attack, you can use your re
 
 If you are wielding a hoplite weapon and an attack affected by your hoplite fighting style fails to hit you, you may make a melee attack with your hoplite weapon against the creature that attacked you as part of the same reaction, or you may attempt to grapple the creature.
 
-
-#### Remarkable Athlete
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strenght, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
-
-You can also use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.
-
-
-#### Pit Master
-At 10th level, you gain advantage on any grapple checks you make. 
-
-Additionally, other creatures provoke an opportunity attack from you when they enter the reach you have with your doru.
-
+#### Citizen Soldier
+Hoplites often fashion their own arms and armour. At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
 
 ```
 ```
@@ -50,16 +41,30 @@ Additionally, other creatures provoke an opportunity attack from you when they e
 > #### Hoplites and History
 > While the hoplite existed in the real world, my inspiration for this archetype is taken from popular culture, not from history. My intent is to capture the cinematic fighting style of Achilles in the movie "Troy," especially in his epic fight with Hector, rather than create an accurate historical representation of a hoplite.
 
+#### Remarkable Athlete
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strenght, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+
+You can also use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.
 
 
-#### Dirty Fighting
-Starting at 15th level, you learn to dishearten your opponent with your brutal techniques. If you have advantage on a weapon attack or unarmed strike against a target on your turn, you can forgo that advantage to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+#### Monomachía Master
+You master the art of single combat. At 10th level, you gain advantage on any grapple checks you make. 
+
+Additionally, other creatures provoke an opportunity attack from you when they enter the reach you have with your doru.
+
+
+
+#### Rapid Strike
+Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the Attack action on your turn and have advantage on an attack roll against on one of your targets, you can forgo the advantage for that roll to make an additional attack against that target as part of the same action. You can do so no more than once per turn.
 
 
 #### Strength Before Death
 Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that would reduce you to 0 hit points, you can delay that damage and immediately take a bonus turn, interrupting the current turn. You don’t take the damage until the bonus turn ends. It is possible to do things, such as gaining resistance, that change how much of that damage you take.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+
+
 
 <div class='pageNumber'>1</div>
 <div class='footnote'>PART 1 | THE GLADIATOR</div>
@@ -71,7 +76,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 ### Design Notes
 - The Hoplite is intended for close quarters fighting against humanoids. 
 - Pit Fighter and Pit Master takes portions of the UA Spear Master feat and Polearm Master feat.
-- Strength Before Death is the same as the 18th level Samurai feature.
+- 15th and 18th level features are XGtE Samurai.
 - Unarmed strike damage is intended to stay several levels behind the Monk.
 - Intent is to steer player to light, Hoplite weapons and away from **Heavy Weapon Master** cheese.
 - Should have great synergy with **Shield Master** and **Sentinel**.
@@ -87,10 +92,10 @@ Once you use this feature, you can’t use it again until you finish a long rest
 ##### Hoplite Archetype Features Summary
 | Level | Proficiency Bonus | Features |
 |:---:|:---:|:---|
-| 3rd | +2 | Pit Fighter, Hoplite Fighting Style |
+| 3rd | +2 | Battle Tactics, Hoplite Fighting Style, Citizen Soldier |
 | 7th | +3 | Remarkable Athlete |
-| 10th | +4 | Pit Master, Improved Martial Arts |
-| 15th | +5 | Dirty Fighting |
+| 10th | +4 | Monomachía Master, Improved Martial Arts |
+| 15th | +5 | Rapid Strike |
 | 18th | +6 | Strength Before Death, Improved Martial Arts |
 </div>
 
