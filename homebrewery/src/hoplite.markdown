@@ -83,6 +83,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 - This archetype pilfers portions of feats the same way the **Cavalier** does.
 - Armor bonus: intent is to allow light armor, or chain shirt or breast plate. Exclude half plate.
 - Remarkable Athlete draws from Champion feat of the same name and Swashbuckler "Elegant Maneuver."
+- [Discussion](https://www.quora.com/Did-actual-Ancient-Greek-sword-fights-look-similar-to-the-fight-of-Achilles-and-Hector-in-the-movie-Troy) of Achilles v Hector movie fight
 
 ```
 ```
