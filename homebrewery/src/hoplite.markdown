@@ -1,7 +1,7 @@
 # Fighter Archetypes
 
 ### Hoplite
-Fighters who aspire to this archetype seek more than adventure and gold; they seek glory in victory. Lightly armored experts in close quarters fighting, hoplites disfavor ranged weapons unless thrown.
+Fighters who aspire to this archetype seek more than adventure and gold; they seek glory in victory. Lightly armored experts in close quarters fighting, hoplites value honor and disfavor ranged weapons unless thrown.
 
 _"There are no pacts between lions and men."_
 
@@ -16,10 +16,6 @@ When you choose this archetype at 3rd level, your practice of martial arts gives
 
 **Fighting Style.** You learn the Hoplite Fighting Style.
 
-**Saving Throws.** Some of your attacks require your target to make a saving throw to resist the attack's effects. The saving throw DC is calculated as follows:
-
-** Attack Save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-
 ##### Hoplite Fighting Style
 You gain a +1 bonus to AC when you are wearing light or medium armor weighing 20 pounds or less.
 
@@ -27,8 +23,9 @@ When a creature you can see attacks you with a melee attack, you can use your re
 
 If you are wielding a hoplite weapon and an attack affected by your hoplite fighting style fails to hit you, you may make a melee attack with your hoplite weapon against the creature that attacked you as part of the same reaction, or you may attempt to grapple the creature.
 
-#### Citizen Soldier
-Hoplites often fashion their own arms and armour. At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
+> #### Hoplites and History
+> My inspiration for this archetype is taken from popular culture, not from history. My intent is to capture the cinematic fighting style of Achilles in the movie "Troy," especially in his epic fight with Hector, rather than create an accurate historical representation of a hoplite.
+
 
 ```
 ```
@@ -38,8 +35,8 @@ Hoplites often fashion their own arms and armour. At 3rd level, you gain profici
   src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/detail_vestal_virgins.jpg" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
 </div-->
 
-> #### Hoplites and History
-> While the hoplite existed in the real world, my inspiration for this archetype is taken from popular culture, not from history. My intent is to capture the cinematic fighting style of Achilles in the movie "Troy," especially in his epic fight with Hector, rather than create an accurate historical representation of a hoplite.
+#### Citizen Soldier
+Hoplites often fashion their own arms and armour. At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
 
 #### Rage of Achilles 
 
@@ -52,11 +49,9 @@ You fight with primal ferocity. Starting at 7th level, on your turn you can ente
 Your rage lasts for 1 minute. It ends early if you are knocked unconscious. Once you have raged three times, you must finish a long rest before you can rage again.
 
 #### Battle Veteran
-You master the art of single combat. At 10th level, you gain advantage on any grapple checks you make. 
+You master the art of single combat. At 10th level, you gain proficiency in Athletics. If you already have proficiency in this skill, you double your proficiency bonus for any Athletics (Strength) checks you make. 
 
 Additionally, other creatures provoke an opportunity attack from you when they enter the reach you have with your doru.
-
-
 
 #### Rapid Strike
 Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the Attack action on your turn and have advantage on an attack roll against on one of your targets, you can forgo the advantage for that roll to make an additional attack against that target as part of the same action. You can do so no more than once per turn.
@@ -66,9 +61,6 @@ Starting at 15th level, you learn to trade accuracy for swift strikes. If you ta
 Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that would reduce you to 0 hit points, you can delay that damage and immediately take a bonus turn, interrupting the current turn. You don’t take the damage until the bonus turn ends. It is possible to do things, such as gaining resistance, that change how much of that damage you take.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
-
-
-
 
 <div class='pageNumber'>1</div>
 <div class='footnote'>PART 1 | THE GLADIATOR</div>
