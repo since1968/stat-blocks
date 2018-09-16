@@ -41,11 +41,15 @@ Hoplites often fashion their own arms and armour. At 3rd level, you gain profici
 > #### Hoplites and History
 > While the hoplite existed in the real world, my inspiration for this archetype is taken from popular culture, not from history. My intent is to capture the cinematic fighting style of Achilles in the movie "Troy," especially in his epic fight with Hector, rather than create an accurate historical representation of a hoplite.
 
-#### Expert Athlete
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+#### Rage of Achilles 
 
-Additionally, you gain proficiency in either Athletics or Acrobatics. If you already have proficiency, you gain expertise in one, but not both, of these skills. Your proficiency bonus is doubled for any ability check you make that uses your chosen proficiency.
+You fight with primal ferocity. Starting at 7th level, on your turn you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armor:
 
+- You have advantage on Strength checks and Strength saving throws.
+- When you make a melee weapon attack using Strength, you gain a bonus of +2 to the damage roll.
+- You have resistance to bludgeoning, piercing, and slashing damage.
+
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious. Once you have raged three times, you must finish a long rest before you can rage again.
 
 #### Battle Veteran
 You master the art of single combat. At 10th level, you gain advantage on any grapple checks you make. 
@@ -82,9 +86,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 - Should have great synergy with **Shield Master** and **Sentinel**.
 - This archetype pilfers portions of feats the same way the **Cavalier** does.
 - Armor bonus: intent is to allow light armor, or chain shirt or breast plate. Exclude half plate.
-- Remarkable Athlete draws from Champion feat of the same name and Swashbuckler "Elegant Maneuver."
 - [Discussion](https://www.quora.com/Did-actual-Ancient-Greek-sword-fights-look-similar-to-the-fight-of-Achilles-and-Hector-in-the-movie-Troy) of Achilles v Hector movie fight
-- Features at 3rd and 10th level are good, but names are terrible. What about Monomachía?
 
 ```
 ```
@@ -95,7 +97,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 | Level | Proficiency Bonus | Features |
 |:---:|:---:|:---|
 | 3rd | +2 | Battle Tactics, Hoplite Fighting Style, Citizen Soldier |
-| 7th | +3 | Expert Athlete |
+| 7th | +3 | Rage of Achilles |
 | 10th | +4 | Battle Veteran, Improved Martial Arts |
 | 15th | +5 | Rapid Strike |
 | 18th | +6 | Strength Before Death, Improved Martial Arts |
