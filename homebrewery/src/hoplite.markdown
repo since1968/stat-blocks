@@ -10,7 +10,7 @@ When you choose this archetype at 3rd level, your practice of martial arts gives
 
 **Hoplite weapons.**  Hoplite weapons are the _xiphos_ (short sword) and the _doru_ (spear). When you use a doru it becomes a reach weapon. Its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands.
 
-**Unarmed Strikes.** Your unarmed strikes use a d4 for damage. This die changes as you gain fighter levels. At 10th level, your unarmed strike die turns into a d6. At 18th level, it turns into a d8. You are not required to have a free hand to make an unarmed strike.
+**Unarmed Strikes.** Your unarmed strikes use a d4 for damage. This die changes as you gain fighter levels. At 10th level, your unarmed strike die turns into a d6. At 18th level, it turns into a d8. You are not required to have a free hand to make an unarmed strike. When you use the Attack action with an unarmed strike or hoplite weapon on your turn, you can make one unarmed strike as a bonus action.
 
 **Grappling.** Whenever an enemy tries to grapple you and fails, you may use your reaction to try to grapple the attacking creature back. Make new rolls for this attempt. If you are holding a shield, you may grapple with your shield hand. You have advantage on attack rolls against a creature you are grappling.
 
