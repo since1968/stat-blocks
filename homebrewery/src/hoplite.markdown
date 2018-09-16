@@ -41,10 +41,10 @@ Hoplites often fashion their own arms and armour. At 3rd level, you gain profici
 > #### Hoplites and History
 > While the hoplite existed in the real world, my inspiration for this archetype is taken from popular culture, not from history. My intent is to capture the cinematic fighting style of Achilles in the movie "Troy," especially in his epic fight with Hector, rather than create an accurate historical representation of a hoplite.
 
-#### Remarkable Athlete
+#### Expert Athlete
 Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
-You can also use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.
+Additionally, you gain proficiency in either Athletics or Acrobatics. If you already have proficiency, you gain expertise in one, but not both, of these skills. Your proficiency bonus is doubled for any ability check you make that uses your chosen proficiency.
 
 
 #### Battle Veteran
@@ -95,7 +95,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 | Level | Proficiency Bonus | Features |
 |:---:|:---:|:---|
 | 3rd | +2 | Battle Tactics, Hoplite Fighting Style, Citizen Soldier |
-| 7th | +3 | Remarkable Athlete |
+| 7th | +3 | Expert Athlete |
 | 10th | +4 | Battle Veteran, Improved Martial Arts |
 | 15th | +5 | Rapid Strike |
 | 18th | +6 | Strength Before Death, Improved Martial Arts |
