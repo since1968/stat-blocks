@@ -14,7 +14,7 @@ Your practice of close quarters combat gives you mastery of combat styles using 
 
 At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
 
-**Maneuvers.** You learn three maneuvers of your choice, which are detailed below.
+**Maneuvers.** You learn three maneuvers of your choice, which are detailed below. You must be within 5' of a creature to perform a Stiletto maneuver against it.
 
 You learn two additional maneuvers of your choice at 9th level, and two more at 13th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
@@ -40,7 +40,7 @@ At 13th level, your superiority dice turn in to d10s. At 17th level, they turn i
 #### Pitiless Grappler
 Starting at 9th level, your understanding of locks and pressure points make you a grappler without parallel. Add your Intelligence modifier to grapple checks.
 
-Your stiletto weapon attacks against a creature you have grappled score a critical hit on a roll of 18-20.
+Your stiletto weapon attacks against a creature you have grappled score a critical hit on a roll of 18-20 if you are within 5' of the creature.
 
 #### Bloodbath
 Starting at 13th level, you become a master of slicing a foe’s artery to inflict a gushing wound. When you score a critical hit against a creature, it must make a Constitution saving throw. On a failed save, the creature begins to bleed uncontrollably and falls prone. The creature has disadvantage on Constitution checks and saving throws. In addition, whenever the creature takes damage it is stunned until the end of its next turn. The creature may take an action to stop the bleeding with a successful Wisdom (Medicine) check on its turn, or by casting _cure wounds_. You must be wielding a stiletto weapon to use this feature.
@@ -178,6 +178,8 @@ The archetype is a pastiche of martial strikers. Most of the maneuvers are taken
 * 27% of the time if his opponent is grappled.
 
 After triggering Bloodbath the best move is to grapple, which should be automatic.
+
+Also tweaked distance requirements for maneuvers and improved critical to account for Bugbear's extended reach (Volo's).
 
 ### To Do
 
