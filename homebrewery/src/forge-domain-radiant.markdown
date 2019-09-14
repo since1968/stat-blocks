@@ -7,8 +7,8 @@ The gods of the forge are patrons of artisans who work with metal, from a humble
 | 1st | Bonus Proficiencies, Blessing of the Forge |
 | 2nd | Channel Divinity: Radiance of the Forge |
 | 6th | Soul of the Forge |
-| 8th | Divine Strike (1d8) |
-| 14th | Divine Strike (2d8) |
+| 8th | Divine Strike (2d6) |
+| 14th | Divine Strike (3d6) |
 | 17th | Saint of Forge and Fire |
 
 #### Domain Spells
@@ -56,7 +56,7 @@ Starting at 6th level, your mastery of the forge grants you special abilities:
 * While wearing heavy armor, you gain a +1 bonus to AC.
 
 #### Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with the power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+At 8th level, you gain the ability to infuse your weapon strikes with the power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 2d6 radiant damage to the target. When you reach 14th level, the extra damage increases to 3d6.
 
 #### Saint of Forge and Fire
 At 17th level, your blessed affinity with fire and metal becomes more powerful:
