@@ -1,6 +1,3 @@
-# Divine Domains
-At 1st level, a cleric gains the Divine Domain feature.
-
 ### Radiant Forge Domain
 The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to teh mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost ot the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.
 
@@ -20,15 +17,13 @@ You gain domain spells at the cleric levels listed in the Forge Domain Spells ta
 ##### Forge Domain Spells
 | Cleric Level | Spells |
 |:-----:|:-------------|
-| 1st | _identify_, _wrathful smite_ |
+| 1st | _compelled duel_, _wrathful smite_ |
 | 3rd | _heat metal_, _branding smite_ |
 | 5th | _blinding smite_, _protection from energy_ |
 | 7th | _fabricate_, _wall of fire_ |
 | 9th | _animate objects_, _destructive wave_ |
 
 
-```
-```
 #### Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.
 
@@ -36,6 +31,18 @@ When you choose this domain at 1st level, you gain proficiency with heavy armor 
 At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon. 
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+
+```
+```
+> #### Playtesting Notes
+> The Radiant Forge Domain was adapted from the Forge Domain in _Xanathar's Guide_. I stripped most of the fabrication flavor and raided the Paladin spell list for offensive spells. _Radiance of the Forge_ is lifted from the Light Domain's Channel Divinity feature. My goal was to make this cleric a more effective combatant in Avernus, where most creatures will resist fire damage, while preserving most of the flavor of the original. 
+> 
+> To Do: swap out _fabricate_ for something more fun.
+
+
+<div style='margin-top:30px'></div>
+
 
 #### Channel Divinity: Radiance of the Forge
 Starting at 2nd level, you can use your Channel Divinity to harness the energy of the forge, banishing darkness and dealing radiant damage to your foes.
@@ -58,41 +65,7 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
 * While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
 
- 
-
-
-
-
-```
-```
-
 <div class='pageNumber'>1</div>
 <div class='footnote'>Radiant Forge Domain</div>
 
-\page
 
-# Appendix
-
-### Design Notes
-
-The Radiant Forge Domain adjusts the Forge Domain from Xanathar's Guide to make it more playable in Descent to Avernus, where fiends have resistance or immunity to fire damage.
-
-Thematic changes: raid the paladin's spell list for spells that fit the new flavor; reduced focus on fabrication.
-
-Changes:
-
-* Channel divinity: replaced _artisan's blessing_ with _radiance of the dawn_ from Light Domain. Reflavored.
-* Domain spell: replaced _searing smite_ with _wrathful smite_. Is psychic damage a little off-brand?
-* Domain spell: replaced _magical weapon_ with _branding smite_.
-* Domain spell: replaced _elemental weapon_ with _blinding smite._ Super on-point for new flavor.
-* Domain spell: replaced _creation_ with _destructive wave_.
-* Divine Strike: replaced _fire_ damage with _radiant_ damage. 
-
-### To Do
-
-* Decide whether to keep _wall of fire_. Great spell, might not work well in Avernus.
-* Decide whether to keep _fabricate_. Crummy spell, on point tho.
-
-
-<div class='pageNumber'>2</div>
-<div class='footnote'>PART 2 | Appendix</div>
