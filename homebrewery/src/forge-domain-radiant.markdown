@@ -25,23 +25,24 @@ You gain domain spells at the cleric levels listed in the Forge Domain Spells ta
 
 
 #### Bonus Proficiencies
-When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.
+When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools. Additionally, you gain spear mastery.
+
+#### Spear Mastery
+You gain the following benefits when you wield a spear:
+* You gain a + 1 bonus to attack rolls you make with a spear.
+* When you use a spear its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands.
+* You can set your spear to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creature moves within your spear's reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can't use this ability if the creature used the Disengage action before moving.
+* As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
+
+
+```
+```
+
 
 #### Blessing of the Forge
 At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon. 
 
 Once you use this feature, you can't use it again until you finish a long rest.
-
-
-```
-```
-> #### Playtesting Notes
-> The Radiant Forge Domain was adapted from the Forge Domain in _Xanathar's Guide_. I stripped most of the fabrication flavor and raided the Paladin spell list for offensive spells. _Radiance of the Forge_ is lifted from the Light Domain's Channel Divinity feature. My goal was to make this cleric a more effective combatant in Avernus, where most creatures will resist fire damage, while preserving most of the flavor of the original. 
-> 
-> To Do: swap out _fabricate_ for something more fun.
-
-
-<div style='margin-top:30px'></div>
 
 
 #### Channel Divinity: Radiance of the Forge
@@ -63,6 +64,18 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
 * You gain immunity to fire damage.
 * While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
+<div style='margin-top:30px'></div>
+
+
+
+> #### Playtesting Notes
+> My goal was to make this cleric a more effective combatant in Avernus, where most creatures will resist fire damage, by adding paladin attack spells and radiant damage while preserving most of the flavor of the original. Spear mastery and heavy armor points this PC to a strength build.
+> 
+> To Do: swap out _fabricate_ for something more fun.
+
+
+
 
 
 <div class='pageNumber'>1</div>
