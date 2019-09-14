@@ -7,14 +7,12 @@ The gods of the forge are patrons of artisans who work with metal, from a humble
 ##### Forge Domain Features
 | Cleric Level | Feature |
 |:-----:|:-------------|
-| 1st | Domain Spells, Bonus Proficiencies, Blessing of the Forge |
-| 2nd | Channel Divinity: Artisan's Blessing |
+| 1st | Bonus Proficiencies, Blessing of the Forge |
+| 2nd | Channel Divinity: Radiance of the Forge |
 | 6th | Soul of the Forge |
 | 8th | Divine Strike (1d8) |
 | 14th | Divine Strike (2d8) |
-| 17th | Saint of Forge [and Fire] |
-
-What about allowing him to swap out radiant damage for fire damage at the beginning of the day?
+| 17th | Saint of Forge and Fire |
 
 #### Domain Spells
 You gain domain spells at the cleric levels listed in the Forge Domain Spells table. 
@@ -22,12 +20,15 @@ You gain domain spells at the cleric levels listed in the Forge Domain Spells ta
 ##### Forge Domain Spells
 | Cleric Level | Spells |
 |:-----:|:-------------|
-| 1st | identify, [searing smite] |
-| 3rd | [heat metal], magic weapon |
-| 5th | elemental weapon, protection from energy |
-| 7th | fabricate, [wall of fire] |
-| 9th | animate objects, creation |
+| 1st | _identify_, _wrathful smite_ |
+| 3rd | _heat metal_, _branding smite_ |
+| 5th | _blinding smite_, _protection from energy_ |
+| 7th | _fabricate_, _wall of fire_ |
+| 9th | _animate objects_, _destructive wave_ |
 
+
+```
+```
 #### Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.
 
@@ -36,8 +37,10 @@ At 1st level, you gain the ability to imbue magic into a weapon or armor. At the
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-#### Channel Divinity: Artisan's Blessing
-[create item? or +10 to hit?]
+#### Channel Divinity: Radiance of the Forge
+Starting at 2nd level, you can use your Channel Divinity to harness the energy of the forge, banishing darkness and dealing radiant damage to your foes.
+
+As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
 
 #### Soul of the Forge
 Starting at 6th level, your mastery of the forge grants you special abilities:
@@ -46,7 +49,7 @@ Starting at 6th level, your mastery of the forge grants you special abilities:
 * While wearing heavy armor, you gain a +1 bonus to AC.
 
 #### Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with the power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 [radiant] damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+At 8th level, you gain the ability to infuse your weapon strikes with the power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 #### Saint of Forge and Fire
 At 17th level, your blessed affinity with fire and metal becomes more powerful:
@@ -74,11 +77,21 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
 The Radiant Forge Domain adjusts the Forge Domain from Xanathar's Guide to make it more playable in Descent to Avernus, where fiends have resistance or immunity to fire damage.
 
+Thematic changes: raid the paladin's spell list for spells that fit the new flavor; reduced focus on fabrication.
+
 Changes:
 
+* Channel divinity: replaced _artisan's blessing_ with _radiance of the dawn_ from Light Domain. Reflavored.
+* Domain spell: replaced _searing smite_ with _wrathful smite_. Is psychic damage a little off-brand?
+* Domain spell: replaced _magical weapon_ with _branding smite_.
+* Domain spell: replaced _elemental weapon_ with _blinding smite._ Super on-point for new flavor.
+* Domain spell: replaced _creation_ with _destructive wave_.
 * Divine Strike: replaced _fire_ damage with _radiant_ damage. 
 
+### To Do
 
+* Decide whether to keep _wall of fire_. Great spell, might not work well in Avernus.
+* Decide whether to keep _fabricate_. Crummy spell, on point tho.
 
 
 <div class='pageNumber'>2</div>
