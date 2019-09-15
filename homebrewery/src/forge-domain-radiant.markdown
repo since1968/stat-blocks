@@ -21,7 +21,7 @@ You gain domain spells at the cleric levels listed in the Forge Domain Spells ta
 | 3rd | _heat metal_, _branding smite_ |
 | 5th | _blinding smite_, _protection from energy_ |
 | 7th | _wall of fire_ |
-| 9th | _animate objects_, _destructive wave_ |
+| 9th | _destructive wave_, _wall of light_ |
 
 
 #### Bonus Proficiencies
