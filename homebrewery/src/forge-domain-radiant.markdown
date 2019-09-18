@@ -1,7 +1,7 @@
 ### Radiant Forge Domain
 The gods of the forge are patrons of weaponmakers who work with metal, such as the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Clerics of the radiant forge often begin their careers as blacksmiths, barbarians, or soldiers.
 
-##### Forge Domain Features
+##### Radiant Forge Domain Features
 | Cleric Level | Feature |
 |:-----:|:-------------|
 | 1st | Bonus Proficiencies, Weapon of the Forge |
@@ -14,13 +14,13 @@ The gods of the forge are patrons of weaponmakers who work with metal, such as t
 #### Domain Spells
 You gain domain spells at the cleric levels listed in the Forge Domain Spells table. 
 
-##### Forge Domain Spells
+##### Radiant Forge Domain Spells
 | Cleric Level | Spells |
 |:-----:|:-------------|
 | 1st | _compelled duel_, _wrathful smite_ |
 | 3rd | _heat metal_, _branding smite_ |
 | 5th | _blinding smite_, _protection from energy_ |
-| 7th | _wall of fire_ |
+| 7th | _aura of purity_ |
 | 9th | _destructive wave_, _wall of light_ |
 
 
