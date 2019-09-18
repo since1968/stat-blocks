@@ -17,7 +17,7 @@ You gain domain spells at the cleric levels listed in the Forge Domain Spells ta
 ##### Radiant Forge Domain Spells
 | Cleric Level | Spells |
 |:-----:|:-------------|
-| 1st | _compelled duel_, _wrathful smite_ |
+| 1st | _compelled duel_, _shield_, _wrathful smite_ |
 | 3rd | _heat metal_, _branding smite_ |
 | 5th | _blinding smite_, _protection from energy_ |
 | 7th | _aura of purity_ |
@@ -39,20 +39,18 @@ You gain the following benefits when you wield a spear:
 ```
 
 #### Weapon of the Forge
-At 1st level, you gain the ability to imbue magic into a weapon. At the end of a long rest, you can touch one nonmagical object that is a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to attack and damage rolls. This weapon is known as your sacred weapon. You may use your sacred weapon in place of your holy symbol. Once you use this feature, you can't use it again until you finish a long rest.
+At 1st level, you gain the ability to imbue magic into a weapon. At the end of a long rest, you can touch one nonmagical object that is a simple or martial melee weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to attack and damage rolls. This weapon is known as your sacred weapon.Once you use this feature, you can't use it again until you finish a long rest. You may use your sacred weapon in place of your holy symbol. 
 
-At 6th level the sacred weapon's bonus increases to +2, and at 14th level this bonus increases to +3. While you are not wearing armor, your Armor Class equals 10 + your Wisdom modifier + your Constitution modifier as long as you are holding your sacred weapon. You can use a shield and still gain this benefit. 
+At 6th level the sacred weapon's bonus increases to +2, and at 14th level this bonus increases to +3. 
 
+While you are not wearing armor, your Armor Class equals 10 + your Wisdom modifier + your Constitution modifier as long as you are holding your sacred weapon. You can use a shield and still gain this benefit. 
 
 
 <div style='margin-top:10px'></div>
 
-
 <div class="descriptive">
-
 #### A Warrior's Spear
-A cleric of the radiant forge will always name his sacred weapon. For example: _Areadbhair_, ("slaughterer"), or _Crimall_.
-
+A cleric of the radiant forge will always name his sacred weapon. For example: _Areadbhair_ ("slaughterer"), or _Crimall_.
 </div>
 
 <div style='margin-top:20px'></div>
@@ -62,6 +60,8 @@ A cleric of the radiant forge will always name his sacred weapon. For example: _
 Starting at 2nd level, you can use your Channel Divinity to harness the energy of the forge, banishing darkness and dealing radiant damage to your foes.
 
 As an action, you present your sacred weapon, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
+
+You may also trigger this Channel Divinity effect as a reaction when a creature hits or misses you with a melee attack.  
 
 #### Divine Strike
 At 6th level, you gain the ability to infuse your weapon strikes with the power of the forge. Once on each of your turns when you hit a creature with your sacred weapon, you can cause the attack to deal an extra 2d6 radiant damage to the target. When you reach 14th level, the extra damage increases to 3d6.
