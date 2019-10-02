@@ -27,25 +27,25 @@ You gain an additional Arcane Shot option of your choice at 7th, 10th, 15th, and
 ```
 
 #### Archer's Lore
-At 3rd level, you learn a few skills relating to the typical duties of an Arcane Archer. You learn to understand magical theory and develop survival skills for wandering the wilds.
+At 3rd level, you learn skills relating to the typical duties of an Arcane Archer. You learn to understand magical theory and develop survival skills for wandering the wilds.
 You gain proficiency in two of the following skills of your choice: Arcana, Athletics, Nature, Perception, Stealth, and Survival.
 
 #### Conjure Arrows
 At 7th level, you learn a minor but useful magical trick. As an action, you can conjure 20 nonmagical arrows. The arrows appear in your hand or in a container, such as a quiver, on your body. The arrows remain for 10 minutes or until you use this feature again; they then vanish.
 
+#### Close-Quarters Shooting
+At 7th level, you learn to handle yourself in close combat. Making a ranged attack roll while within 5 feet of an enemy doesn’t impose disadvantage on your roll.
+
+In addition, if you hit a creature within 5 feet of you with a ranged attack on your turn, that creature can’t take reactions until the end of this turn.
+
 #### Careful Eyes
-Starting at 7th level, you excel at picking out hidden enemies and other threats. You can take the Search action as a bonus action.
+Starting at 10th level, you excel at picking out hidden enemies and other threats. You can take the Search action as a bonus action.
 
 #### Steady Aim
-At 10th level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you're wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target:
+At 15th level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you're wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target:
 
 - The attacks ignore half and three-quarters cover.
 - On each hit, the weapon deals additional damage to the target equal to 2 + half your fighter level.
-
-#### Close-Quarters Shooting
-At 15th level, you learn to handle yourself in close combat. Making a ranged attack roll while within 5 feet of an enemy doesn’t impose disadvantage on your roll.
-
-In addition, if you hit a creature within 5 feet of you with a ranged attack on your turn, that creature can’t take reactions until the end of this turn.
 
 \page
 
@@ -87,7 +87,7 @@ The Arcane Arrow feature lets you choose Arcane Shot options at certain levels. 
 ```
 
 ### Credits
-The Elven Archer archetype was created by [Marc Garrett](https://github.com/since1968) by combining parts of the Sharpshooter and Acane Archer archetypes from [Unearthed Arcana](http://dnd.wizards.com/articles/unearthed-arcana/fighter).
+The Elven Archer archetype was created by [Marc Garrett](https://github.com/since1968) by combining parts of the Sharpshooter and Arcane Archer archetypes from [Unearthed Arcana](http://dnd.wizards.com/articles/unearthed-arcana/fighter).
 
 Elven Archer image by [onestepart](http://onestepart.deviantart.com/art/elven-archer-317267159). Winter Hunter by [ninjatic](http://ninjatic.deviantart.com/).
 
