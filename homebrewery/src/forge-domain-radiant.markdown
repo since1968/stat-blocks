@@ -1,5 +1,5 @@
 ### Radiant Forge Domain
-The gods of the forge are patrons of weaponmakers who work with metal, such as the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Clerics of the radiant forge often begin their careers as blacksmiths, barbarians, or soldiers.
+The gods of the forge are patrons of weaponmakers who work with metal, such as the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. Clerics of these deities march into battle against the forces of darkness, and often begin their careers as blacksmiths, barbarians, or soldiers.
 
 ##### Radiant Forge Domain Features
 | Cleric Level | Feature |
@@ -27,6 +27,15 @@ You gain domain spells at the cleric levels listed in the Forge Domain Spells ta
 #### Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with smith's tools. Additionally, you gain spear mastery.
 
+<!--div style='margin-top:10px'></div-->
+
+<div class="descriptive">
+#### A Warrior's Spear
+A cleric of the radiant forge will always name his sacred weapon. For example: _Areadbhair_ ("slaughterer"), or _Crimall_.
+</div>
+
+<!--div style='margin-top:20px'></div-->
+
 #### Spear Mastery
 You gain the following benefits when you wield a spear:
 * You gain a + 1 bonus to attack rolls you make with a spear.
@@ -39,21 +48,11 @@ You gain the following benefits when you wield a spear:
 ```
 
 #### Weapon of the Forge
-At 1st level, you gain the ability to imbue magic into a weapon. At the end of a long rest, you can touch one nonmagical object that is a simple or martial melee weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to attack and damage rolls. This weapon is known as your sacred weapon.Once you use this feature, you can't use it again until you finish a long rest. You may use your sacred weapon in place of your holy symbol. 
+At 1st level, you gain the ability to imbue magic into a weapon. At the end of a long rest, you can touch one nonmagical object that is a simple or martial melee weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to attack and damage rolls. This weapon is known as your sacred weapon. Once you use this feature, you can't use it again until you finish a long rest. You may use your sacred weapon in place of your holy symbol. 
 
 At 6th level the sacred weapon's bonus increases to +2, and at 14th level this bonus increases to +3. 
 
 While you are not wearing armor, your Armor Class equals 10 + your Wisdom modifier + your Constitution modifier as long as you are holding your sacred weapon. You can use a shield and still gain this benefit. 
-
-
-<div style='margin-top:10px'></div>
-
-<div class="descriptive">
-#### A Warrior's Spear
-A cleric of the radiant forge will always name his sacred weapon. For example: _Areadbhair_ ("slaughterer"), or _Crimall_.
-</div>
-
-<div style='margin-top:20px'></div>
 
 
 #### Channel Divinity: Radiance of the Forge
@@ -72,13 +71,11 @@ Starting at 8th level, your mastery of the forge grants you special abilities:
 * You gain resistance to fire damage.
 * While holding your sacred weapon, you gain a +1 bonus to AC.
 
-#### Saint of Forge and Fire
-At 17th level, your blessed affinity with fire and metal becomes more powerful:
-
-* You gain immunity to fire damage.
-* While holding your sacred weapon, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
-
-
+#### Avatar of Forge and Fury
+At 17th level, you can use your Channel Divinity to become the embodiment of radiant majesty. As a bonus action, you emanate an aura of radiant light. For 1 minute, bright light shines from you in a 30-foot radius. 
+* Whenever an enemy creature starts its turn in the light, the creature takes 10 radiant damage. 
+* Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
+* If you fail a saving throw, you can use your reaction to succeed instead.
 
 
 
