@@ -9,7 +9,7 @@ The gods of the forge are patrons of weaponmakers who work with metal, such as t
 | 6th | Divine Strike (2d6), Blessing +2 |
 | 8th | Soul of the Forge |
 | 14th | Divine Strike (3d6), Blessing +3 |
-| 17th | Saint of Forge and Fire |
+| 17th | Avatar of Forge and Fire |
 
 #### Domain Spells
 You gain domain spells at the cleric levels listed in the Forge Domain Spells table. 
@@ -72,7 +72,7 @@ Starting at 8th level, your mastery of the forge grants you special abilities:
 * While holding your sacred weapon, you gain a +1 bonus to AC.
 
 #### Avatar of Forge and Fury
-At 17th level, you can use your Channel Divinity to become the embodiment of radiant majesty. As a bonus action, you emanate an aura of radiant light. For 1 minute, bright light shines from you in a 30-foot radius. 
+At 17th level, you can use your Channel Divinity to become the embodiment of radiant majesty. As a bonus action, you present your sacred weapon and emanate an aura of radiant light. For 1 minute, bright light shines from you in a 30-foot radius. 
 * Whenever an enemy creature starts its turn in the light, the creature takes 10 radiant damage. 
 * Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
 * If you fail a saving throw, you can use your reaction to succeed instead.
