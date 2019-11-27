@@ -117,7 +117,7 @@ Roll the superiority die. Until the start of your next turn, the ally gains a bo
 
 **Menacing Attack**. Per PHB.
 
-**Parry**. Per PHB.
+**Parry**. If you are hit by an attack while wearing light or medium armor, you can expend one superiority die as a reaction, adding the number rolled to your AC. If the attack still hits, you take half damage from it.
 
 **Precision Attack**. Per PHB.
 
