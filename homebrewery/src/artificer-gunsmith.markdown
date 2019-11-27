@@ -19,10 +19,10 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 ##### Gunsmith Spells
 | Artificer Level | Spells |
 |:-----:|:-------------|
-| 3rd | _heroism_, _shield_ |
+| 3rd | _heroism?_, _shield_ |
 | 5th | _find steed_, _warding bond_ |
 | 9th | _conjure barrage?_, _counterspell_ |
-| 13th | _death ward_, _wall of fire?_ |
+| 13th | _death ward_, _???_ |
 | 17th | _intellect fortress_, _wall of force_ |
 
 #### Battle Ready
@@ -50,7 +50,7 @@ You learn two additional maneuvers of your choice at 5th, 9th, and 15th level. E
 
 **Superiority Dice**. You have seven superiority dice, which are d4s. A superiority die is expended when you use it. You regain all your expended superiority dice when you finish a short or long rest. 
 
-You gain two superiority dice at 5th level. 
+You gain two superiority dice at 5th level, one more at 9th level, and one more at 15th level. 
 
 **Saving Throws**. Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
@@ -68,13 +68,6 @@ Starting at 5th level, you can attack twice, rather than once, whenever you take
 
 You are trained in making ranged attacks at close quarters. Starting at 5th level, When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. Finally, you have a +1 bonus to attack rolls on ranged attacks.
 
-#### Improved Combat Superiority
-
-At 10th level, your superiority dice turn into d6s.
-
-Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
-
-
 #### Arcane Jolt
 
 At 9th level, you learn new ways to channel arcane energy. When you hit a target with a magic weapon attack, you channel magical energy through the strike. The target takes an extra 2d6 force damage.
@@ -85,11 +78,17 @@ You can use this energy a number of times equal to your Intelligence modifier (m
 
 At 15th level, your Arcane Jolt becomes more powerful. The extra damage of your Arcane Jolt increases to 4d6.
 
+#### Improved Combat Superiority
+
+At 15th level, your superiority dice turn into d6s.
+
+Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
+
 
 \page
 
 ## Maneuvers
-The maneuvers are presented in alphabetical order. Unless the full text of a maneuver is provided here, each manuever is identical to those listed on page 74 of the _Player's Handbook_.
+The maneuvers are presented in alphabetical order. Unless the full text of a maneuver is provided here, each manuever is identical to those listed on page 74 of the _Player's Handbook_. Where maneuvers have been modified from the PHB, the modifications are shown in _italics_.
 
 **Aim**. You carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. Expend one superiority die and add the die to the attack roll. You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
@@ -133,33 +132,35 @@ Roll the superiority die. Until the start of your next turn, the ally gains a bo
 
 **Studious Eye**. When you make a Wisdom (Insight) check or an Intelligence (Investigation) check, you can expend one superiority die, and add the superiority die to the ability check.
 
+**Trick Up Your Sleeve**. You can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics or Sleight of Hand) or Strength (Athletics) check you make during the same turn. Add the superiority die to the ability check.
+
 **Trip Attack**. Per PHB. 
 
-<div class='descriptive'>
-##### Ranged Attacks in Close Combat: "Un merdier très profond."
-Several maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a mechanism for overcoming disadvantage, such as _Close Quarters Shooter_ at 5th level or the _Crossbow Expert_ feat.
-</div>   
+<div style='margin-top:20px'></div>
 
 
-## Firearms
-
-Firearms are martial ranged weapons. 
-
-When you discharge a firearm with the _long_ property within 5 feet of your target, you do so with disadvantage, even if you are trained as a Close Quarters Shooter or Crossbow Master.
-
-You may use the butt of a firearm as an improvised melee weapon that deals 1d4 damage. You may treat the weapon as a club and use your proficiency bonus for the attack roll. This attack does not count as a magical attack, and you must use your Strength modifier to calculate damage.  
-
-You may not reload a firearm while wielding a shield, even if the firearm is magically infused.
-
-
-<div class='wide' style='margin-top:100px'>
-##### Firearms
-| Weapon | Level | Cost | Damage | Weight | Properties
-|:------------- |:------|:------|:-------------|:-------------|:-------------|
-| Revolver  | 3rd | 250 gp | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (6 shots) |
-| Shotgun  | 5th |  500 gp | 2d8 force | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
-| Rifle  | 9th | 1,000 gp | 2d10 piercing | 8 lb. | Ammunition (range 150/600), reload (6 shots), two-handed, long |
-</div>
+##### Maneuver  Summary
+| Maneuver | Economy | Save / Check |
+|:-----|:-------------|:-------------|
+| Aim | Bonus Action | -- |
+| | Ambush | Initiative | -- |
+| Bait and Switch | Move | -- |
+| Disarm | Attack | Str |
+| Evasive Footwork | Move | -- |
+| Feint | Bonus Action | -- |
+| Interception | Reaction | -- |
+| Menace | Attack | Wis |
+| Parry | Reaction | -- |
+| Precision | Attack | -- |
+| Rally | Bonus Action | -- |
+| Restrain | Bonus Action | Athletics |
+| Riposte | Reaction | -- |
+| Silver Tongue | -- | Chr |
+| Skirmish | Reaction | -- |
+| Snipe | Bonus Action | -- |
+| Studious Eye | -- | Wis or Int |
+| Trick Up Your Sleeve | Bonus Action | Dex or Str |
+| Trip | Attack | Str |
 
 
 \page
@@ -168,12 +169,21 @@ You may not reload a firearm while wielding a shield, even if the firearm is mag
 ## Infusions
 The following infusions are added to the list of infusions you can learn as an artificer. 
 
+#### Concussion Grenade
+_Prerequisite: 6th-level artificer, Gunsmith specialist_
+
+_Item: A rock or a pebble_
+
+As an attack, a character can throw a grenade at a point up to 60 feet away. The grenade explodes on impact. Each creature within 20 feet of an exploding concussion grenade must make a Dexterity saving throw of DC 15 or your spell save DC, whichever is higher, taking 4d6 force damage on a failed save or half as much damage on a successful one. Creatures that fail their save are stunned until the end of your next turn.
+
+At 10th level, the force damage becomes 8d6 on a failed save. The infusion is consumed in the explosion.
+
 #### Mechanized Armor
 _Prerequisite: 6th-level artificer, Gunsmith specialist_
 
 _Item: Breastplate armor_
 
-Mechanized armor functions as Breastplate (medium) armor. While wearing mechanized armor:
+Mechanized armor functions as medium armor with AC 14 and weighs 20 pounds. While wearing mechanized armor:
 * A  creature gains a +1 bonus to Armor Class.
 * A creature may apply a maximum Dexterity modifier of 3 to its armor class, instead of 2. 
 * The armor has hit points equal to your Constitution modifier + your Intelligence modifier + five times your level in this class. These hit points are treated as temporary hit points for the creature wearing the armor.
@@ -181,14 +191,21 @@ Mechanized armor functions as Breastplate (medium) armor. While wearing mechaniz
 * If the _mending_ spell is cast on it, the mechanized armor regains 3d8 hit points.
 
 Your tinkering improves the lightness and durability of the mechanized armor. When you reach 10th level in this class: 
-* Your mechanized armor gains a +2 bonus to Armor Class.
+* The mechanized armor weighs 10 pounds.
+* The mechanized armor gains a +2 bonus to Armor Class.
 * The maximum Dexterity modifer increases to 5.
 * **Deflect Attack**. The creature wearing the armor may use its reaction to impose disadvantage on the attack roll of one creature it can see. If the attack hits, the creature wearing the armor may halve the attack's damage against it.
 
-When you reach 15th level in this class:
+When you reach 14th level in this class:
 * Your mechanized armor gains a +3 bonus to Armor Class.
 * Whenever your mechanized armor uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier if the attacker is within 5 feet of the creature wearing the armor.
 
+#### Improved Repeating Shot
+_Prerequisite: 10th-level artificer_
+
+_Item: A simple or martial weapon with the ammunition property (requires attunement)_
+
+This infusion grants all of the benefits of the Repeating Shot infusion (_Eberron_ p. 62). When you reach 10th level in this class, the attack and damage bonus increases to +2. When you reach 14th level in this cassl, the attack and damage bonus increases to +3.
 
 ## Artificer Spell List
 
@@ -206,6 +223,33 @@ ___
 You create a faintly shimmering barrier of protective psychic power around you. For the duration, you have advantage on all saving throws.
 
 When another creature that you can see within 30 feet of you fails a saving throw, you can use your reaction to allow them to reroll the save. They must use the new roll.
+
+## Firearms
+
+Firearms are martial ranged weapons. 
+
+When you discharge a firearm with the _long_ property within 5 feet of your target, you do so with disadvantage, even if you are trained as a Close Quarters Shooter or Crossbow Master.
+
+<div class='descriptive'>
+##### Ranged Attacks in Close Combat: "Un merdier très profond."
+Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a mechanism for overcoming disadvantage, such as _Close Quarters Shooter_ at 5th level or the _Crossbow Expert_ feat.
+</div>   
+
+
+You may use the butt of a firearm as an improvised melee weapon that deals 1d4 damage. You may treat the weapon as a club and use your proficiency bonus for the attack roll. This attack does not count as a magical attack, and you must use your Strength modifier to calculate damage.  
+
+You may not reload a firearm while wielding a shield, even if the firearm is magically infused.
+
+
+<div class='wide' style='margin-top:40px'>
+##### Firearms
+| Weapon | Level | Cost | Damage | Weight | Properties
+|:------------- |:------|:------|:-------------|:-------------|:-------------|
+| Revolver  | 3rd | 250 gp | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (6 shots) |
+| Shotgun  | 5th |  500 gp | 2d8 force | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
+| Rifle  | 9th | 1,000 gp | 2d10 piercing | 8 lb. | Ammunition (range 150/600), reload (6 shots), two-handed, long |
+</div>
+
 
 
 
@@ -230,6 +274,9 @@ The Steel Defender has two functional elements:
 
 This specialist now dispenses entirely with the Battle Smith and builds a Gunsmith from the ground up.
 
+Protagonists in the source lore are not superheroes but they always have a trick up their sleeve. This is reflected in the high number of maneuvers known (8!), the large pool of superiority dice (7!) and the small die (d4). Design maneuvers to nudge toward the desired outcome, not guarantee success. A Gunsmith should not be able to out-fight a fighter, but he should be able to outwit him. Use the Gunsmith's large dice pool to provide a flexible & creative play-style at the expense of raw power.
+
+
 ### Suggested Backgrounds and Builds
 Core elements of the persona: quick-witted, dexterous, mission-driven. The Gunsmith lives by a code and is seldom chaotically aligned. 
 
@@ -244,8 +291,6 @@ Consider the following backgrounds for your character: House Agent, Mercenary Ve
 ```
 
 ### Compared to the Battle Master
-A Gunsmith should not be able to out-fight a fighter, but he should be able to outwit him. Use the Gunsmith's superiority dice to provide a flexible & creative play-style at the expense of raw power.
-
 In the following tables "Damage per Short Rest" represents the sum of the average marginal damage provided exclusively by superiority dice. Fighter 15th and 18th level assumes one battle per short rest in which the fighter is out of dice. The sum assumes that every attack hits.
 
 ##### Battle Master Maneuvers
@@ -264,8 +309,8 @@ In the following tables "Damage per Short Rest" represents the sum of the averag
 |:----:|:-------------|:-------------|:-------------|:-------------|
 | 3rd  | 8 |d4 |7 | 17.5 |
 | 5th  | 10 |d4 |9 | 22.5 |
-| 9th | 12 |d4 |9 | 22.5 |
-| 15th | 14 |d6 |10† | 45 |
+| 9th | 12 |d4 |10 | 25 |
+| 15th | 14 |d6 |11† | 42 |
 
 † Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
