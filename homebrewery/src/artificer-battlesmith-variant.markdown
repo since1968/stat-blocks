@@ -12,7 +12,7 @@ You learn two additional maneuvers of your choice at 5th, 9th, and 15th level. E
 
 **Superiority Dice**. You have six superiority dice, which are d4s. A superiority die is expended when you use it. You regain all your expended superiority dice when you finish a short or long rest. 
 
-You gain another superiority die at 5th level, 9th level and 15th level. 
+You gain another superiority die at 9th level and 15th level. 
 
 **Saving Throws**. Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
