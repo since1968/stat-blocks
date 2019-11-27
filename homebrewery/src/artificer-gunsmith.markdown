@@ -10,12 +10,26 @@ Contra _Eberron: Rising from the Last War_ page 54, artificers are not proficien
 
 [Flavor text]
 
+#### Gunsmith Spells
+Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Gunsmith spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+##### Gunsmith Spells
+| Artificer Level | Spells |
+|:-----:|:-------------|
+| 3rd | _heroism_, _shield_ |
+| 5th | _shatter_, _warding bond_ |
+| 9th | _conjure barrage_, _counterspell_ |
+| 13th | _death ward_, _wall of fire_ |
+| 17th | _intellect fortress_, _wall of force_ |
+
 #### Battle Ready
 
 When you choose this archetype at 3rd level, your combat training and your experiments with magic have paid off in two ways:
 
 * You gain proficiency with martial weapons, including firearms.
 * When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
+
+You gain access to certain firearms after you reach particular levels in this class, as shown in the Firearms table.
 
 #### Combat Superiority
 
@@ -33,12 +47,12 @@ You gain another superiority die at 9th level and 15th level.
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength, Dexterity, or Intelligence modifier (your choice)
 
+```
+```
+
 #### Maneuver Versatility
 
 You can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead. Each time you learn new maneuvers you can also replace one maneuver you know with a different one.
-
-```
-```
 
 #### Expertise
 
@@ -49,6 +63,8 @@ At 6th level, you can choose one more of your proficiencies to gain this benefit
 
 #### Extra Attack
 Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+The number of attacks increases to three when you reach 15th level in this class.
 
 
 #### Close Quarters Shooter
@@ -71,37 +87,6 @@ You can use this energy a number of times equal to your Intelligence modifier (m
 #### Improved Arcane Jolt
 
 At 15th level, your Arcane Jolt becomes more powerful. The extra damage of your Arcane Jolt increases to 4d6.
-
-
-\page
-
-## Infusions
-The infusions presented are in addition to those found in _Eberron: Rising from the Last War._
-
-#### Mechanized Armor
-_Prerequisite: 6th-level artificer, Gunsmith specialist_
-
-_Item: Breastplate armor_
-
-Mechanized armor functions as Breastplate (medium) armor. While wearing mechanized armor:
-* A  creature gains a +1 bonus to Armor Class.
-* A creature may apply a maximum Dexterity modifier of 3 to its armor class, instead of 2. 
-* The armor has hit points equal to your Constitution modifier + your Intelligence modifier + five times your level in this class. These hit points are treated as temporary hit points for the creature wearing the armor.
-* **Repair (3/Day)**. You may use your bonus action to restore 2d8 + 2 hit points to the mechanized armor.
-
-If the _mending_ spell is cast on it, the mechanized armor regains 2d6 hit points.
-
-Your tinkering improves the lightness and durability of the mechanized armor. When you reach 10th level in this class: 
-* Your mechanized armor gains a +2 bonus to Armor Class.
-* The maximum Dexterity modifer increases to 5.
-* **Deflect Attack**. The creature wearing the armor may use its reaction to impose disadvantage on the attack roll of one creature it can see. If the attack hits, the creature wearing the armor may halve the attack's damage against it.
-
-When you reach 15th level in this class:
-* Your mechanized armor gains a +3 bonus to Armor Class.
-* Whenever your mechanized armor uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier if the attacker is within 5 feet of the creature wearing the armor.
-
-
-
 
 
 \page
@@ -182,6 +167,53 @@ You may use the butt of a firearm as an improvised melee weapon that deals 1d4 d
 
 \page
 
+
+
+## Infusions
+The following infusions are added to the list of infusions you can learn as an artificer. 
+
+#### Mechanized Armor
+_Prerequisite: 6th-level artificer, Gunsmith specialist_
+
+_Item: Breastplate armor_
+
+Mechanized armor functions as Breastplate (medium) armor. While wearing mechanized armor:
+* A  creature gains a +1 bonus to Armor Class.
+* A creature may apply a maximum Dexterity modifier of 3 to its armor class, instead of 2. 
+* The armor has hit points equal to your Constitution modifier + your Intelligence modifier + five times your level in this class. These hit points are treated as temporary hit points for the creature wearing the armor.
+* **Repair (3/Day)**. You may use your bonus action to restore 2d8 + 2 hit points to the mechanized armor.
+* If the _mending_ spell is cast on it, the mechanized armor regains 3d8 hit points.
+
+Your tinkering improves the lightness and durability of the mechanized armor. When you reach 10th level in this class: 
+* Your mechanized armor gains a +2 bonus to Armor Class.
+* The maximum Dexterity modifer increases to 5.
+* **Deflect Attack**. The creature wearing the armor may use its reaction to impose disadvantage on the attack roll of one creature it can see. If the attack hits, the creature wearing the armor may halve the attack's damage against it.
+
+When you reach 15th level in this class:
+* Your mechanized armor gains a +3 bonus to Armor Class.
+* Whenever your mechanized armor uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier if the attacker is within 5 feet of the creature wearing the armor.
+
+
+## Artificer Spell List
+
+The following spells are added to the list of spells you can learn as an artificer.
+
+
+#### Intellect Fortress
+*5th-level abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
+
+You create a faintly shimmering barrier of protective psychic power around you. For the duration, you have advantage on all saving throws.
+
+When another creature that you can see within 30 feet of you fails a saving throw, you can use your reaction to allow them to reroll the save. They must use the new roll.
+
+
+
+\page
 
 ## Design Notes for the Gunsmith aka "The Transporter"
 ### Inspiration
