@@ -8,7 +8,10 @@ Contra _Eberron: Rising from the Last War_ page 54, artificers are not proficien
 
 ### Gunsmith
 
-[Flavor text]
+A Gunsmith specializes in using magic and technology to manufacture and wield firearms. This destructive power was valued by all armies of the Last War. Now that the war is over, many members of this specialization have hired themselves out as mercenaries, bodyguards, couriers, and assassins. 
+
+#### Tool Proficiency
+When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you alrady have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
 #### Gunsmith Spells
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Gunsmith spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
@@ -46,9 +49,6 @@ You gain another superiority die at 9th level and 15th level.
 **Saving Throws**. Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength, Dexterity, or Intelligence modifier (your choice)
-
-```
-```
 
 #### Maneuver Versatility
 
