@@ -11,7 +11,7 @@ Contra _Eberron: Rising from the Last War_ page 54, artificers are not proficien
 A Gunsmith specializes in using magic and technology to manufacture and wield firearms. This destructive power was valued by all armies of the Last War. Now that the war is over, many members of this specialization have hired themselves out as mercenaries, bodyguards, couriers, and assassins. 
 
 #### Tool Proficiency
-When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you alrady have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
 #### Gunsmith Spells
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Gunsmith spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
@@ -20,9 +20,9 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 | Artificer Level | Spells |
 |:-----:|:-------------|
 | 3rd | _heroism_, _shield_ |
-| 5th | _shatter_, _warding bond_ |
-| 9th | _conjure barrage_, _counterspell_ |
-| 13th | _death ward_, _wall of fire_ |
+| 5th | _find steed_, _warding bond_ |
+| 9th | _conjure barrage?_, _counterspell_ |
+| 13th | _death ward_, _wall of fire?_ |
 | 17th | _intellect fortress_, _wall of force_ |
 
 #### Battle Ready
@@ -34,17 +34,23 @@ When you choose this archetype at 3rd level, your combat training and your exper
 
 You gain access to certain firearms after you reach particular levels in this class, as shown in the Firearms table.
 
+#### Expertise
+
+At 3rd level, choose one of your skill proficiencies or one of your tool proficiencies. Your proficiency bonus is doubled for any ability check that uses your chosen proficiency. 
+
+At 6th level, you can choose one more of your proficiencies to gain this benefit.
+
 #### Combat Superiority
 
 When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
 
 **Maneuvers**. You learn eight maneuvers of your choice, which are detailed under "Maneuvers" at the end of this document. You can only use one maneuver per attack.
 
-You learn two additional maneuvers of your choice at 5th, 9th, and 15th level. 
+You learn two additional maneuvers of your choice at 5th, 9th, and 15th level. Each time you learn new maneuvers you can also replace one maneuver you know with a different one.
 
-**Superiority Dice**. You have six superiority dice, which are d4s. A superiority die is expended when you use it. You regain all your expended superiority dice when you finish a short or long rest. 
+**Superiority Dice**. You have seven superiority dice, which are d4s. A superiority die is expended when you use it. You regain all your expended superiority dice when you finish a short or long rest. 
 
-You gain another superiority die at 9th level and 15th level. 
+You gain two superiority dice at 5th level. 
 
 **Saving Throws**. Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
@@ -52,20 +58,11 @@ You gain another superiority die at 9th level and 15th level.
 
 #### Maneuver Versatility
 
-You can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead. Each time you learn new maneuvers you can also replace one maneuver you know with a different one.
-
-#### Expertise
-
-At 3rd level, choose one of your skill proficiencies or one of your tool proficiencies. Your proficiency bonus is doubled for any ability check that uses your chosen proficiency. 
-
-At 6th level, you can choose one more of your proficiencies to gain this benefit.
+You can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead.
 
 
 #### Extra Attack
 Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
-
-The number of attacks increases to three when you reach 15th level in this class.
-
 
 #### Close Quarters Shooter
 
@@ -73,7 +70,7 @@ You are trained in making ranged attacks at close quarters. Starting at 5th leve
 
 #### Improved Combat Superiority
 
-At 5th level, your superiority dice turn into d6s. At 9th level, your superiority dice turn into d8s. At 15th level, your superiority dice turn into d10s.
+At 10th level, your superiority dice turn into d6s.
 
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
@@ -152,21 +149,20 @@ When you discharge a firearm with the _long_ property within 5 feet of your targ
 
 You may use the butt of a firearm as an improvised melee weapon that deals 1d4 damage. You may treat the weapon as a club and use your proficiency bonus for the attack roll. This attack does not count as a magical attack, and you must use your Strength modifier to calculate damage.  
 
+You may not reload a firearm while wielding a shield, even if the firearm is magically infused.
+
 
 <div class='wide' style='margin-top:100px'>
 ##### Firearms
 | Weapon | Level | Cost | Damage | Weight | Properties
 |:------------- |:------|:------|:-------------|:-------------|:-------------|
 | Revolver  | 3rd | 250 gp | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (6 shots) |
-| Shotgun  | 5th |  500 gp | 2d8 piercing | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
+| Shotgun  | 5th |  500 gp | 2d8 force | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
 | Rifle  | 9th | 1,000 gp | 2d10 piercing | 8 lb. | Ammunition (range 150/600), reload (6 shots), two-handed, long |
 </div>
 
 
-
-
 \page
-
 
 
 ## Infusions
@@ -266,10 +262,10 @@ In the following tables "Damage per Short Rest" represents the sum of the averag
 ##### Gunsmith Maneuvers
 | Level | Maneuvers | dSize | Dice | Dmg / Short Rest
 |:----:|:-------------|:-------------|:-------------|:-------------|
-| 3rd  | 8 |d4 |6 | 15 |
-| 5th  | 10 |d6 |6 | 21 |
-| 9th | 12 |d8 |6 | 27 |
-| 15th | 14 |d10 |6† | 38.5 |
+| 3rd  | 8 |d4 |7 | 17.5 |
+| 5th  | 10 |d4 |9 | 22.5 |
+| 9th | 12 |d4 |9 | 22.5 |
+| 15th | 14 |d6 |10† | 45 |
 
 † Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
