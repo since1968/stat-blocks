@@ -19,10 +19,10 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 ##### Gunsmith Spells
 | Artificer Level | Spells |
 |:-----:|:-------------|
-| 3rd | _heroism?_, _shield_ |
+| 3rd | _heroism_, _shield_ |
 | 5th | _find steed_, _warding bond_ |
-| 9th | _conjure barrage?_, _counterspell_ |
-| 13th | _death ward_, _???_ |
+| 9th | _counterspell_, _nondetection_ |
+| 13th | _death ward_, _locate creature_ |
 | 17th | _intellect fortress_, _wall of force_ |
 
 #### Battle Ready
@@ -39,6 +39,9 @@ You gain access to certain firearms after you reach particular levels in this cl
 At 3rd level, choose one of your skill proficiencies or one of your tool proficiencies. Your proficiency bonus is doubled for any ability check that uses your chosen proficiency. 
 
 At 6th level, you can choose one more of your proficiencies to gain this benefit.
+
+```
+```
 
 #### Combat Superiority
 
