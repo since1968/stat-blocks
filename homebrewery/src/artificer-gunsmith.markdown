@@ -265,7 +265,7 @@ Flavor text specific to Eberron? Mark of Passage?
 
 **Skill Proficiencies:** Athletics, Intimidation
 
-**Languages:** One of your choice
+**Proficiencies:** One gaming set and vehicles (land)
 
 **Equipment:** some neat stuff
 
