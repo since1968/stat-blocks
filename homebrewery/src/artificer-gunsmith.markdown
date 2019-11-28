@@ -258,6 +258,31 @@ You may not reload a firearm while wielding a shield, even if the firearm is mag
 
 \page
 
+# Backgrounds
+
+## Transporter
+Flavor text specific to Eberron? Mark of Passage?
+
+**Skill Proficiencies:** Athletics, Intimidation
+
+**Languages:** One of your choice
+
+**Equipment:** some neat stuff
+
+#### Feature: Diamond in the Rough
+
+While you follow a rigid code of conduct in your professional life, your extracurricular activities are more varied. You specialize in one of the following downtime activities: Carousing, Gambling, Pit Fighting, or Crime (pick one). Whenever you engage in this downtime activity, you may re-roll one check. In the event of a complication, you may re-roll your result on the complications table. You must keep the new result.
+
+See _Xanathar's Guide to Everything_ pp. 125-134 for details on downtime activities.
+
+#### Suggested Characteristics
+
+Look up mix of criminal, charlatan, and soldier? 
+
+
+
+\page
+
 ## Design Notes for the Gunsmith aka "The Transporter"
 ### Inspiration
 
