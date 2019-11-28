@@ -210,10 +210,9 @@ _Item: A simple or martial weapon with the ammunition property (requires attunem
 
 This infusion grants all of the benefits of the Repeating Shot infusion (_Eberron_ p. 62). When you reach 10th level in this class, the attack and damage bonus increases to +2. When you reach 14th level in this cassl, the attack and damage bonus increases to +3.
 
-## Artificer Spell List
+## Gunsmith Spell List
 
-The following spells are added to the list of spells you can learn as an artificer.
-
+The following spells are added to the list of spells you can learn as a Gunsmith.
 
 #### Intellect Fortress
 *5th-level abjuration*
@@ -261,13 +260,12 @@ You may not reload a firearm while wielding a shield, even if the firearm is mag
 # Backgrounds
 
 ## Transporter
-Flavor text specific to Eberron? Mark of Passage?
 
 **Skill Proficiencies:** Athletics, Intimidation
 
-**Proficiencies:** One gaming set and vehicles (land)
+**Tool Proficiencies:** One gaming set and vehicles (land)
 
-**Equipment:** some neat stuff
+**Equipment:** False identification papers and a pouch containing 10 gp
 
 #### Feature: Diamond in the Rough
 
