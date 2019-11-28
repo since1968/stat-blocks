@@ -31,18 +31,15 @@ _You have learned your foes' weak points._ Your unarmed strikes can deal bludgeo
 
 When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature.
 
-### Hitch Pitch
+### Reliable Talent
 _11th-level artificer feature (replaces Spell-Storing Item)_
 
-Bing bang.
+By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 ### Smack Pack
 _14th-level artificer feature (replaces Magic Item Savant)_
 
 Bing bang.
-
-```
-```
 
 ## Artificer Spell List
 
