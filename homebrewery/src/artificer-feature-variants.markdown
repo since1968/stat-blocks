@@ -1,6 +1,13 @@
 ## Artificer Feature Variants
 
-These features replace or enhance the normal features of the artificer. The class feature variants each specify which feature they replace or enhance. If a feature is replaced, you gain no benefit from it and don’t qualify for anything in the game that requires it. If a feature is enhanced, you continue to enjoy its benefits but now with new capabilities. If an existing feature with the same name has been modified to fit the artificer, the modifications are shown in _italics_.
+These features replace or enhance the normal features of the artificer. The class feature variants each specify which feature they replace or enhance. If a feature is replaced, you gain no benefit from it and don’t qualify for anything in the game that requires it. If a feature is enhanced, you continue to enjoy its benefits but now with new capabilities. 
+
+If an existing feature with the same name has been modified to fit the artificer, the modifications are shown in _italics_.
+
+### Cantrip Versatility
+_1st-level artificer feature (enhances Spellcasting)_
+
+Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the artificer spell list.
 
 ### Fighting Style
 _10th-level artificer feature (replaces Magic Item Adept)_
@@ -33,6 +40,9 @@ When you successfully start a grapple, you can deal 1d4 bludgeoning damage to th
 _11th-level artificer feature (replaces Spell-Storing Item)_
 
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+
+```
+```
 
 ### Magical Secrets
 _14th-level artificer feature (replaces Magic Item Savant)_
