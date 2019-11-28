@@ -2,6 +2,24 @@
 
 Here you’ll find features that replace or enhance the normal features of the artificer. The class feature variants each specify which feature they replace or enhance. If a feature is replaced, you gain no benefit from it and don’t qualify for anything in the game that requires it. If a feature is enhanced, you continue to enjoy its benefits but now with new capabilities.
 
+### Hotch Potch
+_10th-level artificer feature (replaces Magic Item Adept)_
+
+Bing bang.
+
+### Hitch Pitch
+_11th-level artificer feature (replaces Spell-Storing Item)_
+
+Bing bang.
+
+### Smack Pack
+_14th-level artificer feature (replaces Magic Item Savant)_
+
+Bing bang.
+
+```
+```
+
 ## Artificer Spell List
 
 The artificer spell list contains a new spell: _arcane weapon_.
