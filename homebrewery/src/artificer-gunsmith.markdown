@@ -279,7 +279,48 @@ See "Downtime Activities" in chapter 2 of _Xanathar's Guide to Everything_.
 
 #### Suggested Characteristics
 
-Use the tables for the soldier or criminal backgrounds in the _Player's Handbook_ as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a transporter.
+Use the tables for the criminal background in the _Player's Handbook_ as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a transporter.
+
+##### Personality Traits
+| d6 | Personality Trait |
+|:-----:|:-------------|
+| 1 | I always have a plan for what to do when things go wrong. |
+| 2 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me. |
+| 3 | I would rather make a new friend than a new enemy. |
+| 4 | The best way to get me to do something is to tell me I can't do it. |
+| 5 | I'm incredibly slow to trust. Those who seem the fairest often have the most to hide. |
+| 6 | I don't know you, but I think I hate you. |
+
+##### Ideals
+| d6 | Ideal |
+|:-----:|:-------------|
+| 1 | Honor (Lawful) |
+| 2 | Freedom (Chaotic) |
+| 3 | Charity (Good) |
+| 4 | Greed (Evil)|
+| 5 | People (Neutral) |
+| 6 | Redemption (Good) |
+
+```
+```
+
+##### Bonds
+| d6 | Bond |
+|:-----:|:-------------|
+| 1 | I'm trying to pay off an old debt I owe to a generous benfactor. |
+| 2 | My earnings go to support my family. |
+| 3 | An effective transporter never checks his cargo. |
+| 4 | I'm guilty of a terrible crime. |
+| 5 | Someone I loved died because of a mistake I made. That will never happen again. |
+| 6 | My honor is my life. |
+
+##### Flaws
+| d4 | Flaw |
+|:-----:|:-------------|
+| 1 | When faced with a choice between money and my friends, I usually choose the money. |
+| 2 | If there's a plan, I'll forget it. If I don't forget it, I'll ignore it. |
+| 3 | I turn tail and run when things look bad. |
+| 4 | An innocent person is in prison for a crime I committed. Better him than me. |
 
 
 
