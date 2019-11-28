@@ -146,7 +146,7 @@ Roll the superiority die. Until the start of your next turn, the ally gains a bo
 | Maneuver | Economy | Save / Check |
 |:-----|:-------------|:-------------|
 | Aim | Bonus Action | -- |
-| | Ambush | Initiative | -- |
+| Ambush | Initiative | -- |
 | Bait and Switch | Move | -- |
 | Disarm | Attack | Str |
 | Evasive Footwork | Move | -- |
