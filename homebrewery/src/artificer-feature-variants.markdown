@@ -1,8 +1,6 @@
 ## Artificer Feature Variants
 
-Here you’ll find features that replace or enhance the normal features of the artificer. The class feature variants each specify which feature they replace or enhance. If a feature is replaced, you gain no benefit from it and don’t qualify for anything in the game that requires it. If a feature is enhanced, you continue to enjoy its benefits but now with new capabilities.
-
-If an existing feature with the same name has been modified to fit the artificer, the modifications are shown in _italics_.
+These features replace or enhance the normal features of the artificer. The class feature variants each specify which feature they replace or enhance. If a feature is replaced, you gain no benefit from it and don’t qualify for anything in the game that requires it. If a feature is enhanced, you continue to enjoy its benefits but now with new capabilities. If an existing feature with the same name has been modified to fit the artificer, the modifications are shown in _italics_.
 
 ### Fighting Style
 _10th-level artificer feature (replaces Magic Item Adept)_
@@ -11,7 +9,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 #### Archery
 
-You gain a +2 bonus to attack folls you make with ranged weapons.
+You gain a +2 bonus to attack rolls you make with ranged weapons.
 
 #### Defense
 
@@ -25,7 +23,7 @@ When you are wielding a melee weapon in one hand and no other weapons, you gain 
 
 When you roll a 1 or a 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
-### Unarmed Fighting
+#### Unarmed Fighting
 
 _You have learned your foes' weak points._ Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength _or Intelligence modifier_. If you strike with two free hands, the d6 becomes d8.
 
@@ -36,10 +34,15 @@ _11th-level artificer feature (replaces Spell-Storing Item)_
 
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
-### Smack Pack
+### Magical Secrets
 _14th-level artificer feature (replaces Magic Item Savant)_
 
-Bing bang.
+By _14th_ level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the _Artificer_ table, or a cantrip.
+
+The chosen spells count as _artificer_ spells for you.
+
+You learn two additional spells from any class at 18th level.
+
 
 ## Artificer Spell List
 
