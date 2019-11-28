@@ -271,13 +271,15 @@ Flavor text specific to Eberron? Mark of Passage?
 
 #### Feature: Diamond in the Rough
 
-While you follow a rigid code of conduct in your professional life, your extracurricular activities are more varied. You specialize in one of the following downtime activities: Carousing, Gambling, Pit Fighting, or Crime (pick one). Whenever you engage in this downtime activity, you may re-roll one check. In the event of a complication, you may re-roll your result on the complications table. You must keep the new result.
+While you follow a rigid code of conduct in your professional life, your extracurricular activities are more varied. 
 
-See _Xanathar's Guide to Everything_ pp. 125-134 for details on downtime activities.
+You specialize in one of the following downtime activities: Carousing, Gambling, Pit Fighting, or Crime (pick one). Whenever you engage in your favored downtime activity, you may re-roll one check. In the event of a complication, you may re-roll your result on the complications table. You must keep the new result.
+
+See "Downtime Activities" in chapter 2 of _Xanathar's Guide to Everything_.
 
 #### Suggested Characteristics
 
-Look up mix of criminal, charlatan, and soldier? 
+Use the tables for the soldier or criminal backgrounds in the _Player's Handbook_ as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a transporter.
 
 
 
