@@ -439,7 +439,7 @@ This build modifies the modern and Renaissance firearms from the _Dungeon Master
 
 The following Dragonmarks are a good fit for the Gunsmith: the Mark of Finding, the Mark of Making, the Mark of Passage, the Mark of Sentinel, and the Mark of Warding.
 
-Consider the following backgrounds for your character: House Agent, Mercenary Veteran, Veteran Bounter Hunter, Soldier, Charlatan, Criminal, Urchin, City Watch, Faction Agent, or Transporter (see attached). 
+Consider the following backgrounds for your character: House Agent, Mercenary Veteran, Veteran Bounter Hunter, Soldier, Charlatan, Criminal, Urchin, City Watch, Faction Agent, or Transporter. 
 
 
 ```
