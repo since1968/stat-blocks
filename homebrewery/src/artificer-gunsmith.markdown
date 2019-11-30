@@ -148,6 +148,20 @@ Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. 
 ## Infusions
 The following infusions are added to the list of infusions you can learn as an artificer. 
 
+#### Clockwork Bomb
+_Prerequisite: 2nd-level artificer_
+
+_Item: Clockwork toy_
+
+You construct a tiny clockwork device (AC5, 1hp, move 20 feet, climb 10 feet, Stealth +6) and infuse it with explosive power. You may specify the appearance of the device, such as a dancing gnome or a walking music box. When you wind the device, specify the number of turns before it explodes. You may specify a path for the device as long as you can see, or are familiar with, its destination. The device may walk on any surface and climb walls. The device has your initiative and goes immediately after you in the iniative order.
+
+Roll a tinker's tool DC 15 proficiency check, with the following results: on a successful check the device arrives at its destination and explodes at the end of its turn. On a failed check, the device detonates one round early for each point you failed the check. For example, if you set the device to walk for 10 rounds and roll a 13, the device will explode in 8 rounds. On a natural 1, the device explodes in your hands as you wind it.
+
+When the device explodes each creature within a 20 foot radius must make a Dexterity save equal to your spell save DC. A target takes 3d6 thunder damage on a failed save and is deafened until the end of your next turn, or half as much damage on a successful one. 
+
+The device may be disarmed with a successful DC 15 Thieves' Tools check.
+
+
 #### Concussion Grenade
 _Prerequisite: 6th-level artificer, Gunsmith specialist_
 
