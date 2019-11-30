@@ -157,9 +157,15 @@ You construct a tiny clockwork device (AC5, 1hp, move 20 feet, climb 10 feet, St
 
 Roll a tinker's tool DC 15 proficiency check, with the following results: on a successful check the device arrives at its destination and explodes at the end of its turn. On a failed check, the device detonates one round early for each point you failed the check. For example, if you set the device to walk for 10 rounds and roll a 13, the device will explode in 8 rounds. On a natural 1, the device explodes in your hands as you wind it.
 
+<div class='descriptive'>
+
+If the DM and player agree, the DM should roll this check out of the player's view.
+</div>
+
 When the device explodes each creature within a 20 foot radius must make a Dexterity save equal to your spell save DC. A target takes 3d6 thunder damage on a failed save and is deafened until the end of your next turn, or half as much damage on a successful one. 
 
 The device may be disarmed with a successful DC 15 Thieves' Tools check.
+
 
 
 #### Concussion Grenade
