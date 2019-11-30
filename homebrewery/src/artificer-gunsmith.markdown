@@ -214,22 +214,6 @@ _Item: A simple or martial weapon with the ammunition property (requires attunem
 
 This infusion grants all of the benefits of the Repeating Shot infusion (_Eberron_ p. 62). When you reach 10th level in this class, the attack and damage bonus increases to +2. When you reach 14th level in this class, the attack and damage bonus increases to +3.
 
-## Gunsmith Spell List
-
-The following spells are added to the list of spells you can learn as a Gunsmith.
-
-#### Intellect Fortress
-*5th-level abjuration*
-___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Concentration, up to 10 minutes
-
-You create a faintly shimmering barrier of protective psychic power around you. For the duration, you have advantage on all saving throws.
-
-When another creature that you can see within 30 feet of you fails a saving throw, you can use your reaction to allow them to reroll the save. They must use the new roll.
-
 ## Firearms
 
 Firearms are martial ranged weapons. 
@@ -334,7 +318,21 @@ You channel arcane energy into one simple or martial weapon you're holding, and 
 
 As a bonus action, you can change the damage type, choosing from the options above.
 
-**At Higher Levels**. When you cast this spell using a spell slot of 3rd level or higher, you can maintain your concentration on the spell for up to 8 hours.
+## Gunsmith Spell List
+
+The Gunsmith spell list contains a new spell: _Intellect Fortress_.
+
+#### Intellect Fortress
+*5th-level abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
+
+You create a faintly shimmering barrier of protective psychic power around you. For the duration, you have advantage on all saving throws.
+
+When another creature that you can see within 30 feet of you fails a saving throw, you can use your reaction to allow them to reroll the save. They must use the new roll.
 
 
 
