@@ -75,7 +75,7 @@ You are trained in making ranged attacks at close quarters. Starting at 5th leve
 
 At 9th level, you learn new ways to channel arcane energy. When you hit a target with a magic weapon attack, you channel magical energy through the strike. The target takes an extra 2d6 force damage.
 
-You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once a turn. You regain all expended uses of your Arcane Jolt when you finish a short or long rest.
+You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once a turn. You regain all expended uses of your Arcane Jolt when you finish a _short or_ long rest.
 
 #### Improved Arcane Jolt
 
@@ -208,7 +208,7 @@ _Prerequisite: 10th-level artificer_
 
 _Item: A simple or martial weapon with the ammunition property (requires attunement)_
 
-This infusion grants all of the benefits of the Repeating Shot infusion (_Eberron_ p. 62). When you reach 10th level in this class, the attack and damage bonus increases to +2. When you reach 14th level in this cassl, the attack and damage bonus increases to +3.
+This infusion grants all of the benefits of the Repeating Shot infusion (_Eberron_ p. 62). When you reach 10th level in this class, the attack and damage bonus increases to +2. When you reach 14th level in this class, the attack and damage bonus increases to +3.
 
 ## Gunsmith Spell List
 
@@ -233,7 +233,7 @@ Firearms are martial ranged weapons.
 When you discharge a firearm with the _long_ property within 5 feet of your target, you do so with disadvantage, even if you are trained as a Close Quarters Shooter or Crossbow Master.
 
 <div class='descriptive'>
-##### Ranged Attacks in Close Combat: "Un merdier très profond."
+##### "Un merdier très profond."
 Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a mechanism for overcoming disadvantage, such as _Close Quarters Shooter_ at 5th level or the _Crossbow Expert_ feat.
 </div>   
 
@@ -242,8 +242,10 @@ You may use the butt of a firearm as an improvised melee weapon that deals 1d4 d
 
 You may not reload a firearm while wielding a shield, even if the firearm is magically infused.
 
+Rolling a 1 results in a misfire. You must use an action to clear the jam, even if an ability otherwise allows you to ignore the reload property.
 
-<div class='wide' style='margin-top:40px'>
+
+<div class='wide' style='margin-top:20px'>
 ##### Firearms
 | Weapon | Level | Cost | Damage | Weight | Properties
 |:------------- |:------|:------|:-------------|:-------------|:-------------|
