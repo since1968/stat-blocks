@@ -142,10 +142,6 @@ _You may instead attempt to grab the item from the creature. Using at least one 
 Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a mechanism for overcoming disadvantage, such as _Close Quarters Shooter_ at 5th level or the _Crossbow Expert_ feat.
 </div>   
 
-
-
-
-
 \page
 
 
@@ -331,23 +327,23 @@ When another creature that you can see within 30 feet of you fails a saving thro
 
 While you follow a rigid code of conduct in your professional life, your extracurricular activities are more varied. 
 
-You specialize in one of the following downtime activities: Carousing, Gambling, Pit Fighting, or Crime (pick one). Whenever you engage in your favored downtime activity, you may re-roll one check. In the event of a complication, you may re-roll your result on the complications table. You must keep the new result.
+You specialize in one of the following downtime activities: Carousing, Gambling, Pit Fighting, or Crime (pick one). Whenever you engage in your preferred downtime activity, you may re-roll one check. In the event of a complication, you may re-roll your result on the complications table. You must keep the new result.
 
 See "Downtime Activities" in chapter 2 of _Xanathar's Guide to Everything_.
 
 #### Suggested Characteristics
 
-Use the tables for the criminal background in the _Player's Handbook_ as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a transporter.
+Use the tables for the criminal background in the _Player's Handbook_ as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a transporter. Entries unique to the transporter are in _italics_.
 
 ##### Personality Traits
 | d6 | Personality Trait |
 |:-----:|:-------------|
-| 1 | I always have a plan for what to do when things go wrong. |
-| 2 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me. |
-| 3 | I would rather make a new friend than a new enemy. |
-| 4 | The best way to get me to do something is to tell me I can't do it. |
-| 5 | I'm incredibly slow to trust. Those who seem the fairest often have the most to hide. |
-| 6 | I don't know you, but I think I hate you. |
+| 1 | _I'm not getting killed for your merchandise. Buckle up._ |
+| 2 | _Sometimes you have to make your own law._ |
+| 3 | I always have a plan for what to do when things go wrong. |
+| 4 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me. |
+| 5 | The best way to get me to do something is to tell me I can't do it. |
+| 6 | I'm incredibly slow to trust. Those who seem the fairest often have the most to hide. |
 
 ##### Ideals
 | d6 | Ideal |
@@ -365,19 +361,19 @@ Use the tables for the criminal background in the _Player's Handbook_ as the bas
 ##### Bonds
 | d6 | Bond |
 |:-----:|:-------------|
-| 1 | I'm trying to pay off an old debt I owe to a generous benfactor. |
-| 2 | My earnings go to support my family. |
-| 3 | An effective transporter never checks his cargo. |
-| 4 | I'm guilty of a terrible crime. |
+| 1 | _A transporter never checks his cargo._ |
+| 2 | _"A past like yours, you never leave behind."_ |
+| 3 | I'm trying to pay off an old debt I owe to a generous benfactor. |
+| 4 | My earnings go to support my family. |
 | 5 | Someone I loved died because of a mistake I made. That will never happen again. |
 | 6 | My honor is my life. |
 
 ##### Flaws
 | d4 | Flaw |
 |:-----:|:-------------|
-| 1 | When faced with a choice between money and my friends, I usually choose the money. |
-| 2 | If there's a plan, I'll forget it. If I don't forget it, I'll ignore it. |
-| 3 | I turn tail and run when things look bad. |
+| 1 | _I checked the cargo._ |
+| 2 | _I don't know you, but I think I hate you._ |
+| 3 | When faced with a choice between money and my friends, I usually choose the money. |
 | 4 | An innocent person is in prison for a crime I committed. Better him than me. |
 
 
