@@ -103,7 +103,9 @@ Aim, unlike Precision Attack, consumes your Bonus Action and your movement. But 
 
 Roll the superiority die. Until the start of your next turn, the ally gains a bonus to AC equal to the number rolled.
 
-**Disarming Attack**. Per PHB.
+**Disarming Attack**. When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+
+_You may instead attempt to grab the item from the creature. Using at least one free hand, you try to seize the creature's item by making a grappling check instead of an attack roll. Add the superiority die to your Strength (Athletics) check. If you succeed, you hold the creature's item instead of grappling the creature. If the item is a weapon, you may use it on your next attack it as long as you are proficient with it._
 
 **Evasive Footwork**. Per PHB.
 
@@ -142,32 +144,6 @@ Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. 
 
 
 
-
-<div style='margin-top:20px'></div>
-
-
-##### Maneuver  Summary
-| Maneuver | Economy | Save / Check |
-|:-----|:-------------|:-------------|
-| Aim | Bonus Action | -- |
-| Ambush | Initiative | -- |
-| Bait and Switch | Move | -- |
-| Disarm | Attack | Str |
-| Evasive Footwork | Move | -- |
-| Feint | Bonus Action | -- |
-| Interception | Reaction | -- |
-| Menace | Attack | Wis |
-| Parry | Reaction | -- |
-| Precision | Attack | -- |
-| Rally | Bonus Action | -- |
-| Restrain | Bonus Action | Athletics |
-| Riposte | Reaction | -- |
-| Silver Tongue | -- | Chr |
-| Skirmish | Reaction | -- |
-| Snipe | Bonus Action | -- |
-| Studious Eye | -- | Wis or Int |
-| Trick Up Your Sleeve | Bonus Action | Dex or Str |
-| Trip | Attack | Str |
 
 
 \page
@@ -403,6 +379,33 @@ Use the tables for the criminal background in the _Player's Handbook_ as the bas
 | 2 | If there's a plan, I'll forget it. If I don't forget it, I'll ignore it. |
 | 3 | I turn tail and run when things look bad. |
 | 4 | An innocent person is in prison for a crime I committed. Better him than me. |
+
+
+## Maneuver Reference
+
+
+##### Maneuver  Action Economy
+| Maneuver | Economy | Save / Check |
+|:-----|:-------------|:-------------|
+| Aim | Bonus Action | -- |
+| Ambush | Initiative | -- |
+| Bait and Switch | Move | -- |
+| Disarm | Attack | Str / Athletics |
+| Evasive Footwork | Move | -- |
+| Feint | Bonus Action | -- |
+| Interception | Reaction | -- |
+| Menace | Attack | Wis |
+| Parry | Reaction | -- |
+| Precision | Attack | -- |
+| Rally | Bonus Action | -- |
+| Restrain | Bonus Action | Athletics |
+| Riposte | Reaction | -- |
+| Silver Tongue | -- | Chr |
+| Skirmish | Reaction | -- |
+| Snipe | Bonus Action | -- |
+| Studious Eye | -- | Wis or Int |
+| Trick Up Your Sleeve | Bonus Action | Dex or Str |
+| Trip | Attack | Str |
 
 
 
