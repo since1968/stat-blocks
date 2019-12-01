@@ -164,7 +164,7 @@ If the DM and player agree, the DM should roll this check out of the player's vi
 
 When the device explodes each creature within a 20 foot radius must make a Dexterity save equal to your spell save DC. A target takes 3d6 thunder damage on a failed save and is deafened until the end of your next turn, or half as much damage on a successful one. 
 
-The device may be disarmed with a successful DC 15 Thieves' Tools check.
+The device may be disarmed with a successful DC 15 Thieves' Tools check. The device explodes immediately if hit by an attack.
 
 
 
@@ -219,9 +219,7 @@ You may not reload a firearm while wielding a shield, even if the firearm is mag
 Rolling a 1 results in a misfire. You must use an action to clear the jam, even if an ability otherwise allows you to ignore the reload property.
 
 
-
-
-<div class='wide' style='margin-top:20px'>
+<div class='wide' style='margin-top:1px'>
 ##### Firearms
 | Weapon | Level | Cost | Damage | Weight | Properties
 |:------------- |:------|:------|:-------------|:-------------|:-------------|
