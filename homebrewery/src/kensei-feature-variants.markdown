@@ -1,7 +1,4 @@
-```
-```
-
-## Kensei Feature Variants
+## Way of the Kensei Feature Variants
 
 These features replace or enhance the normal features of the monk Kensei. The feature variants each specify which feature they replace or enhance. If a feature is replaced, you gain no benefit from it and don’t qualify for anything in the game that requires it. If a feature is enhanced, you continue to enjoy its benefits but now with new capabilities. 
 
@@ -14,11 +11,24 @@ _3rd-level Kensei feature (enhances Path of the Kensei)_
 
 Replace _Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties_ with _Each of these weapons can be any simple or martial weapon that lacks the special property._
 
+<div class='descriptive'>
+
+For the Kensei, re-skin the Glaive as a _Naginata_.
+</div>
+
+
 #### Agile Parry
 
 Replace _You gain a +2 bonus to AC_ with _You gain a bonus to AC equal to your proficiency modifier_.
 
-### Sharpen the Blade
+### Elegant Courtier
+_6th-level Kensei feature (enhances Path of the Kensei)_
+
+Starting at 6th level, your discipline and attention to detail allow you to excel in social situations. Whenever you make a Charisma (Persuasion) check, you gain a bonus to the check equal to your Wisdom modifier.
+
+Your self-control also causes you to gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
+
+#### Sharpen the Blade
 _11tt-level Kensei feature (enhances Sharpen the Blade)_
 
 Replace _This bonus lasts for 1 minute or until you use this feature again_ with _This bonus lasts for 10 minutes or until you us this feature again_.
