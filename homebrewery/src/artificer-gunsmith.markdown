@@ -55,7 +55,7 @@ You gain two superiority dice at 5th level, one more at 9th level, and one more 
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength, Dexterity, or Intelligence modifier (your choice)
 
-#### Maneuver Versatility
+##### Maneuver Versatility
 
 You can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead.
 
@@ -125,6 +125,11 @@ _You may instead attempt to grab the item from the creature. Using at least one 
 
 **Riposte**. When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee _or ranged_ weapon attack against the creature. If you hit, you add the superiority die to the damage roll.
 
+<div class='descriptive'>
+##### "Un merdier très profond."
+Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a mechanism for overcoming disadvantage, such as _Close Quarters Shooter_ at 5th level or the _Crossbow Expert_ feat.
+</div>   
+
 **Silver Tongue**. When you make a Charisma (Deception) check or a Charisma (Persuasion) check, you can expend one superiority die, and add the superiority die to the ability check.
 
 **Skirmish**. When an enemy you can see moves within 5 feet of you, you can use your reaction to move up to half your speed. This movement does not provoke opportunity attacks. Expend one superiority die and make one weapon attack against that creature. If the attack hits, add the superiority die to the attack’s damage roll. You may make the weapon attack before, during, or after your movement. 
@@ -137,10 +142,15 @@ _You may instead attempt to grab the item from the creature. Using at least one 
 
 **Trip Attack**. Per PHB. 
 
-<div class='descriptive'>
-##### "Un merdier très profond."
-Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a mechanism for overcoming disadvantage, such as _Close Quarters Shooter_ at 5th level or the _Crossbow Expert_ feat.
-</div>   
+##### Gunsmith Features
+| Artificer Level | Feature |
+|:-----:|:-------------|
+| 3rd | Tool Proficiency,<br />Battle Ready,<br /> Expertise |
+| 5th | Extra Attack,<br /> Close Quarters Shooter |
+| 9th | Arcane Jolt |
+| 15th | Improved Arcane Jolt,<br /> Improved Combat Superiority |
+
+
 
 \page
 
