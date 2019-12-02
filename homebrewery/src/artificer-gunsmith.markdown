@@ -127,7 +127,7 @@ _You may instead attempt to grab the item from the creature. Using at least one 
 
 <div class='descriptive'>
 ##### "Un merdier très profond."
-Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a mechanism for overcoming disadvantage, such as _Close Quarters Shooter_ at 5th level or the _Crossbow Expert_ feat.
+Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. Standard rules for close quarters ranged attacks still apply unless you find a way to overcome disadvantage, such as _Close Quarters Shooter_ at 5th level.
 </div>   
 
 **Silver Tongue**. When you make a Charisma (Deception) check or a Charisma (Persuasion) check, you can expend one superiority die, and add the superiority die to the ability check.
@@ -142,13 +142,13 @@ Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. 
 
 **Trip Attack**. Per PHB. 
 
-##### Gunsmith Features
+## Gunsmith Features
 | Artificer Level | Feature |
 |:-----:|:-------------|
 | 3rd | Tool Proficiency,<br />Battle Ready,<br /> Expertise |
 | 5th | Extra Attack,<br /> Close Quarters Shooter |
 | 9th | Arcane Jolt |
-| 15th | Improved Arcane Jolt,<br /> Improved Combat Superiority |
+| 15th | Improved Arcane Jolt,<br />Improved Combat Superiority |
 
 
 
@@ -371,7 +371,7 @@ Use the tables for the criminal background in the _Player's Handbook_ as the bas
 | 3 | I always have a plan for what to do when things go wrong. |
 | 4 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me. |
 | 5 | The best way to get me to do something is to tell me I can't do it. |
-| 6 | I'm incredibly slow to trust. Those who seem the fairest often have the most to hide. |
+| 6 | _I have one power. I never give up._ |
 
 ##### Ideals
 | d6 | Ideal |
