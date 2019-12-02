@@ -53,7 +53,7 @@ At 6th level, you extend your ki into your kensei weapons, granting you the foll
 
 **Deft Strike**. When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
 
-**Guided Strike**. _(Enhances One with the Blade). When you make a melee attack with a Kensei weapon, you can spend 1 ki point to attack with advantage. You can use this feature only once on each of your turns._ 
+_**Precise Strike**._ _(Enhances One with the Blade). When you make a melee attack with a Kensei weapon, you can spend 1 ki point to attack with advantage. You can use this feature only once on each of your turns._ 
 
 
 ### Sharpen the Blade
