@@ -521,14 +521,14 @@ The following scenarios demonstrate Gunsmith abilities in play.
 
 A **Hobgoblin Captain** spots the Gunsmith (3rd level, standard array, half-plate +1 AC 18, 22hp, revolver +1, returning dagger +1) in the street from a distance of fifteen feet. The Captain has come to collect a debt. The Gunsmith knows this will be settled with blows, not words. 
 
-#### Roll initiative.
+#### Roll Initiative
 
-* Captain: 5
 * Gunsmith: 8
+* Captain: 5
 
 ####  1st Round
 
-Gunsmith bonus action _snipes_ and throws dagger at the Captain. 15 (miss). Gunsmith draws his revolver and shoots. 21 (hit). _Menacing attack_. 8 damage.
+Gunsmith bonus action _snipes_ and throws dagger at the Captain. 15 (miss). Gunsmith draws his revolver and shoots. 21 (hit). _Menacing attack_. 8 damage. The dagger is a _returning weapon_ and returns immediately to the Gunsmith's hand.
 
 Captain rolls 19 and makes his save. Captain draw his greatsword and approaches to within 5 feet.
 
@@ -582,9 +582,9 @@ The Gunsmith casts _guidance_ on himself and hides in an alley, waiting for the 
 
 #### Roll Initiative
 
+* Hobgoblin: 18
 * Gunsmith: 17 (wasting a guidance roll of 1)
 * Captain: 15
-* Hobgoblin: 18
 * Noble: 9
 
 #### 1st Round
@@ -603,7 +603,9 @@ Noble is surprised and does nothing, to the Gunsmith's frustration.
 
 Gunsmith hasn't moved. He knows he can't afford to miss so he takes a deep breath and _aims_ at the Captain, rolls a 25 at advantage (hit). 18 damage. The hobgoblin is hurting.
 
-Gunsmith shoots again at the Captain, this time with a _menacing_ attack. Rolls 24 (hit). 21 damage. Captain falls down dead and the hostage is safe.
+Gunsmith shoots again at the Captain, this time with a _menacing_ attack. Rolls 24 (hit). 21 damage. Captain falls down dead.
+
+The hostage is safe.
 
 
 
