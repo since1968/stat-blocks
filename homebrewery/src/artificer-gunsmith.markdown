@@ -334,11 +334,6 @@ You create a faintly shimmering barrier of protective psychic power around you. 
 
 When another creature that you can see within 30 feet of you fails a saving throw, you can use your reaction to allow them to reroll the save. They must use the new roll.
 
-
-
-
-
-
 \page
 
 # Background
@@ -535,7 +530,7 @@ A **Hobgoblin Captain** spots the Gunsmith (3rd level, standard array, half-plat
 
 Gunsmith bonus action _snipes_ and throws dagger at the Captain. 15 (miss). Gunsmith draws his revolver and shoots. 21 (hit). _Menacing attack_. 8 damage.
 
-Captain rolls 19 and makes his save. Captain draw his greatsword and approaches to within 5 feet. Gunsmith uses his reaction to _skirmish_ before Captain can attack him, moves 17 feet away and shoots Captain. 18 (hit). 13 points of damage.
+Captain rolls 19 and makes his save. Captain draws his greatsword and approaches to within 5 feet. Gunsmith uses his reaction to _skirmish_ before Captain can attack him, moves 17 feet away and shoots Captain. 18 (hit). 13 points of damage.
 
 Captain uses the rest of his movement to close the distance and attacks twice with his greatsword: 16 (hit) and 11 (miss). 6 damage.
 
@@ -555,7 +550,7 @@ Captain attacks again, rolls 7 (miss!)
 
 #### 4th Round 
 
-Gunsmith can't afford an action to clear his jam. He tries to stab the Captain with his dagger, rolls 11 (miss).
+Gunsmith can't afford an action to clear his jam. He tries to club the Captain with his pistol, rolls 11 (miss).
 
 Captain sniggers because he knows he's got his man. Attacks with greatsword, twice. Rolls 18 (hit), 8 damage. Swings again, rolls 9 (miss).
 
@@ -573,9 +568,9 @@ The Gunsmith knows he was lucky, not good. He realizes he could have cast _shiel
 
 ### Scenario 2: The Hostage
 
-A Gunsmith (5th level, standard array, breast plate +1 AC 17, 33hp, shotgun +1, returning dagger +1) is tasked with rescuing a hostage. He knows the hostage, a **noble**, has been kidnapped by a **Hobgoblin Captain** and a **Hobgoblin**. He also knows the kidnappers have been instructed to kill the hostage rather than allow her to be recaptured. Finally, through his underworld contacts he has learned the date and time the kidnappers plan to transfer the noble to a new location.
+A Gunsmith (5th level, standard array, breastplate +1 AC 17, 33hp, shotgun +1, returning dagger +1) is tasked with rescuing a hostage. He knows the hostage, a **noble**, has been kidnapped by a **Hobgoblin Captain** and a **Hobgoblin**. He also knows the kidnappers have been instructed to kill the hostage rather than allow her to be recaptured. Finally, through his underworld contacts he has learned the date and time the kidnappers plan to transfer the noble to a new location.
 
-The Gunsmith dons _breast plate_ so he can be stealthy, even though _half plate_ would give him better protection. He knows the odds are long, but he has a plan.
+The Gunsmith dons _breastplate_ so he can be stealthy, even though _half plate_ would give him better protection. He knows the odds are long, but he has a plan.
 
 He is a Transporter.
 
