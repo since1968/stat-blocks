@@ -510,4 +510,104 @@ Are maneuvers are underpowered compared to the Steel Defender?
 Assumptions:
 * Artificer INT of 16 at 3rd level, 18 at 5th level, and 20 at 9th level.
 * Rend takes your bonus action. Assumes 10 attacks per short rest.
+
+\page
+
+## Scenarios
+
+The following scenarios demonstrate Gunsmith abilities in play.
+
+### Scenario 1: The Debt
+
+A **Hobgoblin Captain** spots the Gunsmith (3rd level, standard array, half-plate +1 AC 18, 22hp, revolver +1, returning dagger +1) in the street from a distance of fifteen feet. The Captain has come to collect a debt. The Gunsmith knows this will be settled with blows, not words. 
+
+#### Roll initiative.
+
+* Captain: 5
+* Gunsmith: 8
+
+####  1st Round
+
+Gunsmith bonus action _snipes_ and throws dagger at the Captain. 15 (miss). Gunsmith draws his revolver and shoots. 21 (hit). _Menacing attack_. 8 damage.
+
+Captain rolls 19 and makes his save. Captain draw his greatsword and approaches to within 5 feet.
+
+Gunsmith uses his reaction to _skirmish_ before Captain can attack him, moves 17 feet away and shoots Captain. 18 (hit). 13 points of damage.
+
+Captain uses the rest of his movement to close the distance and attacks twice with his greatsword: 16 (hit) and 11 (miss). 6 damage.
+
+#### 2nd Round
+
+Gunsmith realizes he's at disadvantage within 5 feet so uses a _feint_ attack to cancel disadvantage. Shoots Captain point blank, rolls 18 (hit). 13 damage.
+
+Captain morale check 17 (pass). He's no coward, and attacks the Gunsmith with his greatsword, rolls a 16 (miss). Gunsmith _ripostes_, shooting at disadvantage, rolls a 4 (miss). Captain attacks again, rolls 14 (miss).
+
+#### 3rd Round
+
+Gunsmith has two superiority dice remaining. He _feints_ again and shoots, rolls 1&mdash;misfire!.
+
+Captain attacks, rolls 1 (miss). Gunsmith _ripostes_ with his last superiority die, attempting to hit Captain with the butt of his pistol. He rolls a 3 (miss). He's out of dice and out of luck.
+
+Captain attacks again, rolls 7 (miss!)
+
+#### 4th Round 
+
+Gunsmith can't afford an action to clear his jam. He tries to stab the Captain with his dagger, rolls 11 (miss).
+
+Captain sniggers because he knows he's got his man. Attacks with greatsword, twice. Rolls 18 (hit), 8 damage. Swings again, rolls 9 (miss).
+
+#### 5th Round 
+
+Gunsmith stabs at the Captain with his dagger, rolls 9 (miss!)
+
+Captain swings twice with his greatsword, rolls 6 (miss!) and 17 (miss!!)
+
+#### 6th Round
+
+Gunsmith stabs the Captain with his dagger, rolls 21 (hit). 6 damage, and the Captain crumples into the street, dead.
+
+The Gunsmith knows he was lucky, not good. He realizes he could have cast _shield_ in round four to avoid being hit. He thanks the gods of chance and vows to fight smarter next time. 
+
+### Scenario 2: The Hostage
+
+A Gunsmith (5th level, standard array, breast plate +1 AC 17, 33hp, shotgun +1, returning dagger +1) is tasked with rescuing a hostage. He knows the hostage, a **noble**, has been kidnapped by a **Hobgoblin Captain** and a **Hobgoblin**. He also knows the kidnappers have been instructed to kill the hostage rather than allow her to be recaptured. Finally, through his underworld contacts he has learned the date and time the kidnappers plan to transfer the noble to a new location.
+
+The Gunsmith dons _breast plate_ so he can be stealthy, even though _half plate_ would give him better protection. He knows the odds are long, but he has a plan.
+
+He is a Transporter.
+
+#### Before the Fight
+
+The Gunsmith casts _guidance_ on himself and hides in an alley, waiting for the kidnappers and the noble to come within 30 feet. When they are within range, he steps out of the alley and attempts to surprise them. He rolls a Dexterity (Stealth) check of 22 and startles the Hobgoblins as he levels the shotgun at them. 
+
+#### Roll Initiative
+
+* Gunsmith: 17 (wasting a guidance roll of 1)
+* Captain: 15
+* Hobgoblin: 18
+* Noble: 9
+
+#### 1st Round
+
+Hobgoblin is surprised and does nothing.
+
+Gunsmith casts _sanctuary_ on the noble as a bonus action, hoping to protect her from attack. He shouts "Run!" to the noble. He then shoots his shotgun at the hobgoblin, rolls 18 (hit). 16 damage. Hobgoblin falls down dead without ever raising his sword.
+
+Gunsmith takes his second shot, this time at the Captain, rolls 19 with the help of a _precision attack_ (hits). 14 damage.
+
+Captain is surprised and does nothing.
+
+Noble is surprised and does nothing, to the Gunsmith's frustration.
+
+#### 2nd Round
+
+Gunsmith hasn't moved. He knows he can't afford to miss so he takes a deep breath and _aims_ at the Captain, rolls a 25 at advantage (hit). 18 damage. The hobgoblin is hurting.
+
+Gunsmith shoots again at the Captain, this time with a _menacing_ attack. Rolls 24 (hit). 21 damage. Captain falls down dead and the hostage is safe.
+
+
+
+
+
+
  
