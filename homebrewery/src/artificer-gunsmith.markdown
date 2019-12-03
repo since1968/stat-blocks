@@ -341,9 +341,14 @@ When another creature that you can see within 30 feet of you fails a saving thro
 
 \page
 
-# Backgrounds
+# Background
 
-## Transporter
+### Transporter
+
+Courier, bodyguard, kidnapper, thug. You go by many different names, not all of them kind. But you are a _transporter_. 
+
+Many transporters swear fealty to the dragonmarked house of Orien. The lightning rails and elemental vessels of Eberron are a second home to you. If an item needs taking or delivering, if a person needs escort or capture, you'll take the job no questions asked&mdash;as long as the price is right. 
+
 
 **Skill Proficiencies:** Athletics, Intimidation
 
