@@ -528,11 +528,9 @@ A **Hobgoblin Captain** spots the Gunsmith (3rd level, standard array, half-plat
 
 ####  1st Round
 
-Gunsmith bonus action _snipes_ and throws dagger at the Captain. 15 (miss). Gunsmith draws his revolver and shoots. 21 (hit). _Menacing attack_. 8 damage. The dagger is a _returning weapon_ and returns immediately to the Gunsmith's hand.
+Gunsmith bonus action _snipes_ and throws dagger at the Captain. 15 (miss). Gunsmith draws his revolver and shoots. 21 (hit). _Menacing attack_. 8 damage.
 
-Captain rolls 19 and makes his save. Captain draw his greatsword and approaches to within 5 feet.
-
-Gunsmith uses his reaction to _skirmish_ before Captain can attack him, moves 17 feet away and shoots Captain. 18 (hit). 13 points of damage.
+Captain rolls 19 and makes his save. Captain draw his greatsword and approaches to within 5 feet. Gunsmith uses his reaction to _skirmish_ before Captain can attack him, moves 17 feet away and shoots Captain. 18 (hit). 13 points of damage.
 
 Captain uses the rest of his movement to close the distance and attacks twice with his greatsword: 16 (hit) and 11 (miss). 6 damage.
 
@@ -558,13 +556,13 @@ Captain sniggers because he knows he's got his man. Attacks with greatsword, twi
 
 #### 5th Round 
 
-Gunsmith stabs at the Captain with his dagger, rolls 9 (miss!)
+Gunsmith tries to club the Captain with his pistol, rolls 9 (miss!)
 
 Captain swings twice with his greatsword, rolls 6 (miss!) and 17 (miss!!)
 
 #### 6th Round
 
-Gunsmith stabs the Captain with his dagger, rolls 21 (hit). 6 damage, and the Captain crumples into the street, dead.
+Gunsmith clubs the Captain with his pistol, rolls 21 (hit). 6 damage, and the Captain crumples into the street, dead.
 
 The Gunsmith knows he was lucky, not good. He realizes he could have cast _shield_ in round four to avoid being hit. He thanks the gods of chance and vows to fight smarter next time. 
 
