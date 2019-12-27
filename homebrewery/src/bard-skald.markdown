@@ -22,13 +22,19 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 ### Inspiring Leader
 
-Starting at 14th level, you can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
+Also at 6th level, you can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
-<div class='descriptive'>
-##### Every action has an equal and opposite...
-No reaction in the game beats Lore bard's _cutting words_. These fighting style provide strong reaction options to the Skáld if he's willing to wade into battle.  
-</div>   
+### Horns Wildly Blowing
 
+Starting at 14th level, you can drive your allies to fight with abandon. As a bonus action, you may shout a battle-cry. Choose up to six friendly creatures (which can include yourself) who can hear and understand you. Each creature can decide to attack recklessly on the first attack of its turn. Doing so gives them advantage on ability checks using Strength or melee weapon attack roles during this turn, but attack rolls against them have advantage until their next turn. This effect lasts for one minute. A creature cannot be affected by this battle-cry again until it has finished a short or long rest.  
+
+```
+```
+
+<img src="https://github.com/since1968/statblocks/blob/master/homebrewery/img/skald-Clan_heymaey_people.png?raw=true" />
+
+
+\page
 
 ## Fighting Styles
 
@@ -57,3 +63,13 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 * When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon’s die.)
 * _When a creature enters_ your spear’s reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can’t use this ability if the creature used the Disengage action before moving.
 * As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
+
+
+<div class='descriptive'>
+##### An equal and opposite...
+No reaction in the game beats Lore bard's _cutting words_. These fighting style provide strong reaction options to the Skáld if he's willing to wade into battle.  
+</div>   
+
+<img src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/skald-Tw3_journal_donar.png" />
+
+
