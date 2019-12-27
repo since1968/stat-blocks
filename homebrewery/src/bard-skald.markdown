@@ -12,10 +12,14 @@ When you become a Skáld at 3rd level, you gain proficiency with medium armor an
 
 At 3rd level, you adopt a particular style of fighting as your specialty. Choose one of the options at the end of this document. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
-
 ### Rally
 
 Also at 3rd level, you can use a bonus action and expend one Bardic Inspiration die to bolster the resolve of your companions. When you do so, choose a friendly creature who can see or hear you. That creature _regains hit points_ equal to the Bardic Inspiration die roll + your Charisma modifier. 
+
+
+```
+```
+
 
 ### Extra Attack
 
@@ -30,13 +34,20 @@ Also at 6th level, you can spend 10 minutes inspiring your companions, shoring u
 Starting at 14th level, you can drive your allies to fight with abandon. As a bonus action, you may shout a battle-cry. Choose up to six friendly creatures (which can include yourself) who can hear and understand you. Each creature can decide to attack recklessly on the first attack of its turn. Doing so gives them advantage on ability checks using Strength or melee weapon attack roles during this turn, but attack rolls against them have advantage until their next turn. This effect lasts for one minute. A creature cannot be affected by this battle-cry again until it has finished a short or long rest.  
 
 
-```
-```
-
-<img src="https://github.com/since1968/statblocks/blob/master/homebrewery/img/skald-Clan_heymaey_people.png?raw=true" />
+<div class='wide'>
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-Townsfolk-two.png" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
+</div>
 
 
 \page
+
+<div class='wide'>
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-raiding_season.png" style='position:absolute;right:0px;top:0px;width:700px;z-index:-500' />
+</div>
+
+<div style='margin-top:110px'></div>
 
 ## Fighting Styles
 
@@ -62,14 +73,15 @@ You master the handaxe, battleaxe, and greataxe. _You become proficient with the
 
 
 <div class='descriptive'>
-##### An equal and opposite...
+##### Equal and opposite...
 No reaction in the game beats Lore bard's _cutting words_. Fighting styles provide strong reaction options to the Skáld if he's willing to wade into battle.  
 </div>   
 
 
+```
+```
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-```
-```
 ### Spear Mastery
 
 Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. _You become proficient with the spear if you are not already, and_ you gain the following benefits.
@@ -80,6 +92,6 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 * As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
 
 
-<img src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/skald-Tw3_journal_donar.png" style='position:absolute;left:230px;bottom:0px;width:700px;z-index:-100' />
+
 
 
