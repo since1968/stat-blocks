@@ -1,4 +1,65 @@
-# Called Shots and Pain
+# The Pain Mechanic
+
+## Suffering Pain
+
+Pain reflects heavy stress due to intense battle. 
+
+Pain, like Exhaustion, is measured in six levels. Its effects are shown on the Exhaustion table. Pain and Exhaustion levels stack. For example, a creature with two levels of Exhaustion and one level of pain suffers from three levels of Exhaustion. A creature that reaches six cumulative levels of Exhaustion and Pain is unconscious instead of dead.
+
+You can remove a level of Pain on a creature, including yourself, by taking an action to perform a Medicine check DC 10. All levels of Pain are removed by taking a short rest or being restored to full health. 
+
+## Causes of Pain
+
+### Called Shots
+
+You may use a bonus action to mark a creature up to two sizes larger than you with a called shot. The next time you hit that creature with a melee or thrown weapon attack on the same turn, your attack deals half damage, rounded down, and forces the creature to make a Constitution saving throw (DC 8 + your proficiency bonus + your Strength or Dexterity modifier) or suffer a level of pain. You can use this feature only once on each of your turns. 
+
+You may also make a called shot with the Ready action in lieu of a bonus action.
+
+#### Who can make a called shot?
+
+The following characters can make a called shot:
+
+* Any martial class (Barbarian, Fighter, Monk, Paladin, Ranger)
+* Any character whose sublcass grants access to a second attack (example: Valor Bard, Battle Smith Artificer).
+* Any Rogue.
+* Any character with expertise (not simple proficiency) in Athletics.
+* Any character with the Grappler or Martial Adept feat.
+
+NPCs or Monsters can make a called shot at the discretion of the DM.
+
+### Critical Hits
+
+A creature that suffers a critical hit must make a Constitution saving throw (DC 10, or one half of the damage suffered by the creature, whichever is greater) or suffer a level of pain.
+
+```
+```
+
+<div class='descriptive'>
+##### Exhaustion
+
+Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description. 
+
+<br />
+
+| Level | Effect |
+|:-----------:|:-------------|
+| 1 | Disadvantage on ability checks |
+| 2 | Speed halved |
+| 3 | Disadvantage on attack rolls and saving throws |
+| 4 | Hit point maximum halved |
+| 5 | Speed reduced to 0 |
+| 6 | Death |
+
+
+A creature suffers the effect of its current level of exhaustion as well as all lower levels.
+
+</div>   
+
+
+\page
+
+# Pain (Unedited from Giant ITP)
 
 People like adding flair to their attacks, and sometimes, the existing rules don't really support the mechanics of some actions (I kick him in the knee!). However, most called-shot systems add their own list of rules, mechanics and slow down the game, and implementing a new system to inflict negative conditions to an enemy can sometimes impede on existing mechanics, such as with the Battle Master Fighter's Superiority Die.
 
