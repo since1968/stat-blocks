@@ -14,7 +14,7 @@ At 3rd level, you adopt a particular style of fighting as your specialty. Choose
 
 ### Rally
 
-Also at 3rd level, you can use a bonus action and expend one Bardic Inspiration die to bolster the resolve of your companions. When you do so, choose a friendly creature who can see or hear you. That creature regains hit points equal to the Bardic Inspiration die roll + your Charisma modifier. 
+Also at 3rd level, you can use a bonus action and expend one Bardic Inspiration die to bolster the resolve of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the Bardic Inspiration die roll + your Charisma modifier. 
 
 
 ```
@@ -80,7 +80,7 @@ You master the handaxe, battleaxe, and greataxe. You become proficient with thes
 
 ### Spear Mastery
 
-Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. _You become proficient with the spear if you are not already, and_ you gain the following benefits.
+Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. You become proficient with the spear if you are not already, and you gain the following benefits.
 
 * You gain a +1 bonus to attack and damage rolls you make with a spear.
 * When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon’s die.)
