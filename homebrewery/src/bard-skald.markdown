@@ -6,7 +6,7 @@ Warrior-poets whose tales keep alive the memory of the great heroes of the past,
 
 ### Bonus Proficiencies
 
-When you become a Skáld at 3rd level, you gain proficiency with medium armor and shields. You also gain proficiency with Animal Handling.
+When you become a Skáld at 3rd level, you gain proficiency with medium armor and shields. You also gain proficiency with Animal Handling. If you are already proficient with this skill, you may double your proficiency bonus.
 
 ### Fighting Style
 
