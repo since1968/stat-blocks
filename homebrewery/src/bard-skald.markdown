@@ -6,16 +6,11 @@ Warrior-poets whose tales keep alive the memory of the great heroes of the past,
 
 ### Bonus Proficiencies
 
-When you become a Skáld at 3rd level, you gain proficiency with medium armor and shields. 
+When you become a Skáld at 3rd level, you gain proficiency with medium armor and shields. You also gain proficiency with Animal Handling.
 
 ### Fighting Style
 
 At 3rd level, you adopt a particular style of fighting as your specialty. Choose one of the options at the end of this document. You can't take a Fighting Style option more than once, even if you later get to choose again.
-
-<div class='descriptive'>
-##### An equal and opposite...
-No reaction in the game beats Lore bard's _cutting words_. Fighting styles provide strong reaction options to the Skáld if he's willing to wade into battle.  
-</div>   
 
 
 ### Rally
@@ -30,7 +25,7 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 Also at 6th level, you can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
-### Horns Wildly Blowing
+### Ride to Ruin and the World's End
 
 Starting at 14th level, you can drive your allies to fight with abandon. As a bonus action, you may shout a battle-cry. Choose up to six friendly creatures (which can include yourself) who can hear and understand you. Each creature can decide to attack recklessly on the first attack of its turn. Doing so gives them advantage on ability checks using Strength or melee weapon attack roles during this turn, but attack rolls against them have advantage until their next turn. This effect lasts for one minute. A creature cannot be affected by this battle-cry again until it has finished a short or long rest.  
 
@@ -64,6 +59,15 @@ You master the handaxe, battleaxe, and greataxe. _You become proficient with the
 * Whenever you have advantage on a melee attack roll you make with the weapon and hit, you can knock the target prone if the lower of the two d20 rolls would also hit the target.
 * Whenever you have disadvantage on a melee attack roll you make with the weapon, the target takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the attack misses but the higher of the two d20 rolls would have hit.
 * _If a creature moves 5 feet or more while within your reach, you may use your reaction to attempt to knock the creature prone by attacking with your axe handle. If you hit with the attack, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone. If the target is knocked prone, its speed is reduced to 0 until the end of its current turn_. 
+
+
+<div class='descriptive'>
+##### An equal and opposite...
+No reaction in the game beats Lore bard's _cutting words_. Fighting styles provide strong reaction options to the Skáld if he's willing to wade into battle.  
+</div>   
+
+
+
 ```
 ```
 ### Spear Mastery
