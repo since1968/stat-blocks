@@ -85,18 +85,18 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 * You gain a +1 bonus to attack and damage rolls you make with a spear.
 * When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon’s die.)
 * When a creature enters your spear’s reach, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands.
-* As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
+* As a bonus action on your turn, you can increase your reach with a spear by 5 feet until the beginning of your next turn.
+* When you make an attack with a spear, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgedoning damage.
 
-
-
+<!--
 <div class='descriptive'>
 ##### Equal and opposite...
 No reaction in the game beats Lore bard's _cutting words_. Fighting styles provide strong reaction options to the Skáld if he's willing to wade into battle.  
 </div>   
-
+-->
 
 #### Credits
 
-Skáld created by Marc Garrett using elements from PHB feats and Unearthed Arcana. Art is taken from "Raiders of the North Sea" game from Renegade Studios.
+Skáld created by Marc Garrett using elements from PHB feats and Unearthed Arcana. Spear Mastery was also inspired by Odyssey of the Dragonlords Hoplite. Art is taken from "Raiders of the North Sea" game from Renegade Studios.
 
 
