@@ -12,6 +12,8 @@ When you become a Skáld at 3rd level, you gain proficiency with medium armor an
 
 At 3rd level, you adopt a particular style of fighting as your specialty. Choose one of the options at the end of this document. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
+
+
 ### Rally
 
 Also at 3rd level, you can use a bonus action and expend one Bardic Inspiration die to bolster the resolve of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the Bardic Inspiration die roll + your Charisma modifier. 
@@ -25,33 +27,57 @@ Also at 3rd level, you can use a bonus action and expend one Bardic Inspiration 
 
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
+### Battle Magic
+
+Also at 6th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+
+
+
 ### Inspiring Leader
 
 Also at 6th level, you can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feature again until it has finished a short or long rest.
 
+
+
 ### Ride to Ruin and the World's End
 
-Starting at 14th level, you can drive your allies to fight with abandon. As a bonus action, you may shout a battle-cry. Choose up to six friendly creatures (which can include yourself) who can hear and understand you. Each creature can decide to attack recklessly on each attack of its turn. Doing so gives them advantage on ability checks using Strength, or melee weapon attack rolls, during this turn, but attack rolls against them have advantage until their next turn. This effect lasts for one minute. A creature cannot be affected by this battle-cry again until it has finished a short or long rest.  
+Starting at 14th level, you can drive your allies to fight with abandon. As a bonus action, you may shout a battle-cry. Choose up to six friendly creatures (which can include yourself) who can hear and understand you. Each creature can decide to attack recklessly on each attack of its turn. Doing so gives them advantage on ability checks using Strength, or melee weapon attack rolls, during this turn, but attack rolls against them have advantage until their next turn. This effect lasts for one minute. A creature cannot be affected by this battle-cry again until it has finished a short or long rest. 
+
+### Improved Battle Magic
+
+Also at 14th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
 
-<div class='wide'>
+
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-axe.png" style='position:absolute;left:0px;bottom:0px;width:800px;z-index:500' />
+
+
+<!--div class='wide'>
 <img
   src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-Townsfolk-two.png" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
-</div>
+</div-->
 
 
 \page
 
-<div class='wide'>
+<!--div class='wide'>
 <img
   src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-raiding_season.png" style='position:absolute;right:0px;top:0px;width:700px;z-index:-500' />
-</div>
+</div-->
 
-<div style='margin-top:110px'></div>
+<!--div style='margin-top:110px'></div-->
 
 ## Fighting Styles
 
-Whenever you gain a level in a class that has the Fighting Style feature, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.
+
+Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.
+
+<div class='descriptive'>
+##### Equal and opposite...
+Hard to find a reaction better than Lore bard's _cutting words_. Fighting styles provide strong reaction options to the Skáld if he's willing to wade into battle.  
+</div>   
+
 
 ### Blade Mastery
 
@@ -73,10 +99,8 @@ You master the handaxe, battleaxe, and greataxe. You become proficient with thes
 * If a creature moves 5 feet or more while within your reach, you may use your reaction to attempt to knock the creature prone by attacking with your axe handle. If you hit with the attack, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone. If the target is knocked prone, its speed is reduced to 0 until the end of its current turn. 
 
 
-
 ```
 ```
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ### Spear Mastery
 
@@ -88,15 +112,14 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 * As a bonus action on your turn, you can increase your reach with a spear by 5 feet until the beginning of your next turn.
 * When you make an attack with a spear, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgedoning damage.
 
-<!--
-<div class='descriptive'>
-##### Equal and opposite...
-No reaction in the game beats Lore bard's _cutting words_. Fighting styles provide strong reaction options to the Skáld if he's willing to wade into battle.  
-</div>   
--->
 
 #### Credits
 
-Skáld created by Marc Garrett using elements from PHB feats and Unearthed Arcana. Spear Mastery was also inspired by Odyssey of the Dragonlords Hoplite. Art is taken from "Raiders of the North Sea" game from Renegade Studios.
+Skáld created by Marc Garrett using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea" game from Renegade Studios.
 
 
+
+<img
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-woman.png" style='position:absolute;right:0px;bottom:0px;width:480px;z-index:500' />
+
+	
