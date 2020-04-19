@@ -110,7 +110,7 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 * When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon’s die.)
 * When a creature enters your spear’s reach, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands.
 * As a bonus action on your turn, you can increase your reach with a spear by 5 feet until the beginning of your next turn.
-* When you make an attack with a spear, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgedoning damage.
+* When you make an attack with a spear, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgeoning damage.
 
 
 #### Credits
