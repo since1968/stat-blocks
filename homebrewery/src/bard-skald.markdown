@@ -81,7 +81,7 @@ At 6th level, on your turn, when you score a critical hit with an axe or reduce 
 
 #### Credits
 
-Skáld created by Marc Garrett using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea."
+Skáld created by /u/woulditkillyoutolift using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea."
 
 
 ```
