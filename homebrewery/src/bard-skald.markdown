@@ -34,7 +34,6 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 Also at 6th level, you can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feature again until it has finished a short or long rest.
 
-
 ### Ride to Ruin and the World's End
 
 Starting at 14th level, you can drive your allies to fight with abandon. As a bonus action, you may shout a battle-cry. Choose up to six friendly creatures (which can include yourself) who can hear and understand you. Each creature can decide to attack recklessly on each attack of its turn. Doing so gives them advantage on ability checks using Strength, or melee weapon attack rolls, during this turn, but attack rolls against them have advantage until their next turn. This effect lasts for one minute. A creature cannot be affected by this battle-cry again until it has finished a short or long rest. 
@@ -66,7 +65,7 @@ You master the shortsword, longsword, scimitar, rapier, and greatsword. You beco
 * On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so adds your proficiency bonus to your AC until the start of your next turn or until you’re not holding the weapon.
 * When you make an opportunity attack with the weapon, you have advantage on the attack roll.
 
-At 6th level, [...]
+At 6th level, your bonus to attack rolls made with this weapon becomes +2.
 
 
 ### Fell-Handed
@@ -78,12 +77,11 @@ You master the handaxe, battleaxe, and greataxe. You become proficient with thes
 * Whenever you have disadvantage on a melee attack roll you make with the weapon, the target takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the attack misses but the higher of the two d20 rolls would have hit.
 * If a creature moves 5 feet or more while within your reach, you may use your reaction to attempt to knock the creature prone by attacking with your axe handle. If you hit with the attack, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone. If the target is knocked prone, its speed is reduced to 0 until the end of its current turn. 
 
-At 6th level [...]
-
+At 6th level, on your turn, when you score a critical hit with an axe or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 
 #### Credits
 
-Skáld created by Marc Garrett using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea" game from Renegade Studios.
+Skáld created by Marc Garrett using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea."
 
 
 ```
