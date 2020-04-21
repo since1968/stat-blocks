@@ -10,7 +10,7 @@
 
 "And they sang as they slew, for the joy of battle was on them, and the sound of their singing was fair and terrible..."
 
-Warrior-poets whose tales keep alive the memory of the great heroes of the past, Skálds never shy from the front line of battle. Preferring to drive his friends into battle with the rhythm of his war chants, the Skáld often abandons his instruments to carry a spear and shield.
+Warrior-poets whose tales keep alive the memory of the great heroes of the past, Skálds never shy from the front line of battle. Preferring to drive their friends into battle with the rhythm of their war chants, Skálds often abandon their instruments to carry a spear and shield.
 
 ### Bonus Proficiencies
 
