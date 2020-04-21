@@ -1,10 +1,16 @@
+<style>
+  .phb{ background : white;}
+  .phb hr+blockquote{background : white;}
+</style>
+
+
 # Bard College
 
 ## Skáld 
 
 "And they sang as they slew, for the joy of battle was on them, and the sound of their singing was fair and terrible..."
 
-Warrior-poets whose tales keep alive the memory of the great heroes of the past, Skálds never shy from the front line of battle. Preferring to drive her friends into battle with the rhythm of her war chants, the Skáld often abandons her instruments to carry a spear and shield.
+Warrior-poets whose tales keep alive the memory of the great heroes of the past, Skálds never shy from the front line of battle. Preferring to drive his friends into battle with the rhythm of his war chants, the Skáld often abandons his instruments to carry a spear and shield.
 
 ### Bonus Proficiencies
 
@@ -51,12 +57,6 @@ Also at 14th level, when you use your action to cast a spell, you can make one w
 
 ## Weapon Mastery
 
-<!--div class='descriptive'>
-##### Equal and opposite...
-Hard to find a reaction better than Lore bard's _cutting words_. Fighting styles provide strong reaction options to the Skáld if he's willing to wade into battle.  
-</div-->   
-
-
 ### Blade Mastery
 
 You master the shortsword, longsword, scimitar, rapier, and greatsword. You become proficient with these weapons if you are not already, and you gain the following benefits when using any of them:
@@ -99,10 +99,5 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 
 At 6th level, your melee attack range with your spear is increased to 10 feet.
 
-
-
-
 <img
   src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-woman.png" style='position:absolute;right:0px;bottom:0px;width:480px;z-index:500' />
-
-	
