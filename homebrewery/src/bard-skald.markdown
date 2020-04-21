@@ -2,6 +2,8 @@
 
 ## Skáld 
 
+"And they sang as they slew, for the joy of battle was on them, and the sound of their singing was fair and terrible..."
+
 Warrior-poets whose tales keep alive the memory of the great heroes of the past, Skálds never shy from the front line of battle. Preferring to drive her friends into battle with the rhythm of her war chants, the Skáld often abandons her instruments to carry a spear and shield.
 
 ### Bonus Proficiencies
@@ -10,7 +12,7 @@ When you become a Skáld at 3rd level, you gain proficiency with medium armor an
 
 ### Weapon Mastery
 
-At 3rd level, you master a weapon (or family of related weapons) as your specialty. Choose one of the options at the end of this document. You can't take a Weapon Mastery option more than once, even if you later get to choose again.
+At 3rd level, you master a weapon, or family of weapons, as your specialty. Choose one of the options at the end of this document. You can't take a weapon mastery option more than once, even if you later get to choose again.
 
 Your weapon mastery improves at 6th level.
 
@@ -43,7 +45,7 @@ Also at 14th level, when you use your action to cast a spell, you can make one w
 
 
 <img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-axe.png" style='position:absolute;left:0px;bottom:0px;width:800px;z-index:500' />
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-axe.png" style='position:absolute;left:0px;bottom:0px;width:780px;z-index:500' />
 
 
 \page
