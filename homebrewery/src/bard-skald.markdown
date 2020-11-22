@@ -23,13 +23,16 @@ At 3rd level, you master a weapon, or family of weapons, as your specialty. Choo
 Your weapon mastery improves at 6th level.
 
 
+
+
+```
+```
+
+
 ### Combat Inspiration
 
 Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses. 
 
-
-```
-```
 
 ### Extra Attack
 
@@ -46,7 +49,7 @@ Also at 14th level, when you use your action to cast a spell, you can make one w
 
 
 <img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-axe.png" style='position:absolute;left:0px;bottom:0px;width:760px;z-index:500' />
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-axe.png" style='position:absolute;left:0px;bottom:0px;width:840px;z-index:500' />
 
 
 \page
@@ -93,7 +96,7 @@ At 6th level, your melee attack range with your spear is increased to 10 feet.
 
 #### Credits
 
-Skáld created by /u/woulditkillyoutolift using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea."
+Skáld created by /u/woulditkillyoutolift using elements from PHB and Unearthed Arcana Weapon Mastery Feats. Art is from "Raiders of the North Sea" game.
 
 
 <img
