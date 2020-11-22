@@ -6,7 +6,7 @@
 
 # Bard College
 
-## Skáld 
+## College of Skálds 
 
 "And they sang as they slew, for the joy of battle was on them, and the sound of their singing was fair and terrible..."
 
@@ -18,14 +18,14 @@ When you become a Skáld at 3rd level, you gain proficiency with medium armor an
 
 ### Weapon Mastery
 
-At 3rd level, you master a weapon, or family of weapons, as your specialty. Choose one of the options at the end of this document. You can't take a weapon mastery option more than once, even if you later get to choose again.
+At 3rd level, you master a weapon, or family of weapons, as your specialty. Choose one of the options at the end of this document.
 
 Your weapon mastery improves at 6th level.
 
 
-### Rally
+### Combat Inspiration
 
-Also at 3rd level, you can use a bonus action and expend one Bardic Inspiration die to bolster the resolve of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the Bardic Inspiration die roll + your Charisma modifier. 
+Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses. 
 
 
 ```
@@ -35,10 +35,6 @@ Also at 3rd level, you can use a bonus action and expend one Bardic Inspiration 
 
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-
-### Inspiring Leader
-
-Also at 6th level, you can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feature again until it has finished a short or long rest.
 
 ### Ride to Ruin and the World's End
 
@@ -50,7 +46,7 @@ Also at 14th level, when you use your action to cast a spell, you can make one w
 
 
 <img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-axe.png" style='position:absolute;left:0px;bottom:0px;width:780px;z-index:500' />
+  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-axe.png" style='position:absolute;left:0px;bottom:0px;width:760px;z-index:500' />
 
 
 \page
@@ -79,10 +75,6 @@ You master the handaxe, battleaxe, and greataxe. You become proficient with thes
 
 At 6th level, on your turn, when you score a critical hit with an axe or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 
-#### Credits
-
-Skáld created by /u/woulditkillyoutolift using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea."
-
 
 ```
 ```
@@ -95,9 +87,14 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 * When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon’s die.)
 * When a creature enters your spear’s reach, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands.
 * As a bonus action on your turn, you can increase your reach with a spear by 5 feet until the beginning of your next turn.
-* When you make an attack with a spear, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgeoning damage.
 
 At 6th level, your melee attack range with your spear is increased to 10 feet.
+
+
+#### Credits
+
+Skáld created by /u/woulditkillyoutolift using elements from PHB, Unearthed Arcana, and "Odyssey of the Dragonlords" Hoplite. Art is taken from "Raiders of the North Sea."
+
 
 <img
   src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/bard-skald-woman.png" style='position:absolute;right:0px;bottom:0px;width:480px;z-index:500' />
